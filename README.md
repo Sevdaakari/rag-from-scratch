@@ -75,6 +75,7 @@ python3 scripts/check_ollama_connection.py
 
 # 5. Run it
 python3 main.py
+```
 
 
 ## Example session
