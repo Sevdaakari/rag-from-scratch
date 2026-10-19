@@ -1,60 +1,99 @@
-# RAG Agent — Learning Template
+# RAG From Scratch
 
-A minimal, from-scratch Retrieval-Augmented Generation (RAG) agent, built without any 
-framework, to understand exactly how each piece works before adopting heavier tools.
+A retrieval-augmented generation (RAG) pipeline built entirely from first
+principles in Python — no LangChain, no LlamaIndex, no managed vector database.
+Every stage (chunking, embedding, similarity search, retrieval-quality
+judgment, query rewriting) is implemented directly so the mechanics are fully
+visible and debuggable, rather than hidden behind framework abstractions.
 
-Runs fully locally using [Ollama](https://ollama.com) — no API keys, no cloud calls.
+Runs fully locally via [Ollama](https://ollama.com) — no API keys, no cloud
+calls, no per-token cost.
+
+## Why build RAG from scratch
+
+Frameworks like LangChain are convenient in production, but they make it easy
+to wire together a RAG pipeline without understanding what each stage is
+actually doing to your data — how chunk boundaries affect retrieval, why
+cosine similarity is the right metric for normalized embeddings, or what a
+"low-confidence retrieval" looks like in practice. This project exists to
+make every one of those decisions explicit and inspectable, and to measure
+their effect with real numbers rather than assuming a framework default is
+good enough.
+
+## Architecture
+
+```mermaid
+flowchart TD
+    A[".txt documents"] --> B["Chunking<br/>(chunking.py)"]
+    B --> C["Embedding<br/>nomic-embed-text<br/>(embedding.py)"]
+    C --> D["Vector store<br/>cosine similarity<br/>(vector_store.py)"]
+    E["User query"] --> F["Embed query"]
+    F --> D
+    D --> G{"Agent: is retrieved<br/>context sufficient?<br/>(agent.py)"}
+    G -- "no, retries left" --> H["Rewrite query"]
+    H --> F
+    G -- "yes" --> I["Build grounded prompt<br/>(generate.py)"]
+    G -- "no, retries exhausted" --> J["Fall back:<br/>'I don't know'"]
+    I --> K["qwen2:7b generates answer"]
+```
 
 ## How it works
 
-1. **Chunking** (`chunking.py`) — splits `.txt` documents into sentence-level chunks
-2. **Embedding** (`embedding.py`) — converts each chunk into a vector using `nomic-embed-text`
-3. **Vector store** (`vector_store.py`) — cosine similarity search over chunks, implemented from scratch with numpy
-4. **Generation** (`generate.py`) — builds a context-grounded prompt and calls `qwen2:7b`
-5. **Agent loop** (`agent.py`) — judges whether retrieved context is sufficient; if not, rewrites 
-   the query and retries (up to a limit) before falling back to "I don't know"
-6. **Entry point** (`main.py`) — wires everything together into an interactive chat loop with memory
+1. **Chunking** (`chunking.py`) — splits `.txt` documents into sentence-level
+   chunks using a regex that splits on periods followed by whitespace, so
+   most abbreviation-period false splits are avoided.
+2. **Embedding** (`embedding.py`) — converts each chunk into a 768-dimension
+   vector via Ollama's `nomic-embed-text` model.
+3. **Vector store** (`vector_store.py`) — cosine similarity search over
+   chunks, implemented from scratch with NumPy (no FAISS, no managed DB).
+4. **Generation** (`generate.py`) — builds a prompt that grounds the model's
+   answer strictly in retrieved context, and calls `qwen2:7b`.
+5. **Agent loop** (`agent.py`) — after retrieval, a second LLM call judges
+   whether the retrieved context actually contains an answer to the question.
+   If not, it rewrites the query and retries retrieval (up to a configurable
+   limit) before falling back to an explicit "I don't know" rather than
+   hallucinating from insufficient context.
+6. **Entry point** (`main.py`) — wires the above into an interactive terminal
+   chat loop with conversation memory.
 
-## Setup
-
-1. Install Ollama: https://ollama.com/download
-2. Pull the required models:
-```bash
-   ollama pull qwen2:7b
-   ollama pull nomic-embed-text
-```
-3. Create and activate a virtual environment:
-```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-```
-4. Install dependencies:
-```bash
-   pip install -r requirements.txt
-```
-5. (Optional) Verify Ollama is reachable:
-```bash
-   python3 scripts/check_ollama_connection.py
-```
-
-## Usage
+## Quickstart
 
 ```bash
+# 1. Install Ollama: https://ollama.com/download
+
+# 2. Pull the required models
+ollama pull qwen2:7b
+ollama pull nomic-embed-text
+
+# 3. Set up the environment
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# 4. (Optional) Verify Ollama is reachable
+python3 scripts/check_ollama_connection.py
+
+# 5. Run it
 python3 main.py
 ```
 
-Ask questions about the sample documents in `docs/` (heavy equipment specs, maintenance 
-schedules, and company info for Caterpillar / Atlas Copco). Type `quit` to exit.
+## Example session
 
-## Known limitations (intentional, for this learning template)
+Loading knowledge base...
+Ready — 13 chunks loaded.
 
-- Sentence chunking is naive (`re.split` on periods) — breaks on abbreviations like "Inc."
-- No persistence — conversation history and embeddings are recomputed every run
-- Agentic loop can rewrite queries but cannot retrieve facts that aren't in `docs/`
-- `max_attempts` is hardcoded to 2 in `main.py`
+Ask a question (or 'quit'): How often should I change the oil on a Caterpillar excavator?
+  [attempt 1] query: 'How often should I change the oil on a Caterpillar excavator?' -> sufficient: True
 
-## Next steps
+Every 500 operating hours.
 
-- Add persistence (save embeddings/history to disk)
-- Add a proper vector database for scale (FAISS, Chroma) instead of the from-scratch numpy version
-- Expand the knowledge base
+Ask a question (or 'quit'): What's the warranty period on an Atlas Copco drill rig?
+  [attempt 1] query: 'What's the warranty period on an Atlas Copco drill rig?' -> sufficient: False
+  [attempt 2] query: 'What is the warranty duration for an Atlas Copco drill rig?' -> sufficient: False
+
+I don't know. The context provided doesn't include information about the warranty period on an Atlas Copco drill rig.
+
+```
+
+(Real transcript — not fabricated. The second example exists specifically to
+show the retry-then-fallback path, not just the happy path.)
