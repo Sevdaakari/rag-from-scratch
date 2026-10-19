@@ -75,10 +75,11 @@ python3 scripts/check_ollama_connection.py
 
 # 5. Run it
 python3 main.py
-```
+
 
 ## Example session
 
+```
 Loading knowledge base...
 Ready — 13 chunks loaded.
 
@@ -92,7 +93,6 @@ Ask a question (or 'quit'): What's the warranty period on an Atlas Copco drill r
   [attempt 2] query: 'What is the warranty duration for an Atlas Copco drill rig?' -> sufficient: False
 
 I don't know. The context provided doesn't include information about the warranty period on an Atlas Copco drill rig.
-
 ```
 
 (Real transcript — not fabricated. The second example exists specifically to
