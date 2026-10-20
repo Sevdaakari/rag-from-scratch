@@ -1,0 +1,1171 @@
+
+           U.s. Department of the Interior
+                 Mission Statement
+ As the Nation's principal conservation agency, the Department of
+the Interior has responsibility for most of our nationally-owned
+public lands and natural resources. This includes fostering
+sound use of our land and water resources; protecting our fish,
+wildlife, and biological diversity; preserving the environmental
+and cultural values of our national parks and historical places; and
+providing for the enjoyment of life through outdoor recreation.
+The Department assesses our energy and mineral resources and
+works to ensure that their development is in the best interests of
+all our people by encouraging stewardship and citizen participa-
+tion in their care. The Department also has a major responsibility
+for American Indian reservation communities and for people who
+live in island territories under U.S. administration.
+
+
+
+
+Information Circular 9424
+
+
+
+Mobile Mine Equipment Maintenance
+Safety: A Review of U.S. Bureau of
+Mines Research
+
+By Joan K. Kuenzi and Bruce C. Nelson
+
+
+
+
+UNITED STATES DEPARTMENT OF THE INTERIOR
+Bruce Babbitt, Secretary
+
+BUREAU OF MINES
+Rhea L. Graham, Director
+Ubrary of Congress Cataloging in Publication Data: (                   1111111111111111111111111111111
+                                                                              PB9S -188 991
+
+
+
+
+        Kuenzi, Joan K.
+          Mobile mine equipment maintenance safety: a review of U.S. Bureau of Mines
+        research / by Joan K. Kuenzi and Bruce C. Nelson
+
+             p.   em. - (Bureau of Mines information circular; 9424)
+
+          Includes bibliographical references (p. 14).
+
+          1. Mining machinery-Maintenance and repair-safety measures. I. Nelson,
+        Bruce C. II. TIlle. III. Series: Information circular (United States. Bureau of
+        Mines); 9424.
+
+
+
+        TN295.U4TN345            622 s-dc20          [622'.292]        94-44854        CIP
+
+
+
+
+
+Abstract. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      2
+Surface mobile mining equipment maintenance hazards                                                                                                               2
+   Mine maintenance comparisons, 1978 versus 1990                                                                                                                 2
+   Data analysis methods                                                                                                                                          3
+   Results                                                                                                                                                        3
+Review of USBM research on mobile mining equipment maintenance hazards                                                                                            5
+   Training. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      5
+   Tools                                                                                                                                        ~ . . . . . .     6
+   Mobile equipment design                                                                                                                                        6
+   Tires                                                        "..............................................                                                   6
+    Work environment and area. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  7
+Recommendations for the reduction of hazards in mobile equipment maintenance                                                                                      7
+   Training and manual design recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           7
+   Tool recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               8
+   Mobile equipment design recommendations                                                                                                                        9
+   Tire recommendations                                                                                                                                          10
+   Work environment and area recommendations                                                                                                                     10
+Review of USBM research on maintenance information support and management                                                                                        10
+   Maintenance manual design . -. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                11
+   Hard-copy versus computer-based maintenance manuals                                                                                                           11
+   Automation of maintenance information management                                                                                                              11
+Summary and recommendations for computerized maintenance manuals or maintenancc management
+  information systems (MMIS)                                                                                                                                     12
+   Acceptance of technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              13
+   Unfamiliarity or lack of data~entry skills                                                                                                                    13
+   Interfacing and control of computer hardware and software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               13
+   Difficult computer hardware and software interfaces                                                                                                           13
+   Training. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     14
+Discussion                                                                                                                                                       14
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     14
+Further reading                                                                                                                                                  15
+Appendix A.-Accident-type descriptor variablcs                                                                                                                   16
+Appendix B.-Part of body descriptor variables                                                                                                                    17
+Appendix c.-occupation or job title descriptor variables                                                                                                         18
+
+                                                                       ILLUSTRATIONS
+
+ 1. Percentage of haulage maintenance injuries by body part: 1978 versus 1990                                                                                     4
+ 2. Percentage of haulage maintenance injuries by type of injury: 1978 versus 1990 . . . . . . . . . . . . . . . . . . .                                          4
+ 3. - Percentage of haulage maintenance injuries by occupation: 1978 vcrsus 1990 . . . . . . . . . . . . . . . . . . . . .                                        5
+
+
+
+
+                                                                                  ) II
+                                                                                      11'-   -11111~mlllllllflgllllnlmi
+                                                                                      \" - - - - - - PB95
+                                                                                                     - - - --188 991
+                                                                                                             ----------
+                                                                                                                        J
+
+
+
+                     MOBILE MINE EQUIPMENT MAINTENANCE SAFETY:
+                     A REVIEW OF U.S. BUREAU OF MINES RESEARCH
+
+
+
+                                          By Joan K. Kuenzi 1 and Bruce C. Nelson 2
+
+
+
+
+                                                            ABSTRACT
+
+            This Information Circular brings together for consideration recommendations from U.S. Bureau of
+         Mines safety research in the area of surface mine mobile equipment maintenance for the period 1982
+         through 1991. It updates the 1982 contract report by Baker and Alves that formed the basis for much
+         of the work described in the present report. Recommendations for hazard abatement during work on
+         mobile mine equipment are presented and stem from the results and recommendations of the research
+         in two areas: (1) equipment and workplace hazard reduction, and (2) management of maintenance
+         information. Recommendations included in this report apply to both the operators and maintainers of
+         mobile mining equipment as well as to the manufacturers of that equipment.
+
+
+
+lIndustrial engineer.
+2Mining engineer.
+Twin Cities Research Center, U.S. Bureau of Mines, Minneapolis, MN.
+2
+
+
+                                                              INTRODUCTION
+
+    Improving both the safety and efficiency with which                      themselves large and cumbersome, need to be removed to
+maintenance is performed represents a large potential                        access parts that break down. Technical and cost data are
+savings to the mining industry. Efficient mines invariably                   essential to maintenance managers. Information on safety
+place a good deal of effort into properly managing equip-                    precautions and proper procedures are essential to the
+ment service and repair work.                                                mechanics and workers.
+    Many points of this report, and many of the references                     .U.S. Bureau of Mines (USBM) research indicates that
+cited herein, are addressed in a contract report conducted                   over one-third of all surface mining accidents occur during
+by Baker and Alves. 3                                                        maintenance of equipment, and that overexertion and slip-
+    Controlling equipment maintenance costs is one key to                    and-fall injuries occurring during maintenance of mining
+the future competitiveness of surface mining operations.                     equipment are responsible for 64 pct of all the lost-time
+A recent survey of maintenance costs at U.S. industrial                      maintenance injuries. This research also suggests that im-
+plants found that the costs and staffing for maintenance                     proving the management of information necessary to per-
+were increasing faster than for most other functions at                      form mining maintenance might improve both the safety
+ these plants, and that automated machines and electronic                    and the productivity of this work.
+controls were placing many new and different demands on                         To close out the Mobile Mine Equipment Maintenance
+maintenance systems and personnel (1).4 Maintenance                          Safety project at the USBM Twin Cities Research Center,
+costs average 96 pct of new capital investment value at                      this report presents a review of recommendations for
+some U.S.plantsand.estimates of equipment maintenance                        hazard abatement stemming from USBM research in the
+costs at U.S. mines vary from 30 to 60 pet of total op-                      area. As previously noted, the 1982 contract report by
+erating costs (1).                         .                                 Baker and Alves formed the basis for much of the work
+    The safety hazards related to maintenance work and the                   described in this report. First, a comparison of data from
+associated costs and lost-work time from accidents and in-                   1978, the first year analyzed by the researchers on this
+juries occurring during equipment maintenance cause frus-                    project, and 1990, the year the project ended, will be pre-
+tration and concern for mine operators. Workers primar.-                     sented. Next, hazards and recommendations for hazard
+ily assigned to equipment maintenance, or having some                        reductions brought forth in'past research under this proj-
+equipment maintenance tasks included in their duties,                        ect will be discussed under these subheadings: training,
+make up a large proportion of the total U.S. mining work                     tools, mobile equipment design, tire problems, and work
+force .today. The maintenance jobs required by sophis-                       environment. There were two main areas of interest with-
+ticated, modern mining equipment can be more complex                         in this project: physical hazards and information support
+and diverse than most other mining work. In some equip-                      and management. These two areas will be discussed
+ment for instance, several components that are in                            separately.
+
+
+                 SURFACE MOBILE MINING EQUIPMENT MAINTENANCE HAZARDS
+
+   Tasks required to service or repair mobile mining                                MINE MAINTENANCE COMPARISONS,
+equipment differ significantly from those required for most                                 1978 VERSUS 1990
+other surface mining work, especially in the technical com-
+plexity involved and the degree of variety encountered.                          Who performs maintenance on mobile mining equip-
+For example, whereas the operation of mobile mining                          ment? The answer seems quite easy: mechanics, welders,
+equipment tends to be repetitive and routine, the main-                      electricians, oilers and greasemen, and shopmen.· How-
+tenance of that equipment entails a wide range of complex                    ever, a review of accidents that happen to workers during
+tasks, subtasks, tools, and motions. Furthermore, repair                     maintenance in these occupations tells only part of the
+tasks on mining equipment are often urgently needed in                       story. The report by Baker and Alves reviewed mainte-
+order to minimize costly production delays and often re-                     nance accidents involving haulage trucks for the years
+quire workers to perform in cold, wet, dark, or cramped                      1978-79. It covered metal/nonmetal as well as coal
+conditions.                                                                  accidents for those years, and defined maintenance ac-
+                                                                             cidents as "...involving any personnel (regardless of job
+   3Baker, R. M., and H. G. Alves. Improved Equipment Design to              title) performing maintenance on mine haulage trucks."
+Reduce IlauJage Truck Maintenance Injuries. Final Report on ContI'3ct            The definition above broadens the pool of "maintenance
+No. 10215007, 16 August. 1982, 96 pp.                                        workers" to include: (1) laborers and helpers who may us-
+   4Ilalic numbers in parentheses refer to items in the list of references   ually be responsible for cleanup but are doing maintenance
+preceding the appendixes at the end of this report.
+                                                                                                                              3
+
+
+on a piece of equipment; (2) foremen; and (3) mobile                                        RESULTS
+equipment operators who, even though they may have had
+no formal maintenance training, may be required to in-                 The resulting data set contained 441 total surface mine
+spect and service their trucks and-even repair breakdowns           mobile equipment haulage accidents for 1978. Of those
+in the absence of the mechanic.                                     accidents, 52 (12 pct) could be attributed to occupations
+   To examine how the injury patterns of mobile mine                and activities specific to maintenance. For 1990, there was
+equipment maintenance have changed over a period of 12              a 26-pct reduction in mobile equipment haulage accidents
+years, an accident analysis was done using the U.S. De-             in surface operations. Of the ,326 accidents for that year,
+partment of Labor, Mine Safety and Health Administra-              36 (11 pet) involved maintenance activities and occupations
+tion (MSHA) mine accident-injury database for 1978 and              by this analysis. This suggests that maintenance activities
+                                                                    are becoming less hazardous at the same rate as overall
+1990.s The year 1978 was chosen because it .was the first
+                                                                   surface haulage activities. However, this apparent reduc-
+year of data used in the Baker and Alves analysis. The
+                                                                   tion in injuries could be misleading for several reasons:
+year 1990 was the most recently completed and verified in
+                                                                   First, how data from· contractor work were kept in the
+the MSHA database as of the writing of this report. The
+                                                                    database. According to USBM researchers, in 1978, con-
+database was queried using the maintenance accidents                tractor data were included in (he overall data, and in later
+definition given above.                                            years they were kept in separate files. Second, data only
+                                                                   include accidents on site. Components may be shipped off
+               DATA ANALYSIS METHODS                               site for contract repair, and· if any injuries occur, they
+                                                                   would not show up in the MSHA database.
+   All haulage accident descriptions for surface mine                  Figure 1 indicates that the percentage of trunk, upper-
+mobile equipment filed in the MSHA database for 1978               extremity, and. multiple-injury accidents increased even
+and 1990 were accessed. The mobile equipment haulage-              though the number ofinjuries decreased overall. Of the
+accident totals and information ",ere retrieved using the          injuries attributed to maintenance activities and/or oc-
+following series of descriptor variables:                          cupations, the greatest percentage in 1978 involved the
+                                                                   trunk, head-neck, and leg-foot injuries (n = 11 in each cat-
+    Mine type: Surface mining (both metal/nonmetal and             egory)' followed by multiple injuries and injuries to the
+coal).                                                             upper extremities (n = 9 in each category), and ihen body
+    Machine: Examples; haulage truck, front-end loader,            systems (n = 1). In 1990, the greatest percentage of haul-
+dozer, etc.                                                        age maintenance injuries involved the trunk (n = 10), fol-
+   Accident/Injury Code: Powered haulage.                          lowed by multiple injuries and upper extt:emities (n =8 in
+    Data were further broken down by: Occupation, Activ-           each category), then head-neck (n=6), and lastly, leg-foot
+ity at the Time of the Accident, Source, Accident Type,            (0:=4). Looking at trunk injuries specifically, the number
+and Part of Body Injured.                                          of back injuries within the trunk injury category changed
+                                                                   from 6 out of the 11 in 1978 to 8 of the 10 in 1990.
+                                                                       Figure 2 compares the percentages of each "type of in-
+    Maintenance occupations include mechanics, welders,
+                                                                   jury" for 1978 and 1990. The types of injuries recorded for
+repairmen, mechanic helpers, greasemen, oilers, elec-
+                                                                   haulage maintenance activities and occupations remained
+tricians, tiremen, electrician helpers, carpenters, wiremen,
+                                                                   basically the same from 1978 to 1990. "Struck Against"
+communications repairmen, shopmen, machinists, electri-
+                                                                   was the category that was involved in the most injuries for
+cal engineers, and maintenance foremen.                            both years (n=22 in 1978 and n=15 in 1990). The great-
+    These job categories were evaluated in relation to the         est percentage of those specilically involved being "Struck
+following list of activities that maintenance occupations          Against Moving Object" (80 pet in 1978 and 100 pet in
+were involved in during haulage accidents: getting on and          1990). The next two most frequently occurring types of
+off equipment, hand loading, handling materials and sup-           injuries for both years studied were "Struck By" and
+plies, using hand tools, using impact wrenches, inspecting         "Caught." "Overexertion" accounted for a lower percentage
+machinery, machine maintenance, and moving power ca-               than might be expected. The maintenance work done "in
+bles. Other accidents that occurred during maintenance             house" in 1990 may have involved a greater proportion of
+activities such as machinery maintenance and machine. in-          routine service, lubrication, and installing and tightening
+spection, but which were attributed to occupations other           easily accessible parts. This routine service work involves
+than those defined above, were also included in the                more static working postures than the lifting, pushing or
+accident tally..                                                   pulling required by heavier repair work, which more com-
+                                                                    monly results in "overexertion" injuries.
+                                                                       Figure 3 summarizes the range of occupations involved
+                                                                    in maintenance accidents for the 2 years studied. Besides
+   SMine Safety and Health Administration (MSHA) Accident Injury
+Database. Years 1978-1990.
+
+
+traditional maintenance personnel, mobile equipment op-                    While there has been a reduction in the overall number
+erators and managers also suffered accidents during both                of haulage-related injuries, the percentage of these injuries
+years. Information on worker hours of maintenance for                   accounted for by maintenance activities and· occupations
+each year, each occupation, and each activity would have                has remained roughly the same for 1978 and 1990. The
+been valuable to normalize the data and to make more in-                persistence of maintenance safety problems points to the
+formed comparisons. However, these data were not avail-                 need to review and update information regarding mainte-
+able, due to the difficulty of determining who performs the             nance hazards and recommendations for their abatement.
+maintenance.
+
+
+                         REVIEW OF USBM RESEARCH ON MOBILE MINING
+                              EQUIPMENT MAINTENANCE HAZARDS
+
+   In this section, hazards will be discussed in five cat-                                         TRAINING
+egories: training, tools, mobile equipment design, tire
+problems, and work environment. These categories oyer-                     Who performs maintenance on mobile mining equip-
+lap in some cases due to the fact that multiple factors can             ment and what kind of training is needed? What about
+contribute to a maintenance accident.                                   the maintenance workers who arc injured transporting
+   In dealing with maintenance hazards, the best approach               mobile equipment to the shop areas? Are they trained on
+would be to look at different hazard categories, and to                 the vehicles they drive? The following is a list of the
+decide which recommendations would be feasible for a                    training deficiencies revealed in the literature reported
+particular situation and how each guideline could be                    under this project (2-10):
+generalized from one area to another.
+6
+
+
+     1. Lack of appropriate training in proper procedures           9. The lat;:k of provision for work aids to support
+(e.g., maintenance workers driving equipment back to the       heavy components while they are being maintained (4, 6,
+shop or equipment operators maintaining their own equip-       13).
+ment without formal training) (2, 4).
+     2. Lack of effective training programs and work pro-                      MOBILE EQUIPMENT DESIGN
+cedures for manual materials handling (2, 4, 6).
+     3. Lack of 'adherence to proper equipment mainte-              Baker and Alves listed the following as a!eas on haul-
+nance and/or manual materials-handling procedures (2,4).        age vehicles that were particularly hazardous: suspension,
+     4. Improper tooluse suchas improvising'when cor-           tires, engines, arid truck bodies and cooling systems. Work
+rect tools are not available (2, 4).                            by Albin and Long iri 1987 and Albin in 1990 validated
+     5. Lack of awareness to known hazards in the area          those ftndings for haulage trucks and added hazards
+(7).                                                            involving the hoist and hoist cable, arid swing systems on
+     6. Inadequate use of personal protective equipment         power shovels (6, 13). Work by researchers in the area of
+(4).                                                            mobile equipment subsystem hazards indicated the
+     7. Lifting components that are heavier than antic-         following:            .
+ipated (4).
+     8. Improper design and use of maintenance manuals;               1.   Burns from pressure releases on the radiator (6,
+This will be discussed in more detail later.                  .13).
+                                                                     2. Persons being caught in moving fans and belts (6).
+                         TOOLS                                       3. The complexity of access for components requiring
+                                                                routine maintenance (e.g., the cooling and suspension sys-
+     It is important to define the tools used in mine main-     terns) (2, 15)..
+tenance in order'to be aware of their size, weight,and               4. Flying chips from pins being driven with hammers
+overall dimensions. Besides hand tools and powered as- . on power shovels, as well as other flying objects (6, 13).
+sist devices (such as torque' wrenches), work stands and '           5: Slips and falls (13).
+other access aids, as well as personal protective equipment,         6. Being caught in cables or moving parts (13).
+could and should be considered by the workers as tools ..            7. Poor access to the part to be worked on (both in
+since they are necessary to accomplish the job in a safe        finding adequate footing in the area of the part and getting
+and efficient manner. As defined in the American Herit-         to the actual part) (2, 3, 6, 7, 9, 10, 13, 16).
+age Dictionary, a ."tool'.' is "Anything regarded as necessary  A study by Albin and Adams in 1989 commented that
+to the carrying outof one's occupation or profession" (11).     "...maintenance workers climbed on and over machinery
+The studies considered in this review often cite inap- . where no access systems were provided an estimated 7 pct
+propriate tools as a major hazard to surfa.ce mine mobile.      of their total work time .in order. to perform routine
+equipment maintenance (2-4, 6, 12~15). The following is         maintenance and servicing tasks" (7).
+a list of .the tool-relateA deficiencies revealed in the             8. The complexity of the equipment to be maintained
+literature: .                                                  .by relatively unskilled personnel (2, 15).
+                                                                     9. Manual materials-handling requirements for very
+    . 1. The inadequacy and availability of tools used in the   large 'components in tight spaces with poor tools, clear-
+field versus the shop (4).                        .             ance, or support systems (2, 15).
+   '2. The general inadequacy and 'availability of tools            10. . Problems with securing large components during
+(i.e., not choosing or· having access to the ·correct tool,     installation and removal (2, 6, 7, 9, 10, 13, 15).
+chains failing under too great a load, and tool hand grips        . 11... Deficient guardrail and handrail designs (9, 15).
+that do not give adequate slip resistance) (2, 3, 6/ 13).           12.. Overly flexible lower rungs on access ladders (9,
+      3. The poor maintenance of tools (4, 12).                 15).
+      4. The shortcomings of work stands used for mainte-         . 13. Excessively high first-step distances (9, 15).
+nance access on specific pieces of equipment (9, 12,. 13,           14. Bad step designs (9, 15).           .
+15).                                                                15.. Access systems that used nonaccess specific com-
+      5. The excessive physical force needed to use certain,    ponents such as the tracks on dozers for mounting and dis-
+hand tools (4, 14).                       '                     mounting the piece of equipment (2, 6, 7, 9, 10, 12, 15).
+      6. The lack of personal protective equipment.
+      7. The frequency of injuries associated with welding                                 TIRES
+and cutting equipment (14).
+      8. Poor location of tools in the shop (e.g., tools            Five of the papers reviewed discussed the hazards in-
+stored anywhere space permitted; not convenient to the          volved in tire repair (2, 4, 6, 13). .Long's work in 1987
+users) (1, 4).
+                                                                                                                                    7
+
+
+cited tire work as one of the most hazardous maintenance        if there is pressure to get the work done or no enforce-
+tasks (2, 4). Baker and Alves cited seven specific hazards:     ment of safety procedures, unsafe behavior is likely to
+                                                                occur. Conversely, given an excellent safety program and
+     1. Protection for workers working on or around large       poorly designed and equipped work areas, it is also likely
+tires was not adequate (4).                                     that workers will adopt unsafe behaviors to· adapt to the
+     2. The tools used were poorly designed; required too       environment. Work by researchers indicated the following:
+much force (4,6Y.
+     3. The devices used to lift tires and wheels were not           1. Service bays were too crowded (2).
+appropriate (4, 6).                                                  2. Ventilation and lighting systems were not sufficient
+     4. Workers often improvised on tool choices due to         for the work being done (2).
+inadequate supply of correct tools.                                  3. Noise levels were exces~ive (2).
+     5. The lack of an effective tire wear and damage                4. Lack of proper work stands for work being per-
+guide so that workers could perform maintenance before          formed on mobile equipment (2).
+the tire was too worn (4).                                           5. Poor communication between workers working on
+     6. The inappropriateness of work procedures that           the same vehicle (2, 4, 12).
+were very hazardous for working on tires (4).                        6. Inadequate work room between vehicles in the
+     7. Little or no training (4).                              shop to use tire grabbers and forklifts to handle the heavy
+                                                                parts (2).
+          WORK ENVIRONMENT AND AREA                                  7. Poor housekeeping (e.g., cable management and
+                                                                grease- and oil-covered floors or truck decks) (6).
+    The interaction between the worker and the work area             8. Tools not conveniently located.
+is discussed in several studies (7, 10, 12). A study by Albin   Field versus shop hazards were discussed in several papers
+in 1988 found that the interaction between workplace de-        (4, 6). In the Baker and Alves study, 30 -pct of all
+sign and worker behavior was responsible for 49 pet of          accidents occurred outside the shop.                 .
+slip-and-fall accidents, design alone accounted for 39 pet,          9. ImprOVisation of tools needed for repair in the
+and behavior for only 11 pet of accidents studied over the      field when the resources needed were back at the shop (4).
+years 1985, 1986, and the first half of 1987 (12). This is          10. Steam burns from opening the hot radiator caps
+important in showing that in order to fully benefit workers     (6).
+in a given situation, more than just the physical design and        11. Environmental conditions in the field.
+layout of the work areas must be taken into account. The            12, Lack of appropriate lighting in the field.
+physical aspects of the work could be excellent, however,           13. Slips and falls due to uneven footing (6).
+
+
+                    RECOMMENDATIONS FOR THE REDUCTION OF HAZARDS
+                          IN MOBilE EaUIPMENT MAINTENANCE
+
+   There are two ways of thinking about where fault lies           The following subsections review recommendations for
+in accidents. Heinrich wrote in 1931 that 88 pet of the         mobile mining equipment maintenance using the hazard
+accidents he studied were due to inattentive, unsafe behav-     categories cited above. Recommendations included in
+iors (16). Other findings suggest that the fault lies more      this. report apply to both the users and maintainers of
+with the design of work and equipment, which should be          mobile mining equipment as well as to the manufacturers
+"foolproof' (3). Results presented in work by Albin             of that equipment.
+showed that the interaction of workplace design and work-
+er behavior was responsible for 49 pet of all slip-and-fall                 TRAINING AND MANUAL DESIGN
+accidents, while design factors alone accounted for another                      RECOMMENDATIONS
+39 pct and behavioral factors 11 pct (12).
+                                                                   Further information on the following recommendations
+   In their report, Baker and Alves offered what is per-
+                                                                can be found in references 2-4, 6-8, 10, 13, and 17, as well
+haps the most comprehensive and most organized list of
+                                                                as a contract report by Ferguson and others. 6
+recommendations for the reduction of hazards involved
+with equipment maintenance. One of the recommenda-
+tions listed did not fall into anyone category; it is more          6perguson, C. A, S. Mason, S. G. Collier, D. Golding, R A. Gravel-
+global and therefore should be mentioned first.                 ing, L A. Morris, A. J. Pethick, and G. C. Simpson. The Ergonomics of
+                                                                the Maintenance of Mining Equipment (including Ergonomic Principles
+   The primary recommendation was "...to maintain a posi-
+                                                                in Designing for Maintainability). Pinal report on CEC Contract No.
+tive attitude about safety at all levels of a mine's            7247/12/008, Institute of Occupational Medicine, Roxborough Place,
+maintenance department."                                        Edinburgh Ell8 9SU, 108 pp.
+ 8
+
+
+      'L Improve supervisor and employee awareness of all                         TOOL RECOMMENDATIONS
+  hazards and the weights to be lifted by the crew before
+  starting a job (3, 4, 6,7).                                         For additional information on these recommendations,
+       2. Train employees in the necessary lifting aids and         consult references 2, 4, 6, and 14.
+  manual materials-handling procedures for heavy and/or
+  awkward compone'nts (2, 4, 6, 7).                      '                1. Choose the right tools. Improve workplace knowl-
+       3. Improve employee skills training; emphasize the            edge about tools that may be more effective in certain jobs
+  importance of using and foilowing prescribed safety pro-           (2).
+  cedures using the proper tools (2).      "       ,                     Periodic research into tool manufacturing can reveal
+       4. Provide periodic refresher courses (13).                   innovative tools for old uses, as can input from employees.
+                                                                     These are the experts, and asking them for input can not
+       5. Stamp each 'component with its exact weight.
+                                                                     only yield good' ideas for improvements, but can also
+       6. If equipment maintenance workers are to be re-
+                                                                     improve employee morale and motivation to improve their
+  quired, to operate the eqbipnient they maintain, make sure
+                                                                     situation thus improving the safety attitude of, the
+, they are'trained on th"e operation of such equipment (2).          department.           ..
+     , 7. Require work planners' to add more workers to
+                                                                          2. Fabricate or provide mobile tool racks for special
+  jobs requiring heavy lifting and excessive physicalderilands .     tools (4).
+  (4).        ,     "            ,       "
+                                                                          3. Have speCialized tool sets ready with all antici-
+     8. Assign only' qualified personnel to maintenance              pated parts and tools included (4).
+ tasks (2).    '     .".                 ,
+                                                                          4. Stock enough of the proper tools so that workers
+       9. Include safe manual materials-handling proce-              will not improvise with insufficient tools (4).
+  dures in all manuals;,       .,                                         5.' Use portable stands correct for the repair (i.e., the
+      The National Institute for Occupatio~al Safety and             height of the worker is such that the repair can be made
+  Health (NIOSH) Work Practices Guide for Manual Lifting             close to the worker's body, and preferably at waist height)
+  is a good starting point for. determining manual materials-        (4).
+  handling aid needs (17, ,18).. ~his guide was developed to              6. Provide or develop a towing vehicle to tow mobile
+  aid in the analysis of lifting. A.lso, for a !'tudy that looked    mine equipment back to the shop for repair (2).
+  at recommended lifting procedures for the maintenance of              This last recommendation may be a bit farfetched for
+  underground mining equipment, see the contract report by           some of the largest capacity haulage vehicles and power
+  Ferguson and'others. 7                                             shovels. Using recommendations 2 and 3, the maintenance
+      10. Develop and implement task training programs for           shop could devise vehicles with specialized tool sets,
+ 'haulage maintenance personnel. This training should em-            ground cover (e.g., "tarps"), and lighting and power
+  phasizc hazard recognition, knowing proper job proce-              generating' capabilities that. could be dispatched to the
+  dures for the various models of the equipment, and the'            larger pieces. These specialized tool vehicles could be
+  correct tools and equipment for each job..                         responsible for repairing the vehicle or getting it repaired
+      11. Cross-reference and index systems are important            to a point that it could be driven to the shop area under
+                                                                     its own power. However, the authors feel that a vehicle
+  to the usability of manuals (4, 8).        '
+                                                                    ,capable of towing some of these immense vehicles would
+      12. Include a trouble shooting guide in manuals as a
+                                                                     pose operational and maintenance hazards of its own.
+  job performance aid (4).
+                                                                          7. Improve tool design (2).
+      13. Provide for the manuals to be easily updated so
+                                                                         Again, employees are a great resource for this informa-
+  that technical corrections, improved maintenance proce-
+                                                                     tion. They have insight into how they want the tool to be
+, durcs, and safety warnings can be passed on to the us'ers          designed in order for it to accomplish the job as easily and
+  (4).                                                               painlessly as possible. Ask for their input before spending
+      14. Make the manual compact and easily portable for            the money to'hire tool designers; they must ask the em-
+  use in working sections (4).                                       ployees anyway if the ensuing design is going to be ac-
+      15. Make manuals complete, up-to-date, and specific            cepted and used. Using the employees first helps to
+  to the piece of equipment (2, 4).                                  strengthen their feelings of control over their situation and
+      16. Emphasize hazards involved in specific mainte-             helps in the design process.
+  nance tasks in the manuals (4).                                         8. Train mechanics, and anyone else required to re-
+      17. Revise manuals to include procedure charts (i.e.,          pair or maintain their equipment, in how to choose the
+  a step-by-step list), special hazards, tools, and recom-           correct tool for the job (2).
+  mended safety procedures (13).                                          9. Management should enforce the use of proper
+                                                                     tools (2, 6).
+                                                                         In addition to enforcement, managers should practice
+ 'Work cited in [oat note 6,                                         what they preach. If required to requisition new tools and
+                                                                                                                           9
+
+
+supplies, they should take into account what the [001            component, conforms to its shape, and reduces the possi-
+should be used for and how often it is used. It should be        bility of slipping due to inadequate friction between the
+reiterated here that "tools" include work stands, hand and       component and the work aid).         .
+power tools, and personal protective equipment. The                  22. Ensure adequate protection for workers from fall-
+recommendations listed above, as well as those listed in         ing objects (e.g:, small parts) (6).         .
+the remainder of this section, should be generalized to all         23. Develop cable trees from standard pipe and flange
+of these "tools," and, especially in the case of personal        on which to attach air or water hoses and cabies, thus pro-
+protective equipment, management should not only en-             viding clear walkways.
+force but apply these recommendations to their own work             24. Install maintenance-free batteries and Society of
+practices. For example, if managers ignore the wearing of        Automotive Engineers (SAE) J1283 plugs 'that eliminate
+personal protective equipment while working in the same          guesswork as to the order or location of jumper cable
+areas as e'mployees, why should anyone wear them?                connections.
+   10. Use powered hand tools wherever possible, there-
+                                                                             MOBILE EQUIPMENT DESIGN
+by reducing the amount of force involved (6, 14). .
+                                                                               RECOMMENDATIONS
+   11. Fabricate or provide work stands that have ade-
+quate railings and toe boards that could be used within the         Refer to references 6, 7, 9, 10, 12, and 15 for' more .
+confines of haul trucks (6).                                     details on mobile equipment design.
+   12. Provide safety belts, gloves, and lines for mainte-
+nance workers involved in manual materials handling re-                1. Manufacturers should always take maintainability
+quiring postures that put them at risk (6).                      into account when designing mobile equipment, or any
+   Postures that could be considered risky include: reach-       equipment for that matter. Operator comfort is only half
+ing beyond one's physical limits, bending and twisting           of the ergonomic picture! As Albin and Long found,
+while lifting, pushing and pulling heavy components, and         among others, access constraints force workers into unsafe
+working above the shoulders and below the belt for ex-           postures both from the standpoint of sustained static pos-
+tended periods of time.                                          tures and from pinch points and moving parts in close
+   13. Develop equipment to be mounted on a forklift for         proximity (7, 13).                 "
+securing and moving components, such as personnel cages                2. Use a pressure-release radiator cap or any method
+0)·                                             .                that controls steam release so that it is away from the
+   14. Develop fixtures to support and move components           worker's hand and that also alerts workers, to pressure
+in areas where forklifts cannot be used (6).                     buildups.
+   15. Adjustable work stands allow workers to access                 3. Develop a sight glass appropriate to field condi-
+different heights on mobile equipment; these could be            tions (e.g., a transparent overflow reservoir similar to
+modeled after the hydraulic rigs used in drive train             those installed in automobiles) that could be added to the
+removal (6).                                                     cooling system to show coolant levels while the system is
+   16. Use grip-strut grating, nonskid paint, or antiskid        still closed (6).
+strips on ladder steps and work platforms (6).                        4. Install a remote opening system on thf:.coolant sys-
+    17. Use a soft metal hammer (i.e., not steel) for ham-       tem to blow off the prcssu~e while the worker'.is at a safer
+mering retainer pins when changing buckets, wear parts,          distance from the piece of equipment'(6).
+                                                                      5. Provide locking radiator caps, with limited kcy dis-
+and hoist cable systems on power shovels and loaders (6).
+                                                                 tribution. Albin admits to a problem with down time in
+    This recommendation may be a result of hazards
+                                                                 this case (6).
+caused by choosing pins of inferior quality rather than the
+                                                                      6. Install engine oil sight gauges and/or cxtended
+hammer material being "too hard." Perhaps, as an adden-
+                                                                 dipsticks.
+dum to this recommendation, the quality of all tools and
+                                                                      7. Install automatic lube systems and/or extcnded
+components used should be carefully checked~                     grease lines.
+   18. Establish tool cribs or central locations where tools          8. Install emergency kill switches on the front grill
+are kept for distribution.                                       where it can be reached from ground level (it should have
+   19. Provide effective tool maintenance (1). Always            a lockout feature).        .
+make sure that any tool to be used on a job is itself prop-           9. Provide safe positioning and footing for mobile
+erly maintained (i.e., balanced, clean, the right size, and in   cquipment maintenancc workers (provide support and re-
+working order). Give the employees who use the tools the         duce the potential for overreaching or slips and falls) (6).
+responsibility as well as the time to care for them.                 10. Use nonskid paint or antiskid strips on mobile
+   20. Shape code any tool storage racks to ensure re-           equipment decks and other flat surfaces that may serve as
+placement of tools when the job is finished.                     access system componcnts.
+   21. Ensure safe and secure positioning of heavy com-              11. Improve secure access to, and visibility of, service
+ponents (e.g., use a nylon sling that supports the               and inspection points.
+10
+
+
+    12. Install antiwhip devices or automatic shut-offs on         4. Set aside special areas for tire work. These special
+all air lines.                                                 areas should be equipped with protective screens.
+    13. - Improve access to, and the removal of, engine and        5. Use fork-lift-adapted tire grabbers.
+suspension parts by designing access areas with the user in        6. Deflate tires before changing them (both tires on
+mind. Install permanent access doors in truck hoods and        dual mounts) (6).
+suppress noise from new openings with insulation. Install          7. Fabricate or provide adequate support for tires
+lifting eyes-hooks in the engine compartment over the          while removing and working on them (6).
+most frequently removed heavy parts and rear access                8. Train tire changers in manual material handling
+openings, or the open hood area and over suspensions to        procedures (6).
+aid in slinging and stabilization during removal.                  9.. Contract out for tire work.
+    14. Employ alternate means of fitting and removing
+close tolerance parts. Baker and Alves recommend hy-                    WORK ENVIRONMENT AND AREA
+draulic presses, pullers, and impacts, or cryogenically                     RECOMMENDATIONS
+freezing parts using liquid nitrogen.
+    15. Develop standard operator controls on vehicles of         See references 2, 12, and 18 for more information on
+the same type (e.g., all haulage trucks).                      these recommendations.
+    16. Fabricate or provide access ladders that have ade-
+quate grourid-to-first-step clearances (greater than 30             1. Light any maintenance work area well using auto-
+inches), have step designs that permit material to flow        motive hang lights or other means (2).
+freely and not accumulate, and provide adequate handrail            2. Improve the organization of the work area by im-
+                                                               proving work area housekeeping and cable management
+and guardrail designs (9, 15) that can be retracted when
+not in use. Do not mount them to the bumper as this may        (12).
+                                                                    3. Improve the physical design of maintenance bays
+result in large shear forces at the highest point of the
+                                                               to reduce crowding; maintain good housekeeping and cable
+ladder,. do not install them on the side of the truck unless
+                                                               management (12).
+the truck moves sideways, keep the weight as low as pos-
+                                                                    4. Give workers who are working on the same piece
+sible, and maintain step width over the length of the access
+                                                               of equipment a way to communicate with one another via
+system (10).
+                                                               lockout/tagout or headsets.
+    17. Install handholds where workers need to access
+                                                                    5. Improve the exhaust systems in welding areas as
+vehicles.                                                      well as the maintenance shop in general (2, 12).
+                                                                    6. Take steps to dampen the noise associated with
+              TIRE RECOMMENDATIONS                             metal components and power tools (2).
+                                                                    7. For field work, make sure all tools, parts, and
+   Recommendations in this section could have fit under        portable power generators are included in a vehicle de-
+either the tool or work station subheadings, however, as       signed for a mobile work area.
+the injuries a~sociated with tires are severe and sometimes        This vehicle should be able to provide adequate lighting
+fatal, it was deemed important to separate them. Refer-        over a broad variety of weather conditions, adequate
+ences 4 and 6 address these recommendations.                   power to run necessary equipment from the battery
+                                                               capability of the repair vehicle, and storage capability to
+     1., Fabricate or provide tire cages for tire changing.    haul used components back to the shop. Communication
+     2. Use only specially-designed (and well-maintained)      is still important in the field, so communication apparatus
+mounting tools for tire work..                                 and lockout/tagout equipment should be part of the
+     3. Mount damaged or worn tires on the inside of the       vehicle stock. There should also be a means of accessing
+vehicle so that when and if it blows in transit, the pos-      components (e.g., an adjustable work stand as part of the
+sibility for injury is lessened.                               vehicle as in a line truck for the telephone company).
+
+
+                          REVIEW OF USBM RESEARCH ON MAINTENANCE
+                           INFORMATION SUPPORT AND MANAGEMENT
+
+   As previously discussed, USBM research on mainte-           equipment" are performed in any manner other than the
+nance accidents shows that "failure to follow proper pro-      specific manufacturer's recommended work practices,
+cedures" represents a prominent risk factor associated with    whether unknowingly or deliberate (5). These findings
+such accidents (2, 4). Work safety and efficiency can be       suggest that any improvements in the information neces-
+seriously compromised whenever repairs on "off-road mine       sary to manage and perform mining maintenance might
+                                                                                                                          11
+
+
+improve both safety and productivity, because productivity       improvements in equipment repair manuals and the in-
+declines rapidly whenever improperly maintained equip-           dustry standards that have been established to direct them,
+ment fails during production.                                    thereby improving the safety of mining equipment main-
+    The communication and management of vast amounts             tenance work.
+of maintenance information is crucial to the safe, efficient
+performance of mine maintenance work. To safely per-                   HARD-COPY VERSUS COMPUTER-BASEP
+form their work, maintenance workers must be aware of                        MAINTENANCE MANUALS
+the dangers associated with mine equipment maintenance
+work such as charged capacitors, pressurized lines or ves-            The second study was a comparison of hard-copy man-
+sels, hot parts or fluids, or heavy parts that will have to be    uals versus an information access program for computer~
+handled, etc., as well as the correct procedures arid the         based mainten~ce. Four different formats of an existing
+proper order to conduct the work. Previous project work           mining equipmentrepair manual were prepared: (1) orig-
+has identified several areas in which technical documen-          inal printed text, (2) printed text improved according to
+tation of service and repair procedures might be improved,        design guidelines cited above, (3) computerized version of
+particularly in the areas of locating and reading the in-         original text, and (4) computerized version ofimproved
+formation, graphics presentation, currentness of the in-
+                                                                  text with additional help features. Students in a' diesel
+formation, and the time needed to. acquire the needed
+                                                                  mechanics Class were tested for proficiency in accessing
+information (5).
+                                                                  and understanding information presented in these different
+   The amount of information that must be. incorporated
+                                                                  manual formats (8).                        .
+to effectively manage a maintenance program represents
+                                                                     Results of this study indicated that: (1) although the
+a significant human factors problem in its own right.
+Technical information, specifications, and procedures for         users accessed the information less quickly using the coin-
+each machine must be incorporated with operator reports,          puter than with hard copy, they positively endorsed the
+inspection reports, diagnostic readouts, service and repair       computerized hypertext presentation of maintenance in-
+histories, parts inventories, parts and labor costs and avail-    formation; and (2) enhanced text readability and indexing
+ability, preventive maintenance schedules, and so forth.          improved access to, and understanding of, maintenance in-
+This section will review three USBM studies related to            formation, but this improvement was not subjectively ap-
+maintenance information support and management in min-            preciated by the users relative to other manuals they had
+ing. The general topic area of these three studies are: (1)       used. Diffleulty in finding material with the hypermedia
+maintenance manual design, (2) automation of mainte-              format and in reading text from the computer screen were
+nance information management, and (3) hard-copy versus            observed to be factors in degrading performance of the
+computer-based maintenance manuals'-                              computer subjects. Insufficient training time was probably
+                                                                  also a factor, but because everyone received the same
+          MAINTENANCE MANUAL DESIGN                               training, this cannot be confirmed. Since computerized
+                                                                  storage and display of maintenance information represents
+    The first of the 3 USBM studies involved conducting in-       an inevitable technology advance, more research is needed
+terviews with 36 maintenance workers. ,The purpose of             to understand the human-factors aspects of this technology
+these interviews was to evaluate 16 mining equipment ser-         before electronic display of maintenance information re-
+vice and repair manuals, not for technical content, but for       places hard copy. This research should investigate training
+several variables important to the human factors design of        needs for maintenance workers to help them develop the
+the manual: readability, legibility, organization, and in-
+                                                                  proficiency needed to use computerized hypermedia man-
+dexing. These design factors were specified in accordance
+                                                                  uals, the minimum computer screen resolution needed,
+with SAE Recommended Practice J920 (19), Military
+                                                                  and whether providing a hard-copy printout of the
+Specification Mil-M-38784B (20), and other significant re-
+                                                                  electronically-stored information can improve the per-
+search findings on the design of technical manuals (5).
+                                                                  formance of the overall system. More study should also
+    Major findings from this research include: (1) de-
+ficiencies in manuals do exist (as perceived by workers,          be done to confirm whether minimum readability indices
+and as measured against standards); (2) these deficiencies       'should be specified as a goal for all mine equipment main-
+contribute to a lack of use by workers, probably contribute       tenance manuals, and if so, what level should be specified
+to increasing costs and accidents in maintenance work, and        (8).
+increase the risk of liability suits against manufacturers;
+(3) the equipment industry has demonstrated a desire and                   AUTOMATION OF MAINTENANCE
+some activity to improve manuals; and (4) human perform-                    INFORMATION MANAGEMENT
+ance tests confirm that specific improvements to manuals
+do improve worker access, understanding, and acceptance.            The last of the three studies involved maintenance man-
+    It is anticipated· that specific conclusions and             agement software. This software logs and tracks informa-
+recommendations from this research will help guide               tion crucial to the efficient management of the equipment
+ 12
+
+
+, maintenance function. It is used to track work completed,      understand what specific questions could be answered
+  work that needs to be completed, and expected planning         within the system; did not understand how to access such
+  requirements for the work. Maintenance management              an answer from the on-line computer; or did not have the
+  software appears to offer imp~oved safety and up to 30-pct     time or the technical confidence to explore it.
+  improvement in the efficiency ,and overall operating costs          4. Some of the systems, especially the mainframe sys-
+  for some mechanized operations. Furthermore, in some           tems, have been quite inflexible or very difficult to access
+  cases, a complete desktop computer system with the main-       in a flexible way, making it even harder for these managers
+  tenance management software included can be purchased          to learn. ,
+  for under $10,000. However, implementing these pro-                 5. The workers assigned to interface with the system
+  grams within a mining operation often results in human-        did not feel comfortable or confident with the computer
+  facto~s difficulties that can be very frustrating and that ,   operation, the disk operating system, or the database com-
+  result in costly mistakes and wasted time. Therefore, to       mand language.
+  avoid these mistakes and difficulties in the future, and to         6. The people assigned to interface with the system
+  ensure success in implementing these powerful new cost-        did not feel comfortable with the large data-entry require-
+  saving programs, it is essential to conduct careful eval-      ments, especially during the beginning phase when the sys-
+  uation, pla~ning, training, and ongoing support (with          tem had to be loaded with large amounts of background
+  special consideration for the humari factors of using such     information to get started.
+  software) (21).                                                     7. The organization tried to get by with less training
+     A recent report outlines the characteristics and prob-      and support than was suggested or needed as a means to
+  lemsof implementing a program using this software and          save money.
+  reviews several human factors"principles and plans that can         8. The day-to-day data entry was not kept current,
+  help mine operators overcome the mistakes and difficulties     and/or the system was used only as a routine monthly or
+  mentioned earlier and help guide the implementation of         quarterly report generator, which takes away many of the
+  these pr'ograms to a greater probability of success in the     advantages of storing the data on an on-line computer
+  future (21).                  '                                (i.e., if the information is not current, it is useless for
+    'Ten mistakes cited by mining operations that have en-       guiding day-to-day decisions and generating daily work or-
+  countered difficulty implemen"ting these programs are (22):    ders or inventory reorders).
+                                                                      9. The system was run in isolation from the produc-
+      1. 'Too few people in the 'organization understood the     tion people, thereby losing their commitment to the pro-
+ vast amount of information involved in coordinating equip-      gram, which is vital for a tightly scheduled program like
+ ment maintenance; or they miscalculated the human logis-        this to work. Input from production people can also pro-
+ tics of entering all the pertinent background data into the     vide observations of the operating conditions and machine
+ computer; or maintaining all these records from day to          response that are essential to tracking the underlying
+ day.,                                                           causes to any machine maintenance needs, especially in a
+      2. ,Some' people in the organization did not under-        rugged mine environment.
+ stand the need or the benefit for sophisticated (compu-             10. The system was given up on to some degree before
+ terized) management of this information.                        it was fully implemented or its impact fully realized.
+      3.,' Those 'managers, who could really make produc-
+ tive use of this data for day-to-day decisions, did not
+
+
+SUMMARY AND RECOMMENDATIONS FOR COMPUTERIZED MAINTENANCE MANUALS
+      OR MAINTENANCE MANAGEMENT INFORMATION SYSTEMS (MMIS)
+
+ 'Studies of human-computer interaction have found that          where performance differences were greatest" Some of
+individual performance differences can be enormous com-          these interface improvements have merely reduced or sim-
+pared with those found in most work settings. Four recent        plified some of the commands, while others have devel-
+approaches to these user differences that mix specialized        oped' into very novel improvements to interface design
+interface design and specialized user training in different      such as menu driven interfaces, natural language inter-
+proportions have been fairly successful (9). These are:          faces, on-line aiding <HELP> interfaces, input devices
+                                                                 (i.e., joysticks, mice, light pens, and touch screens),
+,    1. ' Robust interfaces that have been altered, based on     graphic-oriented interfaces, windowing systems, and speech
+ lJser testing, to improve performance on those features         output and recognition systems.
+                                                                                                                        13
+
+
+    2. User prototypes that are programmed to interface             5. Organize responsibility for the maintenance func-
+with specific user groups have proven helpful where the         tion to be shared with operations, giving a better environ-
+existence of strongly defined groups mandates that each         ment for maintenance success.
+group be treated separately.
+    3. Adaptive training systems that deal with errors          UNFAMILIARITY OR LACK OF DATA-ENTRY SKILLS
+during practice by blocking certain errors, prompting cor·
+rect responses, and/or giving feedback following errors.           Unfamiliarity and lack of skills or comfort for data en-
+This help can be provided in a separate training system for     try among maintenance workers given the large data-entry
+practice only, but it has also achieved success when incor-     requirements of these systems is a corrimon problem. This
+porated into the working system and made appropriate to         problem is especially evident during the beginning phase,
+aid even the skilled user.                                      when the system has to be loaded With all the back-dated
+    4. Mastery learning approaches allow each student as        information to get started.
+much time and instruction as needed to master a program            Recommendations: .
+by separating the operation into small units and objectives,
+and providing testing and follow-up until each part is
+                                                                    1. Increase training and practice.·
+mastered.
+                                                                    2. Upgrade to hardware that allows bar code readers
+                                                                to automatically do some of the data entry.   .
+    Carroll and Olson (22) showed that modeling or giving
+                                                                    3. Provide graphical-based, menu-driven software.
+a flow diagram of complex computer-software interaction
+can help, especially for novice users. Sheridan (23)
+showed that for systems that take over some of the pre-           INTERFACING AND CONTROL OF COMPUTER
+vious ~uman tasks and control, making the system "human                  HARDWARE AND SOFTWARE
+trustable" is as important as making it "human usable."
+   Obstacles that have precluded acceptance or success of          Unfamiliarity and lack of skills among maintenance
+technology for computer manuals or MMIS in the past can         workers for interfacing and controlling computer hardware
+be largely summed up with the following five factors: (1)       and software can be a serious problem when implementing
+acceptance of technology, (2) unfamiliarity or lack of data-    these systems.
+entry skills, (3) interfacing and control of computer hard-        Recommendations:
+ware and software, (4) difficult computer hardware and
+software interfaces; and (5) training (21). The following           1. Increase training and practice.
+evaluation discusses possible solutions or approaches to            2. Upgrade to hardware that allows bar code readers
+overcome these obstacles.                                       to automatically do some of the data entry.
+                                                                    3. Provide graphical-based, menu-driven software.
+          ACCEPTANCE OF TECHNOLOGY                                  4. Assign someone in the organization who is already
+                                                                familiar with the interface and operating system to help
+   The lack of managerial confidence, or commitment to          get the system going.
+MMIS technology is a common problem when implement-
+ing this technology. The lack of adequate understanding              DIFFICULT COMPUTER HARDWARE AND
+of the needs for, and the benefits of, this technology is the                 SOFTWARE INTERFACES
+cause.
+   Recommendations:
+                                                                Recommendations:
+    1. Provide basic orientation and training about the
+system for managers (MMIS, finance, maintenance, and a              1. Provide menu-driven software and interface.
+production executive).                                              2. Upgrade to hardware that allows bar code readers
+    2. Conduct an accurate economic evaluation and esti-        to automatically do some of the data entry.
+mate of benefits to be gained at the operation.                     3. Provide graphics-based software and hardware
+    3. Establish early involvement, by the managers men-        interface.
+tioned earlier, in decisions about how the system will be           4. Assign someone in the organization who is already
+implemented and maintained..                                    familiar with the interface and operating system to help
+    4. Establish clear lines of responsibility for imple-       get the system going.·            .      .
+menting and maintaining the system.
+ 14
+
+
+                             TRAINING                                        1. Provide more and better training.
+                                                                             2. Establish clear lines of responsibility for im-
+    Poorly formulated or implemented training approaches                  plementing and maintaining the system.
+ for introducing these systems among maintenance workers                     3. " Provide support from one or several facilitators
+ is common.                                                               and technical experts on the system.
+    Recommendations:
+
+
+                                                              DISCUSSION
+
+     The recommendations presented in this report come                    to discover what can be changed and what will be cost ef-
+  from almost a decade of research under the Mobile Mine                  fective. These recommendations are meant to be used as
+  Equipment Maintenance Safety project at the USBM.                       they fit the situation; not all at once.
+. They cover a variety of areas from manual design to the                    The best guideline to start with is TO CREATE A
+  design of tools used. This report should be used as an                  POSITIVE ATTITUDE TOWARDS SAFETY
+  overview from which the reader can obtam resources for                  THROUGHOUT A MINE'S MAINTENANCE DE-
+  more mformation.                                                        PARTMENT. The following is a quote from Baker and
+     It is important to think of work safety as a dynamic                 Alves: "While the chance for these errors can be sig-
+  system: change one thirig and a cham reaction could be                  nificantly reduced through the improved design of the
+  started. Careless and hasty implementation can have dis-                work environment, including the procedures followed on
+  astrous results. In any given mine maintenance situation,               the job, hardware improvements do not, alone, guarantee
+  there are aspects of the work that cannot be changed.                   success in reducing accidents. Attitudes towards safety
+  New equipment that complies with all the above equip-                   must originate with a commitment from top management
+  ment design recommendations will not be instantly avail-                and filter down to the newest hire. Organizations with a
+  able, nor will" it be cost effective for all mine sites to              positive attitude towards safety as a means to higher pro-
+  immediately purchase them. Rather than scrapping an er-                 ductivity most often enjoy excellent safety records."
+  gonomic approach to safety, analyze the present situation
+
+
+                                                             REFERENCES
+
+    1. Nolden. C Plant Maintenance Costs. Plant Engineering, July 23.     Formats. Proceedings of the Human Factors Society, 34th Annual
+ 1987, Technical Publishing Co., pp. 24-25.                               Meeting, 1990, pp. 229·233.
+    2. Long, D. A. An Analysis of Off.Highway Haulage Truck Mainte-          9. Long, D. A. Improved Personal Access for Surface Mining Equip-
+ nance arid Repair Accidents; 1978-19&4. USBM IC 9139, 1986, 15 pp.       ment. USBM IC 8983,1984,19 pp.
+    3. Albin, T. J., and W. P. Adams. Slip-and-Fall Accidents During        10. Nelson, B. C, and T. J. Smith. Workshop Safety: Maintenance
+ Equipment Maintenance in the Surface Mining Industry, USBM IC 9249,      of Mining Equipment is Dangerous-Take Care! E&MJ, Dec., 1991,
+ 1990, 13 pp.         " . .                                               pp.24-26.
+    4. Long, D. A. Off-Highway Haulage Truck Maintenance Safety. In:        11. Morris, W. (ed.). The American Heritage Dictionary of the
+ Safety in the Use and Maintenance of Large Mobile Surface Mining         English Language. Houghton Mifflin Company. Copyright 1981,
+ Equipment. Proceedings: Bureau of Mines Technology Transfer Sem-         p.1,353.
+ inars, -Tucson, AZ, Aug. 16, 1983, Denver, CO, Aug. 18, 1983, and St.      12. AJbin, T. J. Relative Contributions of Behavior to Slip and Fall
+ Louis, MO, Aug. 23, 1983, USBM IC 8947, pp. 55-62.                       Accidents in Mining Maintenance. In Proceedings of the Human Factors
+    5. Nelson, B. C., and W. P. Adams. An Evaluation of Service and       Society, 32nd Annual Meeting, 1988, pp. 511-514.
+ Repair Manual Design. SAE Technical Paper Series #881329, Interna-         13. Albin, T. J., and D. A. Long. Analysis of Maintenance and Repair
+ tional .0ff.Highway and Powerplant Congress and Exposition, Mil-         Accidents on Haulage Trucks. In: Human Engineering and Human Re-
+ waukee, WI, Sept. 12·15, 1988, 15 pp.                                    sources Management in Mining. Proceedings of Bureau of Mines Tech-
+    6. Albin, T. J. Assessment of Accident Risk During Haulage Truck      nologyTransfer Seminars, Pittsburgh, PA, July 7-8, 1987; 5t. Louis, MO,
+ and Power Shovel Maintenance and Recommendations for Improved            July 15-16, 1987; and San Francisco, CA, July 21-22, 1987, USBM
+ Safety.. USBM IC 9246, 1990, 7 pp.                                       IC 9145, 1987, pp. 75-81.
+    7. Albin, T. J., and W. P. Adams. Slip and Fall Accidents During        14. Tierney, M. P. Analysis of Injuries Associated with Maintenance
+ Equipment Maintenance in the Surface Mining Industry. Advances in        and Repair in Metal and Nonmetal Mines. MESA Informational Report
+ Industrial Ergonomics and Safety I, ed. by A. Mital, Taylor & Francis,   1058, 1977,34 pp.
+ 1990, pp. 585-591.                                                         15. Long, D. A. Solving the Problem of Getting On and Off Large
+    8. Nelson, B. C, and T. J. Smith. User Interaction with Maintenance   Surface Mining Equipment. In: Safety in the Use and Maintenance of
+ Information: A Performance Analysis of Hypertext Versus Hard Copy        Large Mobile Surface Mining Equipment. Proceedings of Bureau of
+                                                                                                                                               15
+
+
+Mines Technology Transfer Seminars, Tucson, AZ, Aug. 16, 1983, Den-        19. 1987 SAE Handbook. Volume 4 - On-I1ighwayVehicles and Off-
+ver, CO, Aug. 18, 1983, and St. Louis, MO, Aug. 23, 1983, USBM IC        HighlJl1lY Machinery. SAE, Inc., Warrendale, PA, 1987, pp. 40.389-40.390.
+8947, 1983, pp. 3-16.     "                      ,'                        20. U.S. Government Printing Office. Military Specification. Tech-
+  16. Heinrich, H. W. Industrial Accident P~evention: A Scie'nti~c Ap-   nical Instruction Documents. DOD-Mil~M-3878B, 1982-0-605-031/3319,
+proach. First Edition, McGraw-Hill Insurance Series, ed. by Ralph H.     Mar. 1982, 143 pp.
+Blanchard, McGraw-Hill Book Company, Inc" New York and London,             21. Nelson, B. C. Implementing Maintenance Management Software
+1931,234 pp.                                                             in Mining: A Human Factors Analysis. Advances in Industrial Ergo-
+  17. Work Practices Guide for Manual Lifting. U. S. Department of       nomics III, cd. by W. Karwowski and J. W. Yates. Taylor & Francis, ed.
+Health and Human Services (DHHS), Public Health Service Centers for      1991, pp. 923-930.
+Disease Control (CDC), National Institute of Occupational Safety and       22. Carroll, J. M., and J. R Olson. Mental Models of Computer
+Health (NIOSH), Division of Biomedical and Behavioral Science, Cin-      Interaction. In: Handbook of Human-Computer Interaction, ed. by M.
+cinnati, OH, Mar. 1981. Report number. 81-122, 183 pp.                   Helander. North-Holland: Elsevier, 1988, pp. 45-65.
+  18. Waters, T. R, V. Putz-Anderson, A. Garg, and L. J. Fine. Revised     23. Sheridan, T. B. Task Allocation and Supervisory Control. In:
+NIOSH Equation for the Design and Evaluation of Manual Lifting           Handbook of Human-Computer Interaction, cd. by M. Helander.
+Tasks. Ergonomics, 1993, v. 36, No.7, pp. 749-776.                       North-Holland: Elsevier, 1988, pp. 159-174.
+
+
+
+
+                                                       FURTHER READING
+
+    Butani, S. J., and Bartholomew, A M. Characterization of the 1986       Jones, R. M., W. G. Freeman, M. L. Christo, and L. Allebery.
+Coal Mining Workforce. USBM IC 9192, 1988.                               Improved Tire Inspection for Large Mobile Mining Equipment. U.S.
+    Butani, S. J. Hazard Analysis of Mining Equipment by Mine Type       Department of Commerce NTIS Publication No.: PB81-194 532, 1978,
+and Geographical Region. Published as Chapter 14 in: Engineering         1&4 pp.
+Health and Safety in Coal Mining. Proceedings of the Symposium held
+at the SME Annual Meeting in New Orleans, lA, Mar. 2-6, 1986.
+16
+
+
+     APPENDIX A.-ACCIDENT-TYPE DESCRIPTOR VARIABLES
+
+             l--STRUCK AGAINST STATIONARY OBJECt
+             2-STRUCK AGAINST MOVING OBJEer
+             3-STRUCK BY CONCUSSION
+             4--STRUCK BY FALLING OBJEer
+             5-STRUCK BY FLYING OBJEer
+             6-STRUCK BY SLIDING OBJECT
+             7-STRUCK BY POWERED OBJEer
+             8-STRUCK BY NEC·
+             9-FALL DOWN RAISE, SHAFT
+            l~FALL FROM WALKWAY
+            ll-FALL FROM HEADFRAME
+            12-FALL FROM MACHINE
+            l3-FALL FROM PILED MATERIAL
+            14-FALL FROM LADDER
+            15-FALL FROM STAIRS
+            16-FALLNEC
+            17-FALL TO WORKING SURFACE
+            IS-FALL AGAINST OBJECT
+            19-FALL ON SAME LEVEL, NEC
+            2O-CAUGHT IN MESHING OBJECTS
+            21-CAUGHT IN MOVING, STATIONARY OBJEcr
+            22-cAUGHT IN TWO MOVING OBJECTS
+            23-CAUGHT IN COLLAPSING MATERIALS
+            24-CAUGHT IN NEC
+            25-RUBBED OR ABRADED
+            26-BODILY REACTION
+            27-DVER-EXERTION, LIFTING
+            28-0VER-EXERTION, PUSHING-PULUNG
+            29-0VER-EXERTION, WIELDING, THROWING
+            3O-OVER-EXERTION, NEC
+            31-ELECTRIC CURRENT
+            32-CONTACT WITH HEAT
+            33-CONTACT WITH HOT SUBSTANCE
+            34-CONTACT WITH COLD
+            35-CONTACT WITH COLD SUBSTANCE
+            36-INHALATION OF TOXICS
+            37-INGESTION OF TOXICS
+            38-ABSORPTION OF TOXICS
+            39-FLASH BURNS, ELECTRIC
+            4O-FLASH BURNS, WELDING
+            41-DROWNING
+            42-NEC
+            43-INSUFFICIENT DATA
+            44-ACCIDENT, NO INJURIES
+
+            ·Not Elsewhere Classified
+                                                17
+
+
+APPENDIX B.-PART OF BODY DESCRIPTOR VARIABLES
+
+           lOO-HEAD, NEC'''
+           llo-BRAIN
+           nO-EAR
+           l2l-EXTERNAL EAR
+           l22-INTERNAL EAR
+           nO-EYES
+           l41-JAW, CHIN
+           142-MOUTH
+           143-NOSE
+           l44-FACE
+           ISO-SCALP
+           16O-SKULL
+           17o-HEAD, MULTIPLE PTS.
+           2ao-NECK
+           300-UPPER EXTREMITIES, NEC
+           31l-UPPER ARM
+           312-ELBOW
+           313-FOREARM
+           314-ARM, MULTIPLE INJURIES
+           31o-ARMNEC
+           32o-WRIST
+           33O-HAND
+           340-FINGERS
+           3So-UPPER EXTREMITIES, MULTIPLE
+           400-TRUNK, NEC
+           41o-ABDOMEN (INTERNAL ORGANS)
+           42o-BACK
+           43O-CHEST
+           44O--HIPS
+           4SO-SHOULDERS
+           46o-TRUNK, MULTIPLE INJURIES
+           SOo-LOWER EXTREMITIES, NEC
+           Slo-LEG NEC
+           Sll-THIGH
+           S12-KNEE
+           Sl3-LOWER LEG
+           Sl4-LEG, MULTIPLE INJURIES
+           S2o-ANKLE
+           S3O-POOT
+           S.w.;-TOES
+           SSo-LOWER EXTREMITIES
+           60o-BODY SYSTEMS
+           700-MULTIPLE INJURIES
+           SOO-BODY PARTS, NEC
+           9GO-UNCLASSIFIED
+
+           ·Not Elsewhere Classified
+18
+
+
+         APPENDIX C.-QCCUPATION OR JOB TITLE DESCRIPTOR VARIABLES
+
+      I-BELTMAN                      75-GRADER OPERATOR
+      2-ELECI'RICIAN                 76-TRUCK DRIVER
+      3-ELECTRICIAN HELPER           78-CRANE OPERATOR
+      4-MECHANIC, REPAIRMAN          82-FRONTEND LOADER OPERATOR
+      5-MECHANIC HELPER             101-cONVEYOR MAN
+      6-ROCK DUSTER                 102-ELECfRICIAN
+      7-BLASTER                     103-ELECTRICIAN HELPER
+      8-MASON, VENTLINE             I04-MECHANIC
+      9-SUPPLYMAN                   I05-MECHANIC HELPER
+     1o-TIMBERMAN                   I06-ROCKDUSTER
+     ll-WIREMAN, COMM REPAIR        I08-STOPPING BUILDER
+     15-FAN ATTENDANT               I09-SUPPLYMAN
+     16-LABORER, PROPMAN            llo-JACKSTER
+     19-CEMENT MAN                  Ill-WIREMAN
+     24-TRAINEE                     112-BELT VULCANIZER
+     25-BOBCAT DRIVER               113--CLEANUP MAN
+     26--GRIZZLY MAN                ll4-COAL-MN SAMPLER
+     ZS-SCOOP, TRAM OPERATOR        115-FAN ATIENDANT
+     29-MUCKING MACHINE OPERATOR    116--LABORER, MUCK MACH OP
+     3O-SLUSHER OPERATOR            117-RODMAN
+     31-BEATER, SHOTFIRE HELP       ll8-0ILER, GREASEMAN
+     32-BRATTICE MAN                119-WELDER, CEMENT MAN
+     33-DRILL HELPER                122-DUMP OPERATOR
+     34-DRILL OPERATOR              123-TRANSIT MAN
+     35-cONT MINER HELPER           124-TRAINEE
+     36-CONT MINER OPERATOR         126--GRIZZLY MAN
+     37-cUTTING MACHINE HELPER      128-GIZMO OP
+     38-cUTTING MACHINE OPERATOR    149-LABOR FOREMAN
+     39-HAND LOADER                 154-BELT CLEANER
+     4O-HEADGATE OPERATOR            155-CHAINMAN
+     41-JACK SETTER                 156-ROCKDRILLER
+     42-LOADING MACHINE HELPER      157-PUMPER
+     43-LOADING MACHINE OPERATOR    158-ROCK MACHINE OP
+     44-LONGWALL SHEAR OPERATOR     159-WATERLINE MAN
+     45-ROCKMAN, CHUTE              16O-SHOPMAN, MACHINIST
+     46-ROOF BOLTER                 163-MINER, NEC
+     47-ROOF BOLTER HELPER          167-POWER SHOVER OPERATOR
+     48-ROOF BOLTER MOUNTED         168-BULLDOZER OPERATOR
+     49-SECI'ION FOREMAN            175-GRADER OPERATOR
+     50-SHUTTLE CAR OPERATOR        176-TRUCK DRIVER
+     51-STALL DRIVER                178-CRANE OPERATOR
+     52-TAILGATE OPERATOR           182-FRONTEND LOADER OPERATOR
+     53-UTILITY MAN                 201-BELTMAN
+     54-SCOOP CAR OPERATOR          216-TRACKMAN
+     57-STOPE MINER                 22O-CAGER
+     58-DRIFT MINER                 221-HOISTMAN
+     59-RAISE MINER                 224-TRANSPORTATION TRAINEE
+     63-MINER NEC                   23O-SKIP TENDER
+     64-cONTRACI' MINER             240-LOADER, HEADER OPERATOR
+     67-POWER SHOVER OPERATOR        255-CHAINMAN
+     68-BULLDOZER OPERATOR           261-BATTERY STATION OPERATOR
+                                                                                19
+
+
+  262-BRAKEMAN, ROPE RIDER        373-cAR DROPPER
+  265-DISPATCHER                  374-BONEY OPERATOR
+  269-MOTORMAN                    3754JRADER OPERATOR
+  276-TRACTOR OPERATOR            376-TRUCK DRIVER
+  277-BUGGY PUSHER                378-DRAGLINE OPERATOR
+  301-BELT MAN                    379-KILN OPERATOR
+  302-ELECTRICIAN                 38o-FINE COAL PLANT OPERATOR
+  303-ELECTRICIAN HELPER          38I-HOIST OP HELPER
+  304-MECHANIC                    382-HIGHLIFf OPERATOR
+  305-MECHANIC HELPER             383-HIGHWALL DRILL HELPER
+  307-BLASTER                     384-HIGHWALL DRILL OPERATOR
+  308-MASON                     . 385-LAMPMAN
+  309-SUPPLYMAN                   386-REFUSE TRUCK DRIVER
+  311-cOMMUNICATIONS REPAIR       387-ROTARY BUCKET EXCAV OPERATOR
+  3I2-BELT VULCANIZER             388-SCALPER-SCREEN OPERATOR
+  3I3-cLEANUP MAN                 389-FORKLIFf OPERATOR
+  314-COAL, MN SMPLER             39O-SILO OPERATOR
+  3I5-FAN ATTENDANT               391-STRIPPING SHOVEL OPERATOR
+  3I6-LABORER                     392-TIPPLE OPERATOR
+  3I7-RODMAN                      393-WEIGHMAN
+  3I8-0ILER, GREASER              394-CARPENTER
+  3I9-WELDER                      395-WATER TRUCK OPERATOR
+  32G-CAGER                       396-WATCHMAN
+  32I-HOISTMAN                    397-YARD FOREMAN
+  322-DUMP OPERATOR               398-STONE FINISHING
+  323-TRANSIT MAN                 399-DIMENSION STONE CUTTER
+  324-TRAINEE                     402-MASTER ELECTRICIAN
+  325-BOBCAT OPERATOR             404-MASTER MECHANIC
+  327-SURFACE MINER               4I4-DUST SAMPLER, LAB TECH.
+  33O-SKIP TENDER                 418-MAINTENANCE FOREMAN
+  33I-cLAW OPERATOR               423-SURVEYOR
+  333-DRILL OPERATOR              43O-ASST. MINE FOREMAN
+  334-DRILL HELPER                449-MINE FOREMAN
+  340-BOOM OPERATOR               456-ELECf ENGINEER
+  347-cLEANING PLANT OPERATOR     462-FTRE BOSS
+  35O-SHUTTLE CAR OPERATOR        464-INSPECTOR
+  355-cHAINMAN                    481-SUPERINTENDENT
+  356-ROCK DRILLER                489-0UTSIDE FOREMAN
+  36o-MACHINIST                   494-PREP PLANT FOREMAN
+  362-BRAKEMAN                    495-SAFETY DIRECTOR
+  363-QUARRY WORKER               496-UNION REP
+  365-DISPATCHER                  497-TIMEKEEPER
+  366-WATERROY                    59O-EDUCATION SPEC
+  367-POWER SHOVEL OPERATOR       591-MNRL IND SAFETY OFFICER
+. 368-BULLDOZER OPERATOR          592-MINE SAFETY INSTRUCfOR
+  369-MOTORMAN                    593-SAFETY REPRESENTATIVE
+  37o-AUGER OPERATOR              594-TRAINING SPECIALIST
+  371-AUGER HELPER                599-UNKNOWN OR NEC
+  372-BARGE ATTENDANT
+
+
+
+
+                                                    INT.BU.OF MINES,PGIL,P/\ 30060
+                                                                                                            form IIrprovpd
+                        REPORT DOCUMENTATION PAGE                                                           OMS No 070,10181'
+4' '
+
+
+
+
+          Mobile Mine Equipment Maintenance Safety:
+          A Review of U.S. Bureau of Mines Research
+        6. AUTlfORIS)
+        , Joan ·K. Kuenzi and Bruce C. Nelson
+
+       7. PERFORMING ORGANIZATION NAME IS) AND ADDRESSIES)                                   8. PERFORMING OnGANllII TlOU
+                                                                                                REPORT NUMBER
+
+          Twin Cities Research Center
+          5629 Minnehaha Avenue South                                                                   Ie 9424
+          Minneapolis, MN 55417 .
+       9. SPONSORING/MONITORING AGENCY NAME(SI AND ADDR£SSIESI                               10, SPONSORING / MormOnl"G
+                                                                                                AGENCY REPORT NUMB,ER
+          U.S. Bureau of Mines
+          Research
+          2401 E Street
+          Washington, D.C. 20240
+       It. SUPPLEMENTARY NOTES
+
+
+
+
+       121. DISTRIBUTION / AVAILABILITY STATEMENT                                             12b. DISTRIBUTION CODE
+
+
+
+
+       1J. AB5 TRACT_Il\b ... lmum,100 wOiOI' ~;-~'-~
+             .    ~M!l.t~ C\((,li/Ja.r_J
+                   ~''f!;~ '='-=,~--~--.- ~   -'-,c-~"- ,'~---
+
+
+
+                 This~Ia brings together for consideration recommendations from U.S. Bureau of
+       Mines (USBM) safety research in the area of surface mine mobile equipment maintenance
+       for the period 1982 through 1991. It updates the 1982 contract report by Baker and
+       Alves which formed the basis for much of the work described in the present report.
+       Recommendations for,hazard abatement during work on mobile mine equipment are
+       presented stemming from the results ~nd recommendations of the research in two areas:
+       (1) equipment and workplace hazard reduction, and (2) management of maintenance
+       information. Recommendations included in this report apply to both the operators and
+       maintainers of mobile mining equipment as well as to the manufacturers of that
+       equipment. ~
+
+
+
+       14. SUB/ECT TEAMS                                                                                    15. NUMBE R OF PAGE S
+                                                                                                                                19
+       Field 5--23-02, Human Factors Engineering & Man Machine Systems                                      16. PRICE CODE
+
+
+       17. SECURITY CLASSIFICATION        18. SECURITY CLASSIFltATIOH   19. SECURITY CLASSIFICATION         20. lIMtrATlON OF 1185IRII(;
+           OF REPORT                          OF TIllS PAGE                 OF ABSTRACT
+
+
+       N5N 750001·2805500                                                                             Standard Form 29R (nc~ 2 811
+                                                                                                      "''''~lIlJl~l1   tlY   .,r,,\t ~,d "'I, I~
+

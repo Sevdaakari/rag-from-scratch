@@ -1,0 +1,1463 @@
+IC 9454
+                                                                                INFORMATION CIRCULAR/2001
+
+
+
+
+Haulage Truck Dump Site Safety:
+An Examination of Reported
+Injuries
+
+
+
+
+                     S   ERVICE
+                  AN           S .
+                 M                   U
+                U
+                                          U. S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+   HEALTH
+                                     SA
+
+
+
+OF
+          &
+                                                               Public Health Service
+            H                                     Centers for Disease Control and Prevention
+        NT
+                DEPART
+                                              National Institute for Occupational Safety and Health
+                      M
+                       E
+Information Circular 9454
+
+
+Haulage Truck Dump Site Safety: An Examination
+of Reported Injuries
+
+
+By Fred C. Turin, William J. Wiehagen, Jasinder S. Jaspal,
+  and Alan G. Mayton
+
+
+
+
+               U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                                      Public Health Service
+                         Centers for Disease Control and Prevention
+                     National Institute for Occupational Safety and Health
+                                Pittsburgh Research Laboratory
+                                          Pittsburgh, PA
+
+                                         March 2001
+                     ORDERING INFORMATION
+  Copies of National Institute for Occupational Safety and Health (NIOSH)
+                        documents and information
+         about occupational safety and health are available from
+
+                       NIOSH–Publications Dissemination
+                           4676 Columbia Parkway
+                          Cincinnati, OH 45226-1998
+
+
+                         FAX:       513-533-8573
+                         Telephone: 1-800-35-NIOSH
+                                    (1-800-356-4674)
+                         E-mail:    pubstaft@cdc.gov
+                         Web site: www.cdc.gov/niosh
+
+
+
+
+     This document is the public domain and may be freely copied or reprinted.
+
+
+Disclaimer: Mention of any company or product does not constitute endorsement by NIOSH.
+
+
+
+
+                     DHHS (NIOSH) Publication No. 2001-124
+                                                                                   CONTENTS
+                                                                                                                                                                                       Page
+
+Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       2
+Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      2
+Frequency and severity of injuries associated with haulage trucks at dump sites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              3
+Analysis of injuries associated with haulage trucks at dump sites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    4
+   MSHA-defined data fields . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  4
+   Author-defined injury classifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       4
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       7
+Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              8
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       9
+Appendix A.–Compilation of safe work procedures with haulage trucks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                             10
+Appendix B.–MSHA Part 50 data selection criteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                              16
+Appendix C.–Supplemental injury tables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        17
+Appendix D.–Code listing for author-defined injury classifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      22
+
+
+                                                                                 ILLUSTRATIONS
+
+      1.     Serious injury rates associated with surface mining and mobile equipment . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              4
+      2.     Fatalities associated with surface mining and mobile equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        4
+      3.     Breakdown of results of injuries associated with haulage trucks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     4
+      4.     Serious injuries associated with haulage trucks by product class and operation type . . . . . . . . . . . . . . . . . . . .                                                 5
+      5.     Fatalities associated with haulage trucks by product class and operation type . . . . . . . . . . . . . . . . . . . . . . . . .                                             5
+      6.     Fatalities associated with haulage trucks backing up and falling over edge . . . . . . . . . . . . . . . . . . . . . . . . . . .                                            6
+      7.     Serious injuries by haulage truck activity, 1988-1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               6
+
+                                                                                        TABLES
+
+   1.        Injuries associated with surface mining, mobile equipment, and haulage trucks at dump sites, 1988-1997 . . .                                                                3
+   2.        Fatalities and lost-time injuries associated with haulage trucks at dump sites by year . . . . . . . . . . . . . . . . . . .                                                3
+   3.        Serious injuries associated with haulage trucks at dump sites by product class . . . . . . . . . . . . . . . . . . . . . . . . .                                            5
+   4.        Serious injuries associated with haulage trucks at dump sites by operation type per million hours worked . . .                                                              5
+   5.        Serious injuries by haulage truck activity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        6
+   6.        Serious injuries by effects on operator and haulage truck activity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    7
+   7.        Factors contributing to serious injuries by result . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          7
+ B-1.        Criteria used to search MSHA Part 50 databases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             16
+ C-1.        Fatalities and lost-time injuries by surface mining and mobile equipment by year . . . . . . . . . . . . . . . . . . . . . .                                               17
+ C-2.        Serious injuries by surface mining and mobile equipment by degree of injury . . . . . . . . . . . . . . . . . . . . . . . . .                                              17
+ C-3.        Serious injuries and fatalities in surface mining by mine worker activity . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        17
+ C-4.        Serious injuries and fatalities with mobile equipment by mine worker activity . . . . . . . . . . . . . . . . . . . . . . . . .                                            17
+ C-5.        Serious injuries and fatalities in surface mining by mining machine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      18
+ C-6.        Serious injuries and fatalities with mobile equipment by mining machine . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                            18
+ C-7.        Serious injuries and fatalities in surface mining by canvas class . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  18
+ C-8.        Serious injuries and fatalities with mobile equipment by canvas class . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        18
+ C-9.        Serious injuries and fatalities with haulage trucks by mine worker activity . . . . . . . . . . . . . . . . . . . . . . . . . . .                                          19
+C-10.        Serious injuries and fatalities with haulage trucks by mining machine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        19
+C-11.        Serious injuries and fatalities with haulage trucks by subunit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 19
+C-12.        Serious injuries and fatalities with haulage trucks by state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               19
+C-13.        Serious injuries and fatalities with haulage trucks by nature of injury . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    20
+C-14.        Serious injuries and fatalities with haulage trucks by age of victim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     20
+C-15.        Fatalities with haulage trucks by mining experience of victim . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    20
+C-16.        Serious injuries and fatalities with haulage trucks by truck activity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    20
+C-17.        Serious injuries and fatalities with haulage trucks by incident . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  21
+                                                               TABLES–Continued
+
+                                                                                                                                                           Page
+
+C-18.   Serious injuries and fatalities with haulage trucks by effects on operator . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                21
+C-19.   Serious injuries by haulage truck activity by year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    21
+C-20.   Serious injuries and fatalities by exit cause from haulage truck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            21
+C-21.   Serious injuries and fatalities with haulage trucks by seat belt use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            21
+C-22.   Contributing factors to serious injuries and fatalities with haulage trucks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               22
+                                 HAULAGE TRUCK DUMP SITE SAFETY:
+                                AN EXAMINATION OF REPORTED INJURIES
+
+
+                  By Fred C. Turin,1 William J. Wiehagen,1 Jasinder S. Jaspal,2 and Alan G. Mayton2
+
+
+
+
+                                                                   ABSTRACT
+               Dump site injuries occur in all major mineral industries. Working in elevated areas near an edge is a
+           common hazard for operators of off-highway mobile mining equipment. In this Information Circular (IC),
+           serious injuries involving haulage trucks working at dump sites are examined for the period 1988 to 1997. Data
+           were acquired from injury reports gathered by the Mine Safety and Health Administration (MSHA). The IC
+           is organized into three sections. The first presents an overview of the frequency and severity of injuries. The
+           second analyzes injury characteristics using MSHA-defined data fields and author-defined injury classifications.
+           Key findings are discussed in the third section.
+               In summary, 370 serious injuries were identified that involved trucks at dump sites, of which 26 were
+           fatalities. Although haulage truck activities at dump sites resulted in a small proportion of the total number of
+           injuries at surface mines, these injuries were much more likely to result in death or significant amounts of lost
+           time than most other surface mine injuries. These findings support the belief that haulage truck activities at
+           dump sites are worthy of continued study by those interested in improving the health and safety of workers at
+           surface mines.
+
+
+
+1
+ Industrial engineer.
+2
+ Mining engineer.
+Pittsburgh Research Laboratory, National Institute for Occupational Safety and Health, Pittsburgh, PA.
+ 2
+
+
+
+                                                        INTRODUCTION
+
+     The major mineral industries use mobile equipment in            from work. This compared to an average of only 36.9 days for
+elevated areas near dump points, either through the construction     mobile-equipment-related injuries and 29.8 days for all other
+of temporary material stockpiles or the construction of semi-        surface-mining-related injuries. Finally, haulage trucks were
+permanent to permanent waste or spoil piles [May 1990].              involved in 80% of all injuries at dump points, resulting in seven
+Dumping over an edge is an efficient means of handling               fatalities and 61 lost workday injuries. Krowczyk [1995] noted
+material and is widely practiced. However, working near an           that from 1991 to 1994, haulage truck operation accounted for
+edge is considered a common hazard for off-highway mobile            26 fatalities, 27.7% of surface mining fatalities. A sizeable pro-
+equipment, and dumping over an edge has been identified as one       portion of the fatalities involved rolling off a bench, highwall,
+of the highest risk activities at a dump site. The amount of risk    or roadway.
+depends on many factors. These factors include dump site                  In this Information Circular (IC), serious injuries involving
+layout, dump site stability, truck performance, amount of light,     haulage trucks working at dump sites are examined for the
+decision-making abilities of equipment operators, and weather        period from 1988 to 1997. Injury data were acquired from
+conditions. Important tasks for safety professionals are to quan-    injury reports gathered by the Mine Safety and Health Ad-
+tify work site risks, to provide guidelines for identifying when     ministration (MSHA). A mine operator is required to submit a
+risks are too great, and to determine what can be done to reduce     report for each incident that meets the criteria in title 30, part 50,
+these risks.                                                         of the Code of Federal Regulations. These data were analyzed
+     Injury data support the belief that the practice of haulage     for coal, metal, and nonmetal mines. This work is an extension
+truck dumping carries significant risk. May [1990] noted that        of findings reported in U.S. Bureau of Mines’ (USBM) IC 9250
+from 1983 to 1987, incidents at dump points were responsible         by May [1990] and is organized into three sections. The first
+for a disproportionate share of high-severity injuries: that is,     presents an overview of the frequency and severity of injuries.
+while dump point injuries accounted for 0.3% of the injuries in      The second analyzes injury characteristics using MSHA-defined
+surface mining, they accounted for 4.37% of the fatalities, and      data fields and author-defined injury classifications. Key
+each lost workday injury resulted in an average of 67.0 days lost    findings are discussed in the third section.
+
+
+                                                          DEFINITIONS
+      The following are definitions of selected terms used in this        Mine Safety and Health Administration (MSHA): The
+IC.                                                                  mining industry regulatory and enforcement branch of the U.S.
+     Berm: A pile or mound of material intended to assist in         Department of Labor.
+preventing mobile equipment from traveling over the edge of a             Operator impact: An author-defined injury classification
+bank. Berms are normally used along the edge of haulage roads        that describes what happened to a haulage truck operator.
+and dump sites.                                                           Serious injury: An incident that resulted in a fatality or a
+     Dump site: For this IC, an area where a haulage truck in-       lost-time injury.
+tends to deposit a load of material. In general, a dump site is           Spoil pile: A structure consisting of unconsolidated ma-
+the active area of a stockpile, waste dump, or spoil pile where      terials once covering a coal deposit removed during surface coal
+material is placed during construction of the pile. It normally      mining operations.
+lies at the edge or crest of the pile.                                    Stockpile: An accumulation of a mineral formed to create
+     Haulage truck: A truck that has an open box body that is        a reserve to feed a processing plant or to be shipped directly.
+used for transporting and dumping material.                               Surface mining: Activities associated with mineral exca-
+     Incident result: An author-defined injury classification that   vation and recovery carried out at or near the earth’s surface.
+describes what happened to a truck.                                       Truck activity: An author-defined injury classification that
+     Lost-time injury: An injury for which a mine employee           describes what a truck was doing when an injury occurred.
+required time off from work.                                              Waste dump: An area where mine waste material is dis-
+     Mobile mining equipment: Tracked or rubber-tired, self-         posed of or piled.
+propelled equipment used at mining operations.
+                                                                                                                                                          3
+
+
+
+                                FREQUENCY AND SEVERITY OF INJURIES ASSOCIATED
+                                     WITH HAULAGE TRUCKS AT DUMP SITES
+     The significance of injuries associated with haulage trucks                               Appendix C is a set of tables that summarize serious injury
+at dump sites was put into perspective by comparing such                                 information for surface mining, mobile mining equipment, and
+injuries with all injuries at surface mines and injuries involv-                         haulage trucks at dump sites. These tables supplement the
+ing mobile mining equipment. This comparison is presented in                             tables and figures presented in the body of this IC.
+table 1. The injury data selection process used for this analysis                              Figures 1 and 2 display trends in the frequency of serious
+is described in appendix B. In general, these are injuries that                          injuries at surface mines and with mobile equipment. The injury
+likely occurred while a haulage truck was active at a dump site.                         rates presented in figure 1 are based on the number of injuries
+     There were 79,601 serious injuries at surface mining                                per 1 million surface hours worked. Figure 1 shows a clear
+operations over the 10-year period examined. This number in-                             downward trend in serious injuries in surface mining and the use
+cluded an average of almost 62 fatalities per year. Surface                              of mobile mining equipment, although the latter dropped at a
+mobile mining equipment was involved in 20% of these injuries                            much slower rate. The number of surface mining fatalities
+and 42% of the fatalities. The average number of lost workdays                           ranged from 52 to 72, with an average of 62 per year. The num-
+due to injury was 14% higher for operators of mobile equipment                           ber of fatalities that involved mobile mining equipment ranged
+than for all surface mine workers. This figure shows that in-                            from 17 to 32, with an average of 26 per year. As pictured in
+juries that involved mobile mining equipment were more severe                            figure 2, there were yearly fluctuations in the number of fa-
+than injuries that occurred at surface mines. Three-hundred                              talities, but they did not exhibit a downward or upward trend.
+seventy serious injuries involved haulage trucks at dump sites,                                Table 2 lists serious injuries by year for haulage trucks
+which was only 2% of the serious injuries that involved mobile                           active at dump sites. The number of fatal incidents did not de-
+mining equipment. However, these injuries were responsible for                           crease, but there was a drop in the number of lost-time injuries
+a disproportionate share of fatalities and lost workdays. In fact,                       beginning in 1992. The average number of serious injuries per
+the average number of lost workdays resulting from injuries that                         year for the period 1988 to1991 was 46. From 1992 to 1997, the
+involved haulage trucks at dumps sites were more than 50%                                average number of serious injuries per year was 31. Also, the
+higher than injuries that involved mobile mining equipment and                           average lost workdays from 1995 to 1997 were between 36%
+more than 70% higher than the average for surface mining.                                and 66% lower than the average for the 10-year period. These
+     These findings are consistent with those reported by May                            findings establish that while haulage truck safety at dump sites
+[1990] and indicate that while these injuries made up a small                            remains an important safety concern, there was an improvement
+fraction of the injuries at surface mines, they were much more                           in the number and severity of lost-time injuries.
+likely to be serious or fatal.
+
+
+             Table 1.—Injuries associated with surface mining, mobile equipment, and haulage trucks at dump sites, 1988-1997
+
+                       Category                               Serious injuries         Fatalities       Lost-time     Lost workdays        Average lost
+                                                                                                         injuries                           workdays1
+Surface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79,601              619            78,982          2,289,152            28.98
+Mobile equipment . . . . . . . . . . . . . . . . . . . . . . .        15,601              262            15,339            507,594            33.09
+   Percentage, surface . . . . . . . . . . . . . . . . . .                20               42                  19               22           114
+Haulage truck dump site . . . . . . . . . . . . . . . . . .              370               26                344            17,265             50.19
+   Percentage, mobile equipment . . . . . . . . . .                        2               10                   2                3           152
+1
+ Average lost workdays = lost workdays ÷ lost-time injuries.
+
+                          Table 2.—Fatalities and lost-time injuries associated with haulage trucks at dump sites by year
+
+                    Year                  Fatalities              Lost-time injuries                Lost work days        Avg. lost days
+                1988 . . . . . . .           2                           45                            2,545                    57
+                1989 . . . . . . .           3                           42                            2,075                    49
+                1990 . . . . . . .           2                           48                            3,378                    70
+                1991 . . . . . . .           6                           38                            2,489                    66
+                1992 . . . . . . .           1                           31                            1,667                    54
+                1993 . . . . . . .           1                           30                            1,427                    48
+                1994 . . . . . . .           2                           34                            1,636                    48
+                1995 . . . . . . .           4                           20                              647                    32
+                1996 . . . . . . .           3                           25                              432                    17
+                1997 . . . . . . .           2                           31                              969                    31
+                  Total . . . . .           26                         344                            17,265                    50
+ 4
+
+
+                                            24                                                                                         90
+                                                                                Surface                 Mobile Equip                                                Surface                    Mobile Equip
+
+
+
+
+SERIOUS INJURIES PER 1 MILLION HRS WORKED
+                                            20                                                                                         75
+
+
+
+                                            16                                                                                         60
+
+
+
+
+                                                                                                                          FATALITIES
+                                            12                                                                                         45
+
+
+
+
+                                            8                                                                                          30
+
+
+
+
+                                            4                                                                                          15
+
+
+
+                                            0                                                                                           0
+                                             1988   1989   1990   1991   1992    1993     1994   1995      1996    1997                  1988    1989     1990      1991      1992      1993     1994      1995        1996     1997
+                                                                            YEAR                                                                                                  YEAR
+     Figure 1.—Serious injury rates associated with surface mining                                                            Figure 2.—Fatalities associated with surface mining and
+ and mobile equipment.                                                                                                    mobile equipment.
+
+
+
+
+                                                 ANALYSIS OF INJURIES ASSOCIATED WITH HAULAGE TRUCKS AT DUMP SITES
+                                                       MSHA-DEFINED DATA FIELDS                                           highest number of serious injuries, nearly 26% of the total.
+                                                                                                                          Stone quarries had the most fatalities, nearly 31% of the total.
+    Figure 3 displays a breakdown of serious injuries associated
+ with haulage trucks by the MSHA data field degree of injury.                                                                           AUTHOR-DEFINED INJURY CLASSIFICATIONS
+ Only fatalities and injuries that resulted in days lost from work
+ were considered. This translates to the four categories                                                                     MSHA data fields were designed to be broad enough to apply
+ presented. Nearly 83% of the serious injuries resulted in days                                                           to all types of injuries. The authors developed classifications
+ away from work only.                                                                                                     tailored for the specific types of injuries being analyzed. The
+    To identify where these injuries occurred, the MSHA data                                                              authors believed that focused classifications would provide
+ field canvas class and subunit were analyzed. Canvas class is                                                            additional information about haulage truck injuries at dump
+ used to identify a general product class based on the Standard                                                           sites. Four primary classifications were defined: truck activity,
+ Industrial Classification codes for the commodity mined. A                                                               incident result, operator impact, and contributing factors. Two
+ subunit is used to identify the general type of operation.                                                               secondary classifications were also defined, exit cause and seat
+ Underground, strip, auger, preparation plant, and office workers                                                         belt usage. Code definitions for each classification and notes
+ are examples of subunits. The results of this analysis are                                                               concerning their use are provided in appendix D.
+ presented in tables 3 and 4 and figures 4 and 5.
+ • Bituminous coal mines had the highest number of serious
+ injuries—133, or 36% of the total. The largest number of fa-                                                                          82.7%
+ talities occurred at stone and metal mines with nine and eight,                                                                        306
+
+ respectively.                                                                                                                           Days away from work only
+ • Anthracite coal mines had the highest average number of lost
+ workdays per injury at 70.13. This was 40% higher than the
+ average for all haulage trucks at dump sites.                                                                                                                                              Permanent disabilities
+                                                                                                                                                                                                                       1.4%
+ • Bituminous coal mines and metal mines had average lost                                                                                                                                                                5
+                                                                                                                                                                                                          Fatalities
+ workdays that were about 17% higher than the overall average.                                                                                                             Days away and restricted activity
+ • Nearly 77% of the serious injuries occurred at strip or open-                                                                                                                                                              7.0%
+ pit mines, with a serious- injury rate of 13.62 injuries per 100                                                                                                                                                              26
+
+ million hours worked. This rate was almost three times as large                                                                                                                                      8.9%
+ as that for all other surface operations. These mines had 22 of                                                                                                                                       33
+
+ 26 fatalities and 262 of 344 lost-time injuries.                                                                                     Figure 3.—Breakdown of results of injuries associated with
+ • More than 60% of the serious injuries and nearly 75% of                                                                        haulage trucks.
+ fatalities occurred at bituminous coal strip mines, stone quarries,
+ and metal open-pit mines. Bituminous coal strip mines had the
+                                                                                                                                                                                                     5
+
+
+                                     Table 3.—Serious injuries associated with haulage trucks at dump sites by product class
+
+            Product class                             Serious injuries                         Fatalities       Lost-time injuries               Lost workdays                   Average lost
+                                                                                                                                                                                  workdays
+Bituminous coal . . . . . . . . . .                            133                                    6                  127                         7,424                          58.46
+Stone . . . . . . . . . . . . . . . . . .                      100                                    9                   91                         3,897                          42.82
+Metal . . . . . . . . . . . . . . . . . . .                     66                                    8                   58                         3,386                          58.38
+Sand and gravel . . . . . . . . . .                             46                                    2                   44                         1,413                          32.11
+Nonmetal . . . . . . . . . . . . . . .                          17                                    1                   16                           584                          36.50
+Anthracite coal . . . . . . . . . . .                            8                                    0                    8                           561                          70.13
+   Total . . . . . . . . . . . . . . . . .                     370                                   26                  344                        17,265                          50.19
+
+
+               Table 4.—Serious injuries associated with haulage trucks at dump sites by operation type per million hours worked
+
+                                           Hours   Fatalities        Lost-time        Serious injuries per 100                                        Lost workdays                 Average lost
+         Operation type                   worked,                     injuries         million hours worked1                                                                         workdays
+                                          millions
+Strip or open pit . . . . . . . . .       2,085      22                 262                    13.62                                                       12,681                            48.40
+Mill or prep plant . . . . . . . . .      1,495        3                 66                      4.61                                                       3,825                            57.95
+All other surface . . . . . . . . .         285        1                 16                      5.95                                                         759                            47.44
+    Total . . . . . . . . . . . . . . . . 3,865      26                 344                      9.57                                                      17,265                            50.19
+1
+ Serious injuries per 100 million hours worked = (fatalities + lost-time injuries) x 100 ÷ million hours worked.
+
+
+                        20.0%                                                                25.9%                      30.8%
+                         74                                                                    96                         8
+                                                                                                                                                                                             19.2%
+                                                                   Bit. Coal Strip Mines
+                                                                                                                                                                                               5
+                                Stone Quarries
+                                                                                                                                Stone Quarries
+                                                                                                                                                                     Bit. Coal Strip Mines
+
+
+
+
+              Metal Open Pit Mines
+                                                                               All Other
+    15.4%
+      57
+
+                                                                                                     12.4%
+                                                                                                      46                                                                       All others
+                                                 Bit. Coal Prep Plants
+                                                                                                                  Metal Open Pit Mines
+                 Sand & Gravel Open Pit Mines                            Stone Prep Plants
+                                                                                                                                                 Other Strip Mines
+
+                                                                                                                                                                                                 15.4%
+                                                                                                                                                                                                   4
+                   11.4%                                   8.1%
+                    42                                      30                               6.8%              23.1%
+                                                                                              25                 6
+                                                                                                                                                              11.5%
+                                                                                                                                                                3
+    Figure 4.—Serious injuries associated with haulage truck by                                                   Figure 5.—Fatalities associated with haulage truck by product
+product class and operation type.                                                                            class and operation type.
+
+
+   Table 5 presents serious injuries by truck activity and inci-                                             against object.” The “landed outside cab” classification is a
+dent result. More than 90% of the serious injuries occurred                                                  special case of the “struck against object” classification. These
+while stationary dumping or while backing up. Falling over an                                                two classifications make up 68% of the serious injuries and 69%
+edge, rolling over, and being bounced and/or jarred resulted in                                              of the fatalities. Eleven of the twenty-six fatalities (42%) oc-
+83% of the serious injuries. Falling over an edge resulted in                                                curred when the operator landed outside the cab. This was a key
+37% of the serious injuries and 85% of the fatalities. The                                                   reason for separating these incidents from other “struck against
+combination of backing up and falling over an edge accounted                                                 objects” incidents. In particular, 70 of the 95 injuries that in-
+for 26% of the serious injuries and 73% of the fatalities. In fact,                                          volved backing up and falling over an edge were classified as
+one in five of the backing-up and-falling-over-an-edge incidents                                             “struck against object” and 17 were classified as “landed outside
+resulted in death. The second and third most common com-                                                     cab.” Nineteen operators were killed while backing up and fall-
+binations involved stationary dumping and either rolling over or                                             ing over an edge. A breakdown by effects on the operator is
+being bounced and/or jarred.                                                                                 shown in figure 6. Nearly half occurred when the operator
+   Injuries classified by operator impact are presented in table 6                                           landed outside the cab. These findings indicate that backing up,
+for the two primary truck activities, stationary dumping and                                                 falling over an edge, and landing outside the cab describe in-
+backing up. The majority, 54%, were classified as “struck                                                    cidents most likely to have resulted in a fatality.
+6
+
+
+   Two secondary classifications were used with injuries in
+which the operator landed outside the cab. These classifications                                                                                                                    21.05%
+were “exit cause” and “seat belt usage.” Table C-20 and C-21                                       47.37%                                                                              4
+                                                                                                      9
+in appendix C lists the serious injuries for these classifications.
+                                                                                                                                                                 Drowned
+In 35 of the 52 cases, the operator jumped from the cab, 13
+times the operator was thrown from the cab, and four times it                                                        Landed Outside Cab
+was not known whether the operator jumped or was thrown out.
+In 40 of 52 cases, it was not determined if the operator wore a
+seat belt, 11 times a seat belt was not worn, and only one
+incident was reported in which a seat belt was worn.
+   Detailed incident reports provided more reliable information
+for fatal injuries. A review of the 11 fatal incidents revealed                                                                                       Struck Against Object
+that seven truck operators were thrown out and were not
+wearing a seat belt, three either jumped or were thrown out and
+                                                                                                                                      Burned
+were not wearing a seat belt, and only one jumped, making it
+                                                                                                                                                                              26.32%
+unknown whether a seat belt was worn. Thus, in at least 10 of                                                                                                                    5
+11 fatal cases, a seat belt was not being worn.
+   Table 2 shows a downward trend in the number of haulage                                                                     5.26%
+truck lost-time injuries. Figure 7 displays serious injury trends                                                                1
+by truck activity. Backing-up injuries dropped steadily. Those                                   Figure 6.—Fatalities associated with haulage trucks backing up
+that occurred while stationary dumping and during all other                                 and falling over edge.
+activities fluctuated over the period examined, but did not show
+either an upward or downward trend. Beginning in 1994,                                                       30
+                                                                                                                                                                       Backing Up
+injuries during stationary dumping surpassed injuries while                                                  27
+                                                                                                                                                                       Stationary Dumping
+                                                                                                                                                                       All Other
+backing up and were the most frequent. This confirms that the
+drop in lost-time injuries shown in table 2 was primarily due to                                             24
+
+the drop in injuries that occurred while backing up.                                                         21
+   Table 7 presents contributing factors by incident result. Each
+
+
+
+                                                                                          SERIOUS INJURIES
+serious injury could be assigned up to three contributing factors.                                           18
+
+Injuries that resulted in falling over an edge had the most                                                  15
+contributing factors identified. “Edge failure” and “traveled
+through a barrier” were identified most often. The most                                                      12
+
+common contributing factors to rollover incidents were “uneven                                               9
+ground” and an “unbalanced or shifted load.” The most
+common contributing factors to bounced or jarred incidents                                                   6
+
+were “mechanical/hydraulic failures” or “unbalanced/shifted                                                  3
+loads.” The last row of table 7 discloses that 96 of the serious
+injuries did not have any contributing factors identified.                                                   0
+                                                                                                              1988      1989   1990    1991    1992    1993    1994   1995      1996        1997
+   Table C-22 in appendix C provides a complete list of con-                                                                                      YEAR
+tributing factors to serious injuries. The two most common con-                                                   Figure 7.—Serious injuries by haulage truck activity, 1988-1997.
+tributing factors to fatal injuries were “traveled through a
+barrier” and “no barrier provided.”
+
+                                               Table 5.—Serious injuries by haulage truck activity (fatalities in parentheses)
+
+         Incident result                          Stationary dumping         Backing up                               Moving forward             Other/unknown                 Total
+Fell over edge . . . . . . . . . . . .                   36 (3)                95 (19)                                     4 (0)                      2 (0)                   137 (22)
+Rolled over . . . . . . . . . . . . . .                  52 (1)                30 (0)                                     10 (0)                      1 (0)                    93 (1)
+Bounced or jarred . . . . . . . . .                      65 (0)                 5 (0)                                      8 (0)                      0 (0)                    78 (0)
+Collision . . . . . . . . . . . . . . . .                 0 (0)                 7 (0)                                      5 (0)                      0 (0)                    12 (0)
+Fire . . . . . . . . . . . . . . . . . . . .              8 (0)                 2 (1)                                      1 (1)                      0 (0)                    11 (2)
+Hung up on edge . . . . . . . . .                         4 (0)                 6 (0)                                      0 (0)                      0 (0)                    10 (0)
+Struck by object . . . . . . . . . .                      1 (0)                 2 (0)                                      0 (0)                      0 (0)                     3 (0)
+Contacted powerline . . . . . . .                        0 (0)                  0 (0)                                      3 (1)                      0 (0)                    3 (1)
+Unknown/other . . . . . . . . . . .                      13 (0)                 9 (0)                                      1 (0)                      0 (0)                    23 (0)
+   Total . . . . . . . . . . . . . . . . .              179 (4)               156 (20)                                    32 (2)                      3 (0)                   370 (26)
+                                                                                                                                                                  7
+
+
+
+
+                           Table 6.—Serious injuries by effects on operator and haulage truck activity (fatalities in parentheses)
+
+                Operator impact                                        Stationary dumping                  Backing up               All other            Total
+Struck against object . . . . . . . . . . . . . . . . .                       84 (2)                         99 (5)                  17 (0)            200 (7)
+Jarred and/or tossed . . . . . . . . . . . . . . . . . .                      58 (0)                         13 (0)                   9 (0)              80 (0)
+Landed outside cab . . . . . . . . . . . . . . . . . .                        19 (2)                         28 (9)                   5 (0)             52 (11)
+Musculoskeletal injury . . . . . . . . . . . . . . . .                        10 (0)                          5 (0)                   1 (0)             16 (0)
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . .                8 (0)                         11 (6)                   3 (2)              22 (8)
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . .              179 (4)                        156 (20)                 35 (2)            370 (26)
+
+
+                                                             Table 7.—Factors contributing to serious injuries by result
+
+              Contributing factors                                  Fell over edge          Rolled over         Bounced or jarred          All other      Total
+Edge failure . . . . . . . . . . . . . . . . . . . . . . . .              65                    12                     0                        2          79
+Mechanical/hydraulic failure . . . . . . . . . . . .                       1                     6                    35                       14          56
+Uneven ground . . . . . . . . . . . . . . . . . . . . . .                  8                    35                     2                        3          48
+Load unbalanced or shifted . . . . . . . . . . . .                         2                    22                    18                        1          43
+Traveled through berm or barrier . . . . . . . .                          27                     3                     0                        3          33
+Undercut pile . . . . . . . . . . . . . . . . . . . . . . .               15                     1                     0                        0          16
+No berm or barrier . . . . . . . . . . . . . . . . . . .                  13                     1                     0                        0          14
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . .            4                     4                     1                       12          21
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . .          135                    84                    56                       35         310
+None . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          27                    17                    23                       29          96
+
+
+
+
+                                                                                 DISCUSSION
+
+   Hours worked at surface mines during the period 1991 to                                       The three primary haulage truck activities were broken down
+1997 have remained fairly constant at about 480 million hours                                 into stationary dumping, backing up, and moving forward.
+per year. During this period, serious injuries in surface mining                              More than 90% of the serious injuries occurred during stationary
+have steadily dropped by about 8.5% a year, and serious injuries                              dumping and backing up. The most common types of injuries
+associated with mobile equipment at surface mines have                                        resulted from a haulage truck falling over an edge while backing
+dropped by about 5.5% a year. These trends indicate that efforts                              up, the operator being bounced and/or jarred while dumping,
+to reduce serious injuries in surface mining have realized some                               and the truck rolling over while dumping. Injuries while back-
+success. Serious injuries at dump sites dropped 27% from 1991                                 ing up decreased over the period studied. Injuries while station-
+to 1992. For the period 1992 to 1997, the number of such in-                                  ary dumping and moving forward fluctuated from year to year
+juries remained fairly constant, averaging about 31 per year.                                 without showing either an upward or downward trend. The fac-
+These injuries were much more likely to result in death or a sig-                             tor most frequently identified as contributing to a serious injury
+nificant amount of lost time than most other injuries at surface                              was edge failure, in particular, edge failure as a truck fell over
+mines. Although haulage truck activities at dump sites were a                                 an edge.
+small proportion of the injuries at surface mines, these findings                                The two most common contributing factors to fatal injuries
+support the belief that they are worthy of continued study by                                 were “traveled through a barrier” and “no barrier provided.”
+researchers interested in improving the health and safety of                                  Eleven of twenty-six fatalities occurred when the operator
+workers at surface mines.                                                                     landed outside the cab. Incidents most likely to result in death
+   The majority of the 370 serious injuries at dump sites oc-                                 were those that involved backing up, falling over an edge, and
+curred at strip and open-pit operations. Although these opera-                                landing outside the cab. It was determined that a seat belt was
+tions contributed 54% of the surface hours worked, they had a                                 not worn in at least 10 of the 11 fatalities categorized as “landed
+disproportionate number of lost-time and fatal injuries. Also, the                            outside cab.” These findings are not surprising and provide
+average number of days lost at strip or open-pit operations was                               more evidence that dump sites need to have adequate edge bar-
+nearly three times larger than the average for all other types of                             riers and that haulage truck operators should wear seat belts.
+operations. Bituminous coal strip mines, stone quarries, and                                     Devices have been developed to improve a mobile equipment
+metal open-pit mines accounted for 80% of the serious injuries,                               driver’s ability to detect obstacles and hazardous situations.
+and bituminous coal strip mines had the most serious injuries.                                Mirrors, video cameras, and backup alarms are continually
+When choosing places for further study into the causes of                                     being upgraded and added to existing equipment as technology
+haulage truck injuries at dump sites, it would be wise to                                     improves. The use of these technologies may help to explain the
+consider these types of operations.                                                           drop in haulage truck injuries while backing up at dump sites.
+8
+
+
+Lux [1990] examined limitations to using mirrors on large              mirror, so that the left rear tire approaches the berm first. This
+mobile equipment. He concluded that, in order for a mirror to          improves the dumping position and helps keep the truck from
+be effective, an operator must understand how to use it and must       penetrating or going through the berm. At the same time, far
+take into account its limitations. Researchers at the Spokane          side mirrors should be used to check for correct orientation and
+Research Laboratory (SRL) of NIOSH tested a number of com-             potential obstacles.
+mercially available and experimental sensors that monitor ob-          • Drivers should travel backward at a moderate-to-slow speed.
+stacles in a vehicle’s blind spots. None of the sensors had been       Backing too fast decreases reaction time if problems develop at
+used in commercial applications on rigid-frame surface mining          the dump site or with the truck and increases the risk that the
+trucks. It was determined that radio-frequency identification          truck will reach the berm too quickly, so that the truck could go
+(RFID) and radar technology show the most promise for de-              over or through it. Backing through or over a berm is a common
+tecting obstacles in the blind spots of mining equipment. How-         cause of injuries at dump sites. Drivers must not expect a berm
+ever, more development work is needed to meet the unique re-           or bumper block to stop the truck.
+quirements of mining equipment and the mine environment                • Similarly, it is important for drivers, when preparing to dump,
+[Ruff 2000].                                                           to brake to a gradual stop just before reaching the edge or berm.
+   Another important consideration when trying to reduce dump          The danger that the slope will fail is increased by braking hard
+site risk factors is dump site stability. The USBM developed           at the last moment.
+INSLOPE3, a computer software package to analyze the effect            • Haulage truck operators dumping at the edge of a stockpile
+of haulage truck operation on dump site stability. INSLOPE3            or highwall need instruction in how to examine the dump site.
+provides estimates of safe operating distances from slope edges        Careful inspection of the area prior to and at the start of the shift
+to aid in the development of safe dumping procedures [May              to check for signs of unstable ground and lack of a berm is a
+1991].                                                                 necessity. To ensure safety, the dump site should be checked
+   The two main methods for dumping waste at spoil piles are           for cracks along the top edge and over steep slopes, and for
+edge-dumping and short-dumping. While edge-dumping is the              sunken or soft areas, all of which indicate an unstable edge.
+most common method, short-dumping is used when there are               • Drivers must not dump over the edge if the toe of the
+safety concerns about edge-dumping. Camm [2000] developed              stockpile has been removed. Furthermore, they should never
+a cost model to examine differences in operating and capital           dump over the edge of an unstable slope. If there is any
+costs between the two methods. Managers who use this cost              question about the stability of an edge, another dump location
+model will be able to make more informed decisions about               should be chosen, or material should be dumped short of the
+which method to use.                                                   edge away from any cracks and then pushed over.
+   To identify elements that may be found in a set of safe work        • To operate a safe and effective dump site, sound dumping
+practices, the authors extracted information from a number of          procedures must be combined with a good maintenance program
+sources and have provided a compilation of safe work pro-              and meaningful worker training. One way to enhance training
+cedures for haulage trucks in appendix A. A review of these            for a mobile equipment operator is to use driving simulators.
+materials indicated that they were based on years of experience        Driving simulators for emergency vehicles are currently on the
+and informed practice in the use of dump sites.                        market. A large driving simulator called the North American
+   Safe and efficient dumping depends on a number of factors.          Driving Simulator (NADS) is under construction in Iowa City,
+Consider, for example, the inspection of a dump site for cracks.       IA. These systems can provide “situational training,” such as
+What is an unsafe or serious crack? To many, the answer is, “It        slippery roads, vehicle systems failures, and hazardous driver
+depends.” This illustrates that there can be a lot of variability in   behaviors, that cannot be given safely without using a simulator.
+the interpretation of safety procedures at dump sites. In par-             The key to having safe and efficient dump sites is to develop
+ticular, safe work practices relevant to the two activities most       a comprehensive risk reduction strategy that uses up-to-date
+likely to result in serious injury at dump sites, backing up and       information and methods. The few examples discussed are not
+stationary dumping, are discussed briefly.                             meant to be endorsements of the best or most relevant tools or
+• Haulage truck drivers are taught to back up with the rear of         approaches. Instead they are presented to illustrate several of
+the truck square to the edge or berm by using the near side            the important issues that should be considered.
+
+
+                                                    ACKNOWLEDGMENTS
+
+   The authors would like to thank Christine Boldt (civil              conducted at SRL. The authors would also like to thank
+engineer, SRL) and Thomas Camm (mining engineer, SRL) for              Thomas Camm for his assistance during several field visits to
+providing information about the surface haulage research being         surface mining operations.
+                                                                                                                                                              9
+
+
+
+                                                                  REFERENCES
+
+    Camm TW [2000]. Economics of safety at surface mine spoil piles. Report        May JP [1990]. Analysis of dump-point accidents involving mobile mining
+of Investigations 9653. Pittsburgh, PA: U.S. Dept. of Health and Human         equipment. Information Circular 9250. Pittsburgh, PA: U.S. Dept. of the
+Services, Centers for Disease Control and Prevention, National Institute for   Interior, Bureau of Mines, Pittsburgh Research Center, 19 pp.
+Occupational Safety and Health, Spokane Research Laboratory, 9 pp.                 May JP [1991]. User’s guide for INSLOPE3: A computer code to analyze the
+    Krowczyk C [1995]. Haulage fatalities at surface coal mines, 1991-1994.    effect of haulage truck operation on dump-point stability. Information Circular
+Denver, CO: Mine Safety and Health Administration, Office of Injury and        9291. Pittsburgh, PA: U.S. Dept. of the Interior, Bureau of Mines, Pittsburgh
+Employment Information.                                                        Research Center, 20 pp.
+    Lux WJ [1990]. Limitations on the usefulness of mirrors on construction        Ruff TM [2000]. Test results of collision warning systems for surface mining
+and earthmoving equipment. SAE Technical Paper Series 901645. Warrendale,      dump trucks. Report of Investigations 9652. Pittsburgh, PA: U.S. Dept. of Health
+PA: Society of Automotive Engineers, 5 pp.                                     and Human Services, Centers for Disease Control and Prevention, National
+                                                                               Institute for Occupational Safety and Health, Spokane Research Laboratory, 44 pp.
+10
+
+
+
+        APPENDIX A.–COMPILATION OF HAULAGE TRUCK SAFEWORK PROCEDURES1
+
+                                                      CONTENT DESCRIPTION
+
+   A literature review was conducted to identify examples of                    The literature review showed that safety and training pro-
+safe work practices for haulage trucks. While the authors or-               cedures can differ significantly relative to mine size, equipment
+ganized the information collected into the following categories,            size, and management philosophy. For example, start-up and
+they did not develop or alter any of the information. Some of               cab-check procedures can differ depending on the size and
+these sources are provided in the bibliography, but a complete              model of truck used. Another factor is that larger trucks have
+bibliography is not included because several sources requested              the cab mounted at a higher elevation on the frame, which
+that their identity remain anonymous.                                       decreases the field of view of the driver dramatically. Most
+   A key source of dump-point safety information is MSHA’s                  safety manuals do not deal with the issue of limited field of
+Dump-Point Inspection Handbook (in press). The purpose of                   view.
+this handbook is to provide MSHA inspection staff with the                      The information presented here is by no means complete. It
+information needed to understand hazards at dump sites and to               is included to provide examples of what may be found in a set
+better recognize potentially unsafe dump-point conditions and               of safe work procedures. Any work procedure must be tailored
+practices. Thus, the handbook offers information on the                     to fit the conditions and constraints of the target mine
+relevant standards as well as best practices for the use of dump            operation.
+sites.    It can be accessed on MSHA’s web page at
+www.msha.gov.
+
+
+                      SURFACE HAULAGE HAZARDS AND PREVENTIVE MEASURES
+
+   The material in this section is designed to be used in training                                Potential Hazards
+programs to increase the awareness of hazards associated with
+surface haulage and to recommend measures that can be used to               •   Missing wheel lugs.
+minimize these hazards.                                                     •   Low tire pressure.
+                                                                            •   Tire damage.
+         WALKING TO AND FROM EQUIPMENT                                      •   Lowest ladder rung too high.
+                                                                            •   Missing or broken steps, ladder rungs, handrails, etc.
+                        Potential Hazards                                   •   Slick (muddy, greasy or icy) boots and/or ladder.
+                                                                            •   Both hands not free for climbing.
+• Muddy walkways, ice, etc.                                                 •   Miners in dangerous position around equipment.
+• Moving vehicles.                                                          •   Poor access to areas that must be checked.
+• Congested area.                                                           •   Undetected suspension or steering damage.
+
+                      Preventive Measures                                                       Preventive Measures
+
+• Walk around vehicle as part of preoperation inspection to                 • Make a thorough preoperation inspection a habit. Include
+check for people around the machine.                                        tires and wheels, ladders and platforms, suspension and steering,
+• Sound the horn or other warning device before starting to                 and walking around the vehicle to check for persons or ob-
+move.                                                                       structions. Report any safety defects.
+• Be sure backup alarm and brakes are operating properly.                   • Clean mud, grease, or ice off boots and ladders. Wear gloves
+• Always look in the direction of travel.                                   to ensure a good grip.
+• Be alert for pedestrians.                                                 • Use belt hooks, pockets, etc., to carry materials up ladders
+                                                                            and keep both hands free for climbing. Use ropes to hoist
+CHECKING AROUND EQUIPMENT AND MOUNTING                                      bulkier items. Face ladder and use three points of contact when
+           AND DISMOUNTING                                                  climbing (two hands and one foot or two feet and one hand in
+                                                                            contact with ladder at all times).
+   Make sure vehicle is not loaded and is secured against motion            • Sound horn or other warning device before starting engine or
+before inspection.                                                          starting to move.
+                                                                            • Be sure backup alarm is operating properly.
+   1
+     Materials obtained from mining companies, the Mine Safety and Health   • Always look in the direction of travel.
+Administration, and the Job Training Series for Open Pit Mining (British
+Columbia)
+                                                                                                                              11
+
+
+       ENTERING CAB AND STARTING VEHICLE                           • Be aware of the locations of runaway ramps, straddle berms,
+                                                                   and other means to stop the truck in case of electrical or
+                      Potential Hazards                            mechanical failure.
+                                                                   • Check gauges and warning lights frequently. Whenever a
+•   Loose items in cab.                                            gauge does not indicate specific pressure, shut down
+•   Seat belt not buckled.                                         immediately.
+•   Parking brake off when starting engine.                        • Observe all signs and signals.
+•   Congested parking area.
+•   Dirty windshield resulting in poor visibility.                                     Dumping Hazards
+•   Possibility of fire.
+•   Defective brakes, gauges, steering system, or retarder.        • Backing over a person, equipment, or obstruction.
+                                                                   • Backing over edge of a dump.
+                    Preventive Measures                            • Pulling down highlines and other obstructions.
+
+• Keep cab free of extraneous material; secure necessary items                       Dumping Precautions
+carried.
+• Check equipment for warning tags.                                • Check air gauge and brakes before backing up to dump.
+• Make sure parking brake is set and controls are in neutral       • Whenever possible, view dump crest before turning on dump
+prior to starting.                                                 and backing up. Leave a minimum of one truck width between
+• Adjust seat and buckle up.                                       truck and dump crest when making turns at the dump.
+• Keep cab windows clean.                                          • Do not back up if visibility is impaired.
+• Check around equipment before getting on and, to the extent      • Set service brake (electric drive) or parking brake
+possible, use mirrors before moving.                               (mechanical drive) before and during dumping.
+• Check gauges and warning lights before and after starting        • Back up to the dump berm squarely and make sure truck is in
+engine. Check for smooth idle and unusual smoke or noise.          neutral before dumping.
+Check wipers and lights.                                           • Make every effort to back up against the dump berm.
+• Make sure all controls are working properly before moving.       However, NEVER RELY ON THE BERM TO STOP THE
+• Check for fuel leaks. Know the location and operation of fire    TRUCK. BERMS SHOULD BE USED AS A GUIDE ONLY!
+extinguishers.                                                     • Plug out any low spots in the dump berm by dumping short.
+• Do not use equipment with safety defects.                        • Lower truck beds completely before pulling away from a
+• Sound horn or other warning device before starting engine or     dump location.
+moving equipment.                                                  • Do not pull truck bed through material after dumping.
+• Check all brake systems, steering systems, and retarders in      • Do not let truck bed come in contact with berm material so
+accordance with company policy or manufacturer’s                   that the wheels are lifted off the ground while dumping.
+recommendations.                                                   • Use signal lights for dumping at the primary crushers.
+
+                   OPERATIONS TRUCK                                        Red light: Do not spot on crusher dump pocket and pull
+                                                                   out if already spotted.
+• Avoid running over rocks or into potholes or ruts.                       Amber light: OK to spot on dump pocket, but do not
+• Drive with thumbs on the outside of the steering wheel to        dump. If given an amber light while dumping, stop dumping.
+avoid injury if the wheel spins.                                           Green light: Proceed to dump.
+• At the end of the shift, turn a NEAT AND LEGIBLE RE-
+PORT into the mine office on the form provided.                    • If necessary to lower a loaded bed, GENTLY bleed off hoist
+• Be sure the truck bed is all the way down before driving         cylinder pressure using the dump lever. DO NOT PUSH
+under overhead cable bridges, powerlines, or other overhead        LEVER ALL THE WAY INTO THE LOWER POSITION
+obstructions.                                                      OR THE BED WILL FALL.
+• Drive defensively at all times.
+
+
+                    BEST PRACTICES FOR SURFACE HAULAGE TRUCK DUMPING
+                         MATERIALS                                 material a safe distance back from the edge.
+                                                                   • Stay in truck when waiting at dump area.
+• If material must be dumped over edge of stockpile or             • When dumping at a stockpile, do not dump over the edge
+highwall, examine area carefully, especially at the beginning of   where the toe of the stockpile has been removed.
+a shift, for signs of unstable ground and lack of berms.
+• If the ground at a dump site could fail, arrange to dump
+12
+
+
+                        PROCEDURES                                     • When pulling out, turn left whenever possible, which gives
+                                                                       a better view of the area the truck is turning toward.
+• Cross windrows at an angle, one wheel leading, to reduce
+jarring the load, the truck, and yourself.                                         DUMPING IN DESIGNATED AREA
+• Be sure the dump area has been checked for cracks along the
+top edge or sunken or soft areas, which indicate an unstable              Drivers must dump only at a location designated by the
+edge. Also check for steep slopes. The weight of a truck near          supervisor. IF A DRIVER IS UNSURE WHERE TO DUMP,
+an unstable edge can be enough to break it loose, taking the           THEN HE/SHE SHOULDN’T DUMP. Drivers should contact
+operator with it.                                                      their supervisors and determine the correct dumping location
+• Never dump over the edge of an unstable dump slope.                  rather than to take a chance and dump at a potentially unsafe
+• When possible, approach the dump site from left to right and         area. A supervisor may designate dump locations not only on
+make sure the dumping berm is in place (contact the supervisor         the basis of production requirements, but also on safety
+if it is not). This also provides better visibility to look over the   considerations of which drivers may be unaware. When drivers
+area for obstacles or unstable conditions along the dump edge          are assigned to a dump location, they should stay alert for
+and slope. Keep at least one truck width away from the edge            potential hazards and notify the supervisor immediately if a
+berm. Most mines use mid-axle height as a minimum for berm             problem is spotted.
+construction.                                                             If dumping is done in an area where dozers are being used to
+• Report loss of nighttime area lights that provide the capability     push material over the edge of the pile, drivers should use them
+of seeing around the dump point at night. Do not dump in areas         appropriately. Loads should be dumped back from the slope
+where lighting is inadequate.                                          edge as directed. Accidents have occurred when a truck
+• Check that the dumping area is level or sloping slightly up          dumped a load over an edge even though a dozer had been
+toward the edge. A slight-up slope to the edge will help keep          assigned to push material over. In many of these cases, the crest
+the truck under control when backing uphill. It will also drain        of the pile was not strong enough to support the weight of the
+water away from the edge so the dump edge remains dry and              truck or the berms were inadequate.
+stable.
+• If more than one truck is dumping at a time, keep at least two                        BACKING ORIENTATION
+truck-widths apart to spread the weight and to avoid hitting
+another truck if a tip-over occurs.                                        As a truck is backed at an angle to the slope edge, one set of
+• Be aware that rain, melting snow, freezing and thawing, and          rear dual tires will reach the edge before the other. If the rear
+other weather effects can weaken the dump and lead to unstable         tires on the side of the truck opposite the operator’s
+slopes.                                                                compartment reach the slope edge first, the chance for an
+• Make the turn to back up at least one truck-width away from          accident increases. This happens when the operator is watching
+the dump berm to avoid overloading the dump edge.                      his/her side of the truck and unexpectedly contacts the berm
+• Back up almost perpendicular to the dumping berm so the left         with the other side so that the far-side tires bump the berm too
+rear tire approaches the berm first. This improves dumping po-         hard and the truck either goes through or over the berm. If the
+sition and can help keep the truck from penetrating or going           berms are inadequate or other impediments are not in place, then
+through the berm.                                                      the operator may simply back the far-side dual tires over the
+• Back up slowly and come to a gradual stop at the dump point          edge.
+to avoid loading the rear axle and causing the edge of the dump            Therefore, it is important for drivers to back their trucks
+to break away.                                                         square to the edge of the slope or at a slight angle that places the
+• Do not use or expect the berms or bumper blocks to stop the          operator’s side closer to the slope edge. Drivers should
+truck. Stop just before the berm. This avoids accidentally             primarily use the mirrors on their side of the truck when
+breaking through the berm and going over the edge.                     backing. It is much easier to judge backing distance when using
+• If people or equipment operators are nearby, wait to dump a          the near-side mirrors. They are closer and provide a larger
+load. Raising the truck bed can cause materials to fall off and        image than the mirrors on the far side of the truck.
+can injure or kill those around the truck.                                 In summary, DRIVERS SHOULD BACK SQUARE TO
+• Shift the truck into neutral and set the appropriate brake when      THE EDGE USING THE CLOSEST MIRROR. THEY
+dumping. This avoids accidental movement forward or back-              SHOULD GLANCE OCCASIONALLY AT THE FAR
+ward while the driver is focusing on dumping. Do not use the           MIRRORS TO CHECK FOR CORRECT ORIENTATION
+retarder as a brake.                                                   AND POSSIBLE OBSTACLES.
+• Be alert for the presence of material stuck in the bed when
+hauling wet or damp materials. Materials stuck in the bed can                                BACKING SPEED
+cause truck stability problems.
+• Before leaving the dump area, lower the truck bed com-                  Drivers should approach the slope edge at a moderate-to-slow
+pletely. Lowering the truck bed provides better truck stability,       speed when backing to dump and should apply the brakes
+reduces damage to equipment, and reduces the likelihood of             gradually while stopping. Braking hard at the last moment
+electrocution by overhead powerlines.                                  imposes a large horizontal force on the truck in addition to the
+                                                                                                                                       13
+
+
+normal vertical force imposed by the weight of the truck. This          The transmission should be engaged before the parking brake is
+additional horizontal force substantially increases the chance of       released to prevent the truck from rolling backward. The truck
+a slope failure. Even when backing to the slope edge slowly, it         bed should be as low as soon as possible. If material is hanging
+is important to brake gradually. Braking hard at the last minute        up in the bed, moving the truck can increase the chance for
+at a slow speed will also increase the potential for a slope            tipping over. The truck bed should be fully lowered before
+failure.                                                                leaving the dump site and entering the haulage road.
+    In addition to slope failures, there are other hazards as-
+sociated with backing too fast. It decreases the driver’s reaction         HAULAGE TRUCKS BACKING OVER AN EDGE
+time if hazards occur at the dump point or problems develop
+with the truck. It also increases the risk that the driver will con-        An operator must STAY ALERT when operating a haulage
+tact the berm too fast, going over or through it.                       truck near the crest of a stockpile. They must know where the
+                                                                        rear tires are in relation to the slope edge. A surprisingly high
+                     UNLEVEL GROUND                                     number of stockpile accidents occur when a haulage truck is
+                                                                        simply backed over the edge of a pile. When operators are end-
+    A vehicle’s center of gravity rises as the bed is raised into the   dumping over the crest of a stockpile, they must make sure that
+dump position. If the truck is parked on a slight downhill grade        it is in a designated area with adequate berms or other im-
+toward the berm or if it is leaning sideways, it may be in danger       pediments.
+of tipping. The potential for tipping increases when the load is            Mirrors must be clean and properly adjusted. When dumping
+hanging up in the truck bed or the material is not flowing out          at night, lighting should be adequate to see the edge. Brakes
+freely.                                                                 must be tested to ensure they are working properly.
+    The dump point should NEVER be constructed so a truck is                Operators should back slowly to ensure there is adequate time
+parked on a downward slope toward the berm. If the decline is           to react and stop before contacting the berm. BERMS CAN-
+too steep and material hangs up in the truck bed, then the truck is     NOT BE RELIED ON TO STOP A TRUCK. When a spotter
+in danger of tipping over backward. Creating a slope toward a           is used, the spotter should stand where his/her signal can be
+dump point also provides poor drainage, allowing water to accu-         clearly recognized. Spotters should use signal lights at night
+mulate at the berm, which can result in decreased slope strength        and when visibility is limited.
+and soft footing that allows the rear tires to sink. Stopping on a
+decline also requires additional braking force, which places ad-                                    BERMS
+ditional reliance on the braking system and imposes greater forces
+on the slope, increasing the potential for a slope failure.                Backing through or over a berm is a common cause of stock-
+    THE DUMP POINT SHOULD BE CONSTRUCTED                                pile accidents. A normal rule of thumb states that berm height
+LEVEL OR AT A SLIGHT UPWARD INCLINE. Maintaining                        should be equal to mid-axle height of the largest truck using the
+the dump point at a slight upward angle (1° to 3°) allows for           dump site. For roadways, this is mandatory under 30 CFR
+drainage and decreases the amount of force required to stop the         56/57.9300. Coal mine safety and health policy also requires
+truck. It also decreases the chance of tipping over backward            that berms be equal to the axle height of the largest truck at the
+should material hang up in the truck bed.                               work site. The berms should be constructed strong enough to
+    THE DUMP POINT SHOULD BE CONSTRUCTED SO A                           survive a moderate impact. However, they should not be relied
+HAULAGE TRUCK SITS FLAT AND DOES NOT LEAN TO                            on to stop a truck. Berms should be used as a visual indicator
+THE SIDE. If the sideways angle is too steep or material hangs          of where the truck should be stopped or to provide a “feeling”
+up in the truck bed, the truck is in danger of tipping on its side.     of the berm as the rear tires contact it. A BERM SHOULD BE
+This is also a problem when the dump point is soft. The rear            USED FOR SPOTTING ONLY!
+tires may sink as the truck bed is raised into the dumping                 If a berm is present, it should not be assumed that the area is
+position. If the tires do not sink evenly, the truck will lean to       a safe place to dump. The haulage truck driver should verify
+one side, again increasing the chance of tipping over. Soft             that material has not been removed from the toe of the pile.
+material will also force the operator to apply more power to the        Routine supervisory inspections should also be performed to
+drive wheels when approaching the berm, complicating control            ensure that the slope is stable. The relevant Federal regulations
+of the truck in this potentially hazardous area.                        are—
+
+                   TRUCK BED POSITION                                               30 CFR 56/57.9301. Dump site restraints.
+                                                                                    Berms, bumper blocks, safety hooks, or simi-
+   As the operator approaches the dump site, he or she should                  lar impeding devices shall be provided at dumping
+look for any overhead obstructions, such as powerlines. After                  locations where there is a hazard of overtravel or
+backing to the dump point, the truck should be brought to a                    overturning.
+complete stop and the parking brake or a holding brake applied.                     30 CFR 77.1605 Loading and haulage equip-
+The procedures provided in the operator’s manual should be                     ment, installations.
+followed for a particular truck being operated.
+   After the load is dumped, the driver should pull out slowly.
+14
+
+
+            Berms, bumper blocks, safety hooks, or simi-              trucks, etc., and that they be maintained in working condition.
+       lar means shall be provided to prevent overtravel              More importantly, the regulations state that they must be worn.
+       and overturning at dumping locations.
+                                                                                    DRUG AND ALCOHOL ABUSE
+   Therefore, depending upon the specific mine, an impediment
+other than a berm may be used. TRUCK DRIVERS MUST                        The safe operation of mobile equipment is extremely de-
+MAKE SURE THAT THEY DUMP ONLY WHERE A BERM                            pendent upon the capabilities of the operator, especially when
+OR IMPEDING DEVICE IS PROVIDED.                                       the size and power of modern equipment are considered. Drugs
+                                                                      and alcohol dull senses. They reduce response time, attention
+                         SEAT BELTS                                   span, and the a person’s ability to identify an impending prob-
+                                                                      lem. More importantly, they inhibit a person’s ability to react
+   The chance of surviving an accident is greater when a seat         when in a hazardous situation.
+belt is worn. In fact, the safest place to be during an accident is      Miners who use drugs or alcohol affect not only themselves,
+in the cab with a seat belt fastened. Nearly half of all mobile       but the people working with them. A person under the influence
+mining equipment fatalities involved operators who were not           of drugs or alcohol is more likely to be involved in an accident
+wearing a seat belt or who took it off in a futile attempt to jump
+                                                                      and suffer an injury. More importantly, a person under the in-
+clear of the equipment. Staying with the machine is almost al-
+                                                                      fluence of drugs or alcohol is more likely to cause a serious in-
+ways better than attempting to jump out. A significant number
+                                                                      jury or death to a coworker, not to mention damage to company
+of fatalities can be prevented by the simple act of wearing a seat
+                                                                      property. FOR EVERYONE’S SAKE, DON’T MIX DRUGS,
+belt and by remaining in the cab.
+   With a few exceptions, Federal regulations mandate that seat       ALCOHOL, AND MINING.
+belts be provided on dozers, scrapers, front-end loaders, haulage
+
+
+                                                           STOCKPILES
+   A stockpile is a temporary pile of ore or other material that      gratings, stopping blocks, and guide rails. Look over an area
+will be used later. Stockpiles are especially hazardous if ac-        before pulling in to dump to check for any damage to any of
+tivities are being carried out at the top edge and the toe. Load-     these features. Dumping at these areas is very repetitive, and
+ing out material at the toe causes sloughing that can cover a         special efforts are needed to maintain driver awareness. STAY
+loader. It can also oversteepen the slope, making the top edge        ALERT.
+of the pile unstable for trucks that may be dumping at the top.
+Always dump in an area where nothing is happening imme-                              STOCKPILING TECHNIQUES
+diately below and never dump over an oversteepened slope. If
+possible, dumping should be done at least one truck-length away          Stockpiling techniques vary depending upon the size of the
+from the edge and materials, then pushed by dozer to final            mine, the type of material handled, and type of equipment
+position. Always look around.                                         available. Some techniques are safer than others and should be
+                                                                      used when applicable.
+                         SPOIL PILES
+                                                                                   A “Good” Method of Stockpiling
+   Spoil piles are usually permanently placed materials or spoils.
+Because the layout and characteristics of dumped materials               A “good” method of stockpiling involves dumping a load
+change, there can be soft spots, weak and loose materials, and        back from the crest of the pile, after which the material is
+steep slopes, all of which can cause unstable piles. Of special       bumped over the edge by a dozer or a front-end loader using
+concern are dumps that are constructed by trucks end-dumping          other material. This method allows the easy construction and
+over the dump edge to form angle-of-repose slopes. Careful in-        maintenance of berms and keeps mobile equipment away from
+spection of the dump edge for sloughs and cracks along the edge       the edge of the pile where the chance of being involved in an
+should be done before approaching the dump. Look for the              accident is highest. When combined with well-trained operators
+minimum suggested heights (to mid-axle) of dumping berms.             and routine inspections for signs of slope instability, this method
+Remember also that too much moisture can weaken the pile. BE          drastically reduces the likelihood of an accident.
+CAREFUL.
+                                                                                    A “Fair” Method of Stockpiling
+                    BINS AND HOPPERS
+                                                                         A “fair” method of stockpiling involves dumping a load di-
+  Bins and hoppers are engineered structures for storing or           rectly over the crest of the pile. For this method to be performed
+channeling materials. These structures have a specific dump           safely, adequate berms must be maintained and equipment
+point with features such as overhead obstructions, chutes,            operators must be well trained to recognize stockpile hazards.
+                                                                                                                                                     15
+
+
+Other factors, including the type of material, condition of the                truck driver must ensure that dumping does not occur where the
+material, weather, and type and size of haulage truck, also need               slope has been steepened by reclaiming activities. The practice
+to be considered. It is also important to inspect the dump area                of dumping over the edge of a stockpile in an area where the
+routinely for signs of slope instability. When using this method,              slope has been loaded out at the toe should be prohibited.
+it is important to ensure that material is not removed from the
+toe of the pile where dumping is taking place.                                                    Good Alternative Method
+
+          A “Dangerous” Method of Stockpiling                                     A very good alternative method involves the construction of
+                                                                               stockpiles in layers. In this method, loads are dumped as piles on
+   A “dangerous” method of stockpiling involves dumping a                      a single level. After a level is complete, it is then smoothed over
+load directly over the crest of a pile where material has                      by a dozer and dumping continues on the next layer. Operating
+beenremoved from the toe. Removing material from the base of                   mobile equipment compacts the previous layer and creates a pile
+a pile generally results in a steepened slope. A steepened slope               of greater strength. The method also permits the slope angle to be
+is less stable and cannot support as much weight, creating a                   maintained lower than the angle of repose, resulting in greater
+hazard for equipment operating near the crest of the pile if the               slope stability. Haulage trucks are also kept away from the edge
+slope fails. The mine supervisor, loader operator, and haulage                 of the pile. From a quality control standpoint, this method also
+                                                                               avoids undesirable size separation of material.
+
+
+                                                                BIBLIOGRAPHY
+    National Mine Health and Safety Academy, Beaver, WV [1996]. Annual            Mine Safety and Health Administration [1995]. Surface haulage safety.
+refresher workbook. 20 pp.                                                     Safety Manual 22. Beaver, WV: U.S. Dept. of Labor, National Health and
+    Glenrock Coal Co., Glenrock, WY [1997]. Off-highway truck safety           Safety Academy, 41 pp.
+manual. 27 pp.                                                                    Mine Safety and Health Administration [1997]. Dump-point safety:
+    Mine Safety and Health Administration [in press]. Dump-point inspection    Stockpiles and wastepiles. Safety video, VC-858, 14 min. Beaver, WV: U.S.
+handbook. MSHA Handbook Series. Beaver, WV: U.S. Dept. of Labor, Na-           Dept. of Labor, National Health and Safety Academy.
+tional Health and Safety Academy.                                                 Newmont Gold Co., Carlin, NV [1995]. Truck driver training manual.
+    Mine Safety and Health Administration [1992]. Stockpiling safety. Safety   Training Dept., 21 pp.
+Manual 30. Beaver, WV: U.S. Dept. of Labor, National Health and Safety            Phelps Dodge Morenci, Morenci Mines Division, Morenci, AZ [1992].
+Academy, 58 pp.                                                                Specific codes of safe practice for heavy truck operations. 28 pp.
+16
+
+
+
+                              APPENDIX B.–MSHA PART 50 DATA SELECTION CRITERIA
+
+   MSHA Part 50 data for the years 1988 through 1997 were                       authors reviewed the 173 fatal injury narratives for the surface
+analyzed using the selection criteria in table B-1. Each target                 mining truck group, which resulted in the selection of 30
+group except the dump site group was acquired using the MSHA                    fatalities that might have occurred while a haulage truck was
+codes. To acquire the descriptions and numbers of serious                       active at a dump site. The authors reviewed MSHA fatal
+injuries at dump site, 3,116 narratives for the load-haul-dump                  accident reports for these 30 incidents, resulting in the addition
+(LHD) group were analyzed, resulting in a final selection of 369                of one fatal incident not selected using the criteria shown in
+records. To ensure that all fatal incidents were identified, the                table B-1.
+
+
+                                                 Table B-1.—Criteria used to search MSHA Part 50 databases
+
+       MSHA field data                           Target data                          Selection criteria                        No. of records
+Subunit . . . . . . . . . . . . . . . . . . . Surface mining        Surface at underground OR                                     155,992
+                                                                    Strip OR
+                                                                    Auger OR
+                                                                    Culm bank OR
+                                                                    Other surface OR
+                                                                    Preparation plant
+Degree of injury . . . . . . . . . . . . Surface mining             Death OR                                                        79,601
+                                         Serious injuries           Permanent disability OR
+                                                                    Days away from work only OR
+                                                                    Days away and restricted activity
+Mining machine . . . . . . . . . . . . Surface mining               Bulldozer OR                                                   15, 601
+                                       Mobile equipment             Front-end loader OR
+                                       Serious injuries             Load-haul-dump OR
+                                                                    Off-highway ore haulage truck OR
+                                                                    Highway ore haulage trucks OR
+                                                                    Road grader OR
+                                                                    Scraper OR
+                                                                    Trucks (not ore haulage)
+Mining machine . . . . . . . . . . . . Surface mining               Load-haul-dump OR                                                7,305
+                                       Truck                        Off-highway ore haulage truck OR
+                                       Serious injuries             Highway ore haulage trucks OR
+                                                                    Trucks (not ore haulage)
+Mine worker activity . . . . . . . . . Surface mining               Escaping a hazard OR                                             3,116
+                                       Truck                        Bulldozer OR
+                                       Load-haul-dump               Front-end loader OR
+                                       Serious injuries             Haulage truck OR
+                                                                    Load-haul-dump OR
+                                                                    Utility truck OR
+                                                                    Surface equipment not elsewhere classified
+                                                                                                                                     1
+Narrative . . . . . . . . . . . . . . . . . . Surface mining        Author selection                                                     369
+                                              Haulage truck
+                                              Dump site
+                                              Serious injuries
+1
+ 370 serious injuries at dump sites were analyzed in this report.
+                                                                                                                                                                           17
+
+
+
+                                                APPENDIX C.—SUPPLEMENTAL INJURY TABLES
+
+                    SURFACE MINING AND SURFACE MOBILE EQUIPMENT INJURY TABLES
+                                   Table C-1.—Fatalities and lost-time injuries by surface mining and mobile equipment by year
+
+          Year                                                        Surface mining                                                       Mobile equipment
+                               Fatalities                     Lost-time injuries                    Hours worked              Fatalities            Lost-time injuries
+1988 . . . . . . . . .             69                                9,919                            492,698,210                32                        1,786
+1989 . . . . . . . . .             63                               10,325                            502,994,475                23                        1,893
+1990 . . . . . . . . .             69                               10,119                            506,406,304                32                        1,880
+1991 . . . . . . . . .             63                                9,041                            482,370,836                27                        1,650
+1992 . . . . . . . . .             57                                7,826                            471,459,652                29                        1,499
+1993 . . . . . . . . .             55                                7,288                            460,721,974                20                        1,433
+1994 . . . . . . . . .             54                                7,253                            474,369,329                24                        1,515
+1995 . . . . . . . . .             72                                6,123                            474,539,386                31                        1,270
+1996 . . . . . . . . .             52                                5,622                            476,888,917                17                        1,242
+1997 . . . . . . . . .             65                                5,504                            480,996,381                27                        1,171
+  Totals . . . . . .              619                               78,982                          4,823,445,464               262                      15,339
+
+
+
+                                     Table C-2.—Serious injuries by surface mining and mobile equipment by degree of injury
+
+                                  Degree of injury                                                   Surface mining                             Mobile equipment
+                                                                                                Number            Percent                  Number            Percent
+Days away from work only . . . . . . . . . . . . . . . . . . . . . . . . . . . .                69,136               86.9                   13,965              89.5
+Days away and restricted activity . . . . . . . . . . . . . . . . . . . . . . .                  7,472                9.4                    1,111               7.1
+Permanent disability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           2,374                3.0                      263               1.7
+Death . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      619                0.8                      262               1.7
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    79,601              100                     15,601            100
+
+
+                                          Table C-3.—Serious injuries and fatalities in surface mining by mine worker activity
+
+                               Mine worker activity                                                  Serious injuries                               Fatalities
+                                                                                                Number              Percent                Number                Percent
+Handling supplies or material, loading and unloading . . . . . . .                              18,371                 23.1                  54                      8.7
+Machine maintenance/repair . . . . . . . . . . . . . . . . . . . . . . . . . .                  11,579                 14.5                  91                    14.7
+Get on or off equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              8,973                 11.3                  25                      4.0
+Walking/running . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          6,687                  8.4                  31                      5.0
+Hand tools (not powered) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               6,419                  8.1                  17                      2.7
+Haulage truck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        2,439                  3.1                  68                    11.0
+Welding and cutting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2,407                  3.0                  17                      2.7
+Hand load: shoveling/mucking . . . . . . . . . . . . . . . . . . . . . . . . .                   1,859                  2.3                   7                      1.1
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   20,867                 26.2                 309                    49.9
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   79,601                100                   619                   100
+
+
+                                     Table C-4.—Serious injuries and fatalities with mobile equipment by mine worker activity
+
+                               Mine worker activity                                                  Serious injuries                               Fatalities
+                                                                                                Number              Percent                Number                Percent
+Getting on or off equipment . . . . . . . . . . . . . . . . . . . . . . . . . . .                4,490                 28.8                  17                      6.5
+Haulage truck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        2,335                 15.0                  66                    25.2
+Machine maintenance/repair . . . . . . . . . . . . . . . . . . . . . . . . . .                   2,305                 14.8                  28                    10.7
+Front-end loader . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         1,277                  8.2                  25                      9.5
+Handling supplies or material, loading and unloading . . . . . . .                               1,075                  6.9                  15                      5.7
+Bulldozer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        935                  6.0                  17                      6.5
+Utility truck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      508                  3.3                  25                      9.5
+Hand tools (not powered) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 384                  2.5                   3                      1.1
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2,292                 14.7                  66                    25.2
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15,601                100                   262                   100
+18
+
+
+                                              Table C-5.—Serious injuries and fatalities in surface mining by mining machine
+
+                                   Mining machine                                                      Serious injuries                  Fatalities
+                                                                                                  Number              Percent   Number                Percent
+Hand tools (not powered) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 7,841                 9.9      14                    2.3
+Ore haulage trucks, off-highway . . . . . . . . . . . . . . . . . . . . . . . .                    4,926                 6.2     126                   20.4
+Front-end loader . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           4,389                 5.5      52                    8.4
+Bulldozer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        2,962                 3.7      23                    3.7
+Conveyor (all types) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             2,233                 2.8      35                    5.7
+Welding machine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              2,193                 2.8       8                    1.3
+Trucks (not ore haulage) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 2,040                 2.6      43                    6.9
+Dragline or shovel (mining and stripping) . . . . . . . . . . . . . . . . .                        1,778                 2.2      26                    4.2
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13,985                17.6     173                   27.9
+Missing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     37,254                46.8     119                   19.2
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      79,601              100        619                  100
+
+
+                                          Table C-6.—Serious injuries and fatalities with mobile equipment by mining machine
+
+                                   Mining machine                                                      Serious injuries                  Fatalities
+                                                                                                  Number              Percent   Number                Percent
+Ore haulage trucks, off-highway . . . . . . . . . . . . . . . . . . . . . . . .                     4,926               31.6      126                   48.1
+Front-end loader . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            4,389               28.1       52                   19.8
+Bulldozer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         2,962               19.0       23                   16.4
+Trucks (not ore haulage) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  2,040               13.1       43                    8.8
+Scraper . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         681                4.4       11                    4.2
+Roadgrader . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            264                1.7        3                    1.1
+Load-haul-dump . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                179                1.1        1                    1.1
+Ore haulage truck, highway . . . . . . . . . . . . . . . . . . . . . . . . . . .                      160                1.0        3                    0.4
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       15,601              100        262                  100
+
+
+                                                Table C-7.—Serious injuries and fatalities in surface mining by canvas class
+
+                                     Canvas class                                                      Serious injuries                  Fatalities
+                                                                                                  Number              Percent   Number                Percent
+Stone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     25,580                 32.1    197                    31.8
+Bituminous coal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           24,238                 30.4    198                    32.0
+Metal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11,018                 13.8     75                    12.1
+Sand and gravel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           10,943                 13.7    102                    16.5
+Nonmetal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         6,499                  8.2     39                      6.3
+Anthracite coal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          1,323                  1.7      8                      1.3
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      79,601                100      619                   100
+
+
+                                            Table C-8.—Serious injuries and fatalities with mobile equipment by canvas class
+
+                                     Canvas class                                                      Serious injuries                  Fatalities
+                                                                                                  Number              Percent   Number                Percent
+Bituminous coal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            7,107                 45.6     91                    34.7
+Stone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      3,785                 24.3     75                    28.6
+Sand and gravel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            2,083                 13.4     44                    16.8
+Metal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1,669                 10.7     39                    14.9
+Nonmetal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           679                  4.4     11                      4.2
+Anthracite coal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            278                  1.8      2                      0.8
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      15,601                100      262                   100
+                                                                                                                                                                19
+
+
+
+                                       HAULAGE TRUCK INJURY TABLES - MSHA DATA FIELDS
+
+                                        Table C-9.—Serious injuries and fatalities with haulage trucks by mine worker activity
+
+                                Mine worker activity                                                   Serious injuries                  Fatalities
+                                                                                                 Number               Percent   Number                Percent
+Haulage truck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          317                  85.7      22                    84.6
+Escaping a hazard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               31                   8.4       1                     3.8
+Utility truck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       10                   2.7       1                     3.8
+Load-haul-dump . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               7                   1.9       1                     3.8
+Surface equipment not elsewhere classified . . . . . . . . . . . . . .                               2                   0.5       0                     0.0
+Getting on or off equipment . . . . . . . . . . . . . . . . . . . . . . . . . . .                    1                   0.3       1                     3.8
+Bulldozer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          1                   0.3       0                     0.0
+Front-end loader . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1                   0.3       0                     0.0
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      370                 100        26                   100
+
+
+                                           Table C-10.—Serious injuries and fatalities with haulage trucks by mining machine
+
+                                   Mining machine                                                      Serious injuries                  Fatalities
+                                                                                                 Number               Percent   Number                Percent
+Ore haulage trucks, off-highway . . . . . . . . . . . . . . . . . . . . . . . .                    343                  92.7      24                    92.3
+Trucks (not ore haulage) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  14                   3.8       2                     7.7
+Ore haulage trucks, highway . . . . . . . . . . . . . . . . . . . . . . . . . .                     11                   3.0       0                     0.0
+Load-haul-dump . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               2                   0.5       0                     0.0
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       370                 100        26                   100
+
+
+                                                 Table C-11.—Serious injuries and fatalities with haulage trucks by subunit
+
+                                         Subunit                                                       Serious injuries                  Fatalities
+                                                                                                 Number               Percent   Number                Percent
+Strip or open pit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          284                  76.8      22                    84.6
+Mill or preparation plant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               69                  18.6       3                    11.5
+Surface at underground . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   8                   2.2       1                     3.8
+Dredge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         4                   1.1       0                     0.0
+Culm bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            3                   0.8       0                     0.0
+Auger . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        2                   0.5       0                     0.0
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      370                 100        26                   100
+
+
+                                                    Table C-12.—Serious injuries and fatalities with haulage trucks by state
+
+                                           State                                                       Serious injuries                  Fatalities
+                                                                                                 Number               Percent   Number                Percent
+Kentucky . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        64                  17.3      4                     15.4
+West Virginia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           38                  10.3      1                       3.8
+Pennsylvania . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            35                   9.5      4                     15.4
+Nevada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        28                   7.6      3                     11.5
+California . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        19                   5.1      2                       7.7
+Minnesota . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         16                   4.3      0                       0.0
+Ohio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      15                   4.1      1                       3.8
+Indiana . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       13                   3.5      0                       0.0
+Texas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       12                   3.2      0                       0.0
+Virginia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      12                   3.2      0                       0.0
+Arizona . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       10                   2.7      3                     11.5
+All others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       108                  29.2      8                     30.8
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      370                 100       26                    100
+20
+
+
+                                           Table C-13.—Serious injuries and fatalities with haulage trucks by nature of injury
+
+                                   Nature of injury                                                    Serious injuries                      Fatalities
+                                                                                                 Number               Percent       Number                Percent
+Multiple injuries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        118                  31.9          17                    65.4
+Sprains, strains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         103                  27.8           0                      0.0
+Fracture, chip . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          43                  11.6           0                      0.0
+Contusion, bruise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             36                   9.7           0                      0.0
+Cut, laceration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           17                   4.6           0                      0.0
+Burn or scald . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            6                   1.6           2                      7.7
+Asphyxia, strangulation, drowning . . . . . . . . . . . . . . . . . . . . . .                        4                   1.1           4                    15.4
+Concussion, brain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              3                   0.8           0                      0.0
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       40                  10.8           3                    11.5
+    Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      370                 100            26                   100
+
+
+
+                                             Table C-14.—Serious injuries and fatalities with haulage trucks by age of victim
+
+                                       Age range                                                       Serious injuries                      Fatalities
+                                                                                                 Number               Percent       Number                Percent
+Less than 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           7                   1.9           1                     3.8
+20 to 29 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      66                  17.8           5                    19.2
+30 to 39 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     123                  33.2           3                    11.5
+40 to 49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      81                  21.9           4                    15.4
+50 to 59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      62                  16.8           6                    23.1
+60 to 69 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      20                   5.4           6                    23.1
+70 and older . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           2                   0.5           1                     3.8
+Unknown . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          9                   2.4           0                     0.0
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       370                 100            26                   100
+
+
+
+                                                 Table C-15.—Fatalities with haulage trucks by mining experience of victim
+
+        Number of years of                                  Total years of mining                        Total years at this mine      Total years at this job
+               experience                                  Number          Percent                       Number           Percent    Number            Percent
+Less than 1 . . . . . . . . . . . . . . . . .                 3               11.5                          9                34.7      10                 38.5
+1 to 5 . . . . . . . . . . . . . . . . . . . . . .            4               15.4                          7                26.9       6                 23.1
+5 to 15 . . . . . . . . . . . . . . . . . . . . .            10               38.5                          7                26.9       7                 26.9
+15 to 30 . . . . . . . . . . . . . . . . . . . .              5               19.2                          2                 7.7       3                 11.5
+More than 30 . . . . . . . . . . . . . . .                    4               15.4                          1                 3.8       0                   0.0
+    Total . . . . . . . . . . . . . . . . . . .              26             100                            26               100        26               100
+
+
+
+
+                                       HAULAGE TRUCK INJURIES, AUTHOR CLASSIFICATIONS
+
+                                             Table C-16.—Serious injuries and fatalities with haulage trucks by truck activity
+
+                                     Truck activity                                                    Serious injuries                      Fatalities
+                                                                                                 Number               Percent       Number                Percent
+Stationary dumping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             179                  48.4           4                    15.4
+Backing up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         156                  42.2          20                    76.9
+Moving forward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            32                   8.6           2                     7.7
+Other/unknown . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              3                   0.8           0                     0.0
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       370                 100            26                   100
+                                                                                                                                                                       21
+
+
+                                                  Table C-17.—Serious injuries and fatalities with haulage trucks by incident
+
+                                         Incident                                                         Serious injuries                      Fatalities
+                                                                                                    Number               Percent       Number                Percent
+Fell over edge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            137                  37.0          22                    84.6
+Rolled over . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            93                  25.1           1                     3.8
+Bounced or jarred . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                78                  21.1           0                     0.0
+Collision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          12                   3.2           0                     0.0
+Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       11                   3.0           2                     7.7
+Hung up on edge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  10                   2.7           0                     0.0
+Struck by object . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                3                   0.8           0                     0.0
+Contacted powerline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   3                   0.8           1                     3.8
+Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        21                   5.7           0                     0.0
+Unknown . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             2                   0.5           0                     0.0
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          370                 100            26                   100
+
+
+
+                                         Table C-18.—Serious injuries and fatalities with haulage trucks by effects on operator
+
+                                   Operator Impact                                                        Serious injuries                      Fatalities
+                                                                                                    Number               Percent       Number                Percent
+Struck against object . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 200                  54.1           7                    26.9
+Jarred/tossed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              80                  21.6           0                     0.0
+Landed outside cab . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   52                  14.1          11                    42.3
+Musculoskeletal injuries . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     16                   4.3           0                     0.0
+Struck by object . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                8                   2.2           0                     0.0
+Burned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            8                   2.2           3                    11.5
+Drowned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             4                   1.1           4                    15.4
+Electrocuted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              2                   0.5           1                     3.8
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          370                 100            26                   100
+
+
+                                                            Table C-19.—Serious injuries by haulage truck activity by year
+
+        Year                            Stationary dumping                             Backing up               Moving forward     Unknown/other              Total
+1988 . . . . . . . . . . . .                  24                                          18                          5                 0                      47
+1989 . . . . . . . . . . . .                  17                                          27                          1                 0                      45
+1990 . . . . . . . . . . . .                  21                                          24                          4                 1                      50
+1991 . . . . . . . . . . . .                  20                                          20                          3                 1                      44
+1992 . . . . . . . . . . . .                  15                                          13                          4                 0                      32
+1993 . . . . . . . . . . . .                  11                                          18                          2                 0                      31
+1994 . . . . . . . . . . . .                  22                                          13                          1                 0                      36
+1995 . . . . . . . . . . . .                  15                                            7                         1                 1                      24
+1996 . . . . . . . . . . . .                  15                                            7                         6                 0                      28
+1997 . . . . . . . . . . . .                  19                                            9                         5                 0                      33
+   Total . . . . . . . . .                   179                                         156                         32                 3                     370
+
+
+
+                                                 Table C-20.—Serious injuries and fatalities by exit cause from haulage truck
+
+                                       Exit cause                                                        Serious injuries                       Fatalities
+                                                                                                    Number              Percent        Number                Percent
+Jumped . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          35                  67.3            1                     9.1
+Thrown out . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            13                  25.0            7                    63.6
+Jumped or thrown out . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   4                   7.7            3                    27.3
+   Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          52                 100             11                   100
+
+
+                                              Table C-21.—Serious injuries and fatalities with haulage trucks by seat belt use
+
+                                            Use                                                          Serious injuries                       Fatalities
+                                                                                                    Number              Percent        Number                Percent
+Seat belt worn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1                   1.9            0                     0.0
+Seat belt NOT worn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  11                  21.2           10                    90.9
+Unknown . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           40                  76.9            1                     9.1
+  Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           52                 100             11                   100
+22
+
+
+                                        Table C-22.—Contributing factors to serious injuries and fatalities with haulage trucks
+
+                              Contributing factors                                              Serious injuries                      Fatalities
+                                                                                           Number        Percentage of 370   Number         Percentage of 26
+Edge failure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         79                  21.4          6                  23.1
+Mechanical/hydraulic failure . . . . . . . . . . . . . . . . . . . . . . . .                 56                  15.1          2                   7.7
+Uneven ground . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            48                  13.0          1                   3.8
+Load unbalanced/shifted . . . . . . . . . . . . . . . . . . . . . . . . . .                  43                  11.6          2                   7.7
+Traveled though berm/barrier . . . . . . . . . . . . . . . . . . . . . . .                   33                   8.9          8                  30.8
+Undercut pile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          16                   4.3          6                  23.1
+No berm or barrier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             14                   3.8          9                  34.6
+Weather . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         9                   2.4          1                   3.8
+Truck stalled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         7                   1.9          0                   0.0
+Inadequate powerline clearance . . . . . . . . . . . . . . . . . . . . .                      4                   1.1          1                   3.8
+Limited visibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          1                   0.3          1                   3.8
+None . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     96                  25.9          0                   0.0
+                                                                                                                                   23
+
+
+
+      APPENDIX D.–CODE LISTING FOR AUTHOR-DEFINED INJURY CLASSIFICATIONS
+
+                                       PRIMARY INJURY CLASSIFICATIONS
+
+A.    Truck activity: What was the truck doing?                           3. Musculoskeletal injury (MSI), i.e., operator hurt
+      1. Moving forward                                             while twisting or turning, reaching too far, pulling or pushing on
+      2. Backing up                                                 something, or lifting something.
+      3. Stationary dumping                                               4. Landed outside of cab, i.e., operator either jumped or
+      4. Other                                                      was thrown from truck cab and struck the ground.
+      5. Unknown (not enough information)                                 5. Struck by object, i.e., operator hit by moving object
+                                                                    that came either from within or outside the cab.
+Note: These activities are based on truck movement. If the                6. Drowned.
+truck was dumping while moving, the activity was coded as                 7. Burned.
+either moving forward or backing up. If the truck was dumping,            8. Electrocuted.
+but movement was not indicated, the term “stationary dumping”             9. Other.
+was used.                                                                10. Unknown (not enough information).
+
+B.     Incident result: What happened to the truck?                 D. Contributing factors: Events that contributed to the injury
+       1. Fell over edge, i.e., traveled over an edge and came      incident.
+to rest at a lower level.                                                 1. Edge failure, i.e., ground at the edge of the dump site
+       2. Hung up on edge, i.e., traveled onto an edge and got      gave way.
+stuck without falling over.                                               2. Mechanical/hydraulic failure, i.e., a mechanical or
+       3. Rolled over, i.e., quarter rolls and other rolls on the   hydraulic truck part failed.
+same level.                                                               3. Undercut pile, i.e., material removed from the base
+       4. Collision, i.e., collided with mobile equipment or        of a pile compromised the stability of the pile.
+other large stationary objects.                                           4. Traveled through berm/barrier, i.e., the truck went
+       5. Struck by object, i.e., struck by moving object that      through an edge berm or barrier.
+was not a piece of mobile equipment. This category includes an            5. No berm/barrier, i.e, no berm or barrier had been
+object coming into the cab.                                         constructed at the dump site edge.
+       6. Bounced or jarred, i.e., a sudden release of energy             6. Uneven ground, i.e., the truck traveled over elevated
+that caused the truck to bounce or lurch forward or backward.       ground, through holes, or over obstacles.
+       7. Fire                                                            7. Load unbalanced or shifted , i.e., truck bed material
+       8. Contacted powerline.                                      either shifted or dropped.
+       9. Other.                                                          8. Weather, i.e., weather conditions were severe.
+     10. Unknown (not enough information).                                9. Truck stalled, i.e., truck lost power and moved
+                                                                    without operator control.
+C.     Operator impact: What happened to the truck driver?               10. Inadequate powerline clearance, i.e., powerlines in
+       1. Struck against object, i.e, operator thrown against       a truck dumping area were close enough to the ground that they
+something within truck cab.                                         could be contacted by a raised bed.
+       2. Jarred/tossed, i.e., sudden release of energy caused           11. Limited visibility, i.e., the truck operator had dif-
+operator to be shaken up or tossed within the truck cab without     ficulty seeing because of darkness or severe weather conditions.
+striking against something. (Examples: truck bed shifted or
+dropped; the truck was backed over a rock or large chunks,          Note: More than one factor might have contributed to each
+went through a hole, or collided with something at low speed.)      incident.
+
+
+                                    SECONDARY INJURY CLASSIFICATIONS
+A. Exit cause. The way the operator left the truck cab in           B. Seat belt usage. Indication as to whether the truck op-
+incidents in which the operator landed outside the cab.             erator was wearing a seat belt.
+      1. Jumped.                                                          0. Unknown.
+      2. Thrown out.                                                      1. Seat belt worn.
+      3. Either jumped or thrown out.                                     2. Seat belt NOT worn.
+          Delivering on the Nation’s Promise:
+          Safety and health at work for all people
+            Through research and prevention
+
+
+For information about occupational safety and health topics contact NIOSH at:
+
+                       1-800-35-NIOSH (1-800-356-4674)
+                       Fax: 513-533-8573
+                       E-mail: pubstaft@cdc.gov
+                       www.cdc.gov/niosh
+
+
+
+
+                DHHS-(NIOSH) Publication No. 2001-124
+

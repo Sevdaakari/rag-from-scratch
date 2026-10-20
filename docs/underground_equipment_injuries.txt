@@ -1,0 +1,561 @@
+      TECHNICAL NOTE
+      Injuries associated with continuous miners,
+      shuttle cars, load–haul–dump and personnel
+      transport in New South Wales underground
+      coal mines
+      R. Burgess-Limerick*1 and L. Steiner2
+      In the three years to June 2005, 959 injuries associated with continuous miners (CMs), shuttle cars
+      (SCs), load–haul–dump and personnel transport (PT) were reported by NSW underground coal
+      mines, comprising 23% of all injuries reported. The present paper reports an analysis of the
+      narrative field accompanying these reports to determine opportunities for controlling injury risks.
+      The most common combinations of activity and mechanism were: strain while handling CM cable
+      (96 injuries); caught between or struck by moving parts while bolting on a CM (86 injuries); strains
+      while bolting on CM (54 injuries); and slipping off a CM during access, egress or other activity (60
+      injuries). For the other equipment considered, the common injury mechanism was the vehicle
+      running over a pothole or other roadway abnormality causing the driver or passengers to be
+      injured (169 injuries). Potential control measures include: monorails for CM services; hydraulic
+      cable reelers; handrails on CM platforms; redesign of CM platforms and bolting rigs to reduce
+      reach distances during drilling and bolting; improvements to guarding of bolting controls;
+      standardisation and shape coding of bolting controls; two handed fast feed; improvements in
+      underground roadway maintenance, vehicle suspension, visibility and seating; and pedestrian
+      proximity warning devices.
+      Keywords: Underground coal, Injury, Ergonomics, Development equipment
+
+
+
+
+      Introduction                                                                   body part, nature of injury, mechanism of injury or
+                                                                                     agency of injury. Such analyses are appropriate and may
+      Working with or near underground coal mining equip-                            especially be helpful in tracking broad trends over time,
+      ment is inherently hazardous owing to the multiple                             however further information is available in the narrative
+      sources of injurious energies and adverse environmental                        text field completed for each injury reported to the
+      conditions. Australian compensation statistics suggest                         workers’ compensation insurer for coal mines in NSW
+      that 22% of all lost time claims in the mining industry                        (Coal Services Pty Limited).
+      are associated with mobile plant and transport.1 A                                The detail contained in these narratives varies,
+      previous analysis of injury data obtained over 10 years                        however they generally provide additional insight into
+      from six mines suggested that the equipment most                               the causes of the injury, such as the activity being
+      commonly involved in these injuries were continuous                            performed at the time of the injury. Analysis of injury
+      miners (CMs), shuttle cars (SCs), load–haul–dump                               narratives has previously been undertaken in mining3,4
+      (LHD) vehicles and personnel transport (PT).2 The                              and construction.5 Helander and Krohn3 conducted an
+      present paper reports an analysis of the narrative text                        analysis of injury narratives for most hazardous under-
+      fields accompanying all reports of injuries associated                         ground machinery in hard rock mining, coding the
+      with these equipment types in New South Wales (NSW)                            narratives for worker activity, suggested cause of
+      underground coal mines in the three years to June 2005.                        accident, machine part involved and body part injured.
+         Conventional analyses of injury statistics typically                        Similarly, Helander et al.,4 examined injury narratives
+      provide tables detailing the breakdown of injuries by                          from 600 roof bolter accident reports from mines in the
+                                                                                     USA and coded each for cause, machine part and body
+      1
+                                                                                     part injured, concluding that roof bolting was the most
+        School of Human Movement Studies, The University of Queensland,
+      Australia
+                                                                                     dangerous job in US underground coal mines and that
+      2
+        National Institute for Occupational Safety and Health, Pittsburgh Research   rock falls accounted for 25% of roof bolting injuries.
+      Laboratory, USA                                                                   The information available in injury narratives has
+      *Corresponding author, email robin@hms.uq.edu.au                               potential to aid in prioritising effective control measures.
+
+
+      ß 2006 Institute of Materials, Minerals and Mining
+      Published by Maney on behalf of the Institute
+      Received 7 March 2006; accepted 6 September 2006
+160   DOI 10.1179/174328606X151033                                                                   Mining Technology    2006    VOL 115    NO 4
+                                                                                Burgess-Limerick and Steiner   Injuries in underground coal mines
+
+
+
+
+The aim of the present investigation is to utilise injury              and 122 with PT; a total of 959, or 23% of all injuries
+narratives to identify opportunities for reducing com-                 reported during the period.
+mon injury risks associated with underground coal                         Tables 3–6 provide the cross-tabulated frequencies
+mining equipment in NSW.                                               of codes for injuries associated with each of the four
+                                                                       equipment types under consideration. The same data are
+Method                                                                 represented in Figs. 1–4 as a means of highlighting the
+                                                                       predominant injury risks.
+The narrative text fields for all equipment related                       The data provided in Table 3 and illustrated in Fig. 1
+injuries reported by NSW underground coal mines                        highlight a number of opportunities for controlling injury
+during the three financial years to June 2005 were                     risks associated with CMs. Strains while handling was the
+provided by Coal Services Pty Limited. Injuries asso-                  most frequent cause of injury associated with CMs. The
+ciated with CM, SC, LHD and PT were identified for
+                                                                       majority of these injuries involved handling CM cable.
+further analysis. Contextual data such as the number of
+                                                                       Strains (typically of the shoulder) while bolting were also
+active underground mines, number of employees and
+                                                                       relatively common and are likely a consequence of
+total injury numbers were also obtained for each year.
+                                                                       handling drill steels and bolts at a distance from the
+   Analysis involved reading the full text field for
+                                                                       body. Slipping off the CM platform, whether during
+each injury and coding for the activity being under-
+                                                                       access or egress, or during operation on the platform,
+taken at the time of the injury and the causal
+                                                                       accounted for 60 injuries in the three year period.
+mechanism (see Table 1 for examples). The coding
+categories were not prestructured, but rather evolved                     Injuries caused by a body part (typically hand or
+during the data analysis in a method similar to Glaser                 fingers) being ‘caught between’ during bolting were also a
+and Strauss’ constant comparative coding.6 Frequencies                 frequent combination of activity and mechanism. These
+of the cross-tabulated combinations of codes were                      injuries are unintended consequences of the operation of
+calculated and presented graphically in Figs. 1–4 to aid               controls. The control operation was sometimes uninten-
+interpretation.                                                        tional, typically caused by bumping a control with self-
+                                                                       rescuer or battery, or the control was struck by a falling
+                                                                       object. Injuries caused by intentional control operation
+Results                                                                may be further divided into cases where:
+Table 2 provides relevant background data. Of the 4169                     (i) the wrong control was operated
+injuries reported during the three years to June 2005, 447                (ii) the correct control was operated in the wrong
+were associated with CMs, 232 with LHD, 140 with SCs                            direction
+
+Table 1 Examples of text fields and coding
+
+Example narrative                                                                                     Codes
+
+While assisting with face support when he carried steels                                              CM
+back to cassette on CM ABM right platform, he slipped                                                 Handling
+falling off the edge of the platform onto coal rubble causing                                         Slipped
+contusion to left thigh and left arm.
+While bolting on the O/D side of CM retrieving the drill                                              CM
+steel when he stepped backwards to replace the drill                                                  Bolting
+steel onto the rack he slipped off the side of the CM straining                                       Slipped
+his lower back.
+While roof bolting and putting up mesh when his hand resting                                          CM
+on top of steel his hand was caught between bolting rig and drill steel.                              Bolting
+                                                                                                      Caught between
+While roof bolting on ABM 20 lhs outer rig overstretching with                                        CM
+chemical in right hand and roof bolt in left hand installing a bolt,                                  Bolting
+he strained his left shoulder.                                                                        Strained
+While standing on a work platform lifting CM cable to the roof to                                     CM
+be placed on hooks, he strained his right shoulder.                                                   Handling cable
+                                                                                                      Strained
+While returning to EIMCO after having crib he grabbed the greasy                                      LHD
+handle that provided to help enter the EIMCO, slipped and fell twisting                               Access
+his left knee.                                                                                        Slipped
+While servicing Wagner No. 7 he slipped on machine after checking                                     LHD
+water level in the radiator straining his right knee.                                                 Maintenance
+                                                                                                      Slipped
+While he was crossing the road, he was struck by EIMCO bucket                                         LHD
+when deputy reversed the EIMCO ready to turn a corner lacerating his forehead.                        Driving
+                                                                                                      Ran into
+While driving a SC running over a packer the car bounced violently                                    SC
+throwing him out of the car; he managed to stop the machine and when                                  Driving
+he got out he felt pain to his left knee.                                                             Rough road
+While driving away from the CM, the SC bumped the rib and came over                                   SC
+the top of the canopy pinning him inside lacerating his face, neck and chest.                         Driving
+                                                                                                      Ran into
+While a passenger in PJB when machine hit a mud hole he was thrown                                    PT
+around in passenger compartment striking the roof causing neck and upper back pain.                   Travelling
+                                                                                                      Rough road
+
+
+
+
+                                                                                       Mining Technology       2006     VOL 115     NO 4     161
+Burgess-Limerick and Steiner   Injuries in underground coal mines
+
+
+
+
+        1 Combinations of activity and injury mechanism codes for injuries reported by NSW coal mines involving CMs for
+          three years to June 2005
+
+
+
+
+        2 Combinations of activity and injury mechanism codes for injuries reported by NSW coal mines involving LHD vehi-
+          cles for three years to June 2005
+
+
+        Table 2 Number of active underground coal mines in NSW for each of three years to June 2005, number of employees,
+                total number of injuries reported to Coal Service (MEO and TLC) and injuries coded as involving CMs, LHD,
+                SCs and PT
+
+        Year                Mines         Employees           Injuries   CM          LHD        SC         PT
+
+        2002–2003           29            5064                1491       114          90         51         40
+        2003–2004           27            5054                1361       191          73         44         37
+        2004–2005           28            5620                1317       142          69         45         45
+        Total                                                 4169       447 (11%)   232 (6%)   140 (3%)   122 (3%)
+
+
+
+
+162     Mining Technology        2006    VOL 115     NO 4
+                                                                     Burgess-Limerick and Steiner   Injuries in underground coal mines
+
+
+
+
+3 Combinations of activity and injury mechanism codes for injuries reported by NSW coal mines involving SCs for
+  three years to June 2005
+
+ (iii) operating of the intended control in the intended    Examples of each type of bolting machine control
+       direction while the injured employee (either the     related injury are provided in Table 7.
+       operator or another person) was in a position of        The consideration of Figs. 2–4 reveals that the most
+       danger.                                              common cause of injuries associated with LHD, SC and
+
+
+
+
+4 Combinations of activity and injury mechanism codes for injuries reported by NSW coal mines involving PT for three
+  years to June 2005
+
+
+
+
+                                                                            Mining Technology       2006     VOL 115     NO 4     163
+Burgess-Limerick and Steiner    Injuries in underground coal mines
+
+
+
+
+        PT vehicles occurred when the vehicle was driven over a                  because of the tendency to underestimate the importance
+        pot hole or other roadway abnormality. This mechanism                    of relatively uncommon, but potentially high conse-
+        typically causes the driver and/or passengers to strike                  quence events. Injury reports also underestimate the
+        their head on an internal structure resulting in neck,                   contribution of risk factors such as whole body vibra-
+        back or shoulder injuries. An injury mechanism of                        tion which have a long term cumulative contribution
+        particular concern because of the potential severity of                  to an elevated risk of injury. However, taking these
+        consequences is ‘ran into’ while driving (or travelling)                 limitations into consideration, the results of the injury
+        LHD, SC or PT (35 injuries).                                             narrative analysis suggests the following hazards as the
+                                                                                 highest priority for elimination or control:
+        Discussion                                                                    (i) handling CM cable
+        The use of the frequency of reported injuries for the                        (ii) strain while bolting
+        prioritisation of risk control strategies has limitations                   (iii) slipping off CM platform
+
+        Table 3 Cross-tabulation of activity and mechanism injury codes for all injuries associated with CMs reported during
+                three years to June 2005 by NSW underground coal mines
+
+                                           Mechanism
+
+        Activity                           Slipped           Strained      Caught between       Struck by         Other           Total
+
+        Access/egress                      14                 12            1                    0                0                27
+        Bolting                            13                 54           52                   34                0               153
+        Handling cable                      2                 96            1                    4                0               103
+        Handling vent tubes                 5                 27            4                   21                0                57
+        Handling other                     16                  9            5                    2                0                32
+        Maintenance                         6                 17            6                   20                2                51
+        Standing near                       3                  0            1                    6                1                11
+        Other                               1                  4            2                    6                0                13
+        Total                              60                219           72                   93                3               447
+
+
+        Table 4 Cross-tabulation of activity and mechanism injury codes for all injuries associated with LHD vehicles reported
+                during three years to June 2005 by NSW underground coal mines
+
+                               Mechanism
+
+        Activity               Slipped          Strained      Rough road   Ran into   Caught between        Struck by     Other      Total
+
+        Access/egress          13               11             0            0          8                     7            1           41
+        Handling                7               21             0            0         12                    10            0           58
+        Driving                 0                8            60           19          2                    10            1          100
+        Maintenance             7                7             0            0          5                     7            0           26
+        Other                   0                0             0            2          1                     3            1            7
+        Total                  27               47            60           21         31                    42                       232
+
+
+        Table 5 Cross-tabulation of activity and mechanism injury codes for all injuries associated with SCs reported during
+                three years to June 2005 by NSW underground coal mines
+
+                               Mechanism
+
+        Activity               Slipped          Strained      Rough road   Ran into   Caught between        Struck by     Other      Total
+
+        Access/egress           4                1             0           0          0                      3            1            9
+        Handling                4               10             0           0          2                      4            1           21
+        Driving                 2                8            49           6          1                     18            0           84
+        Maintenance             1                9             0           0          3                      6            0           19
+        Other                   0                0             0           1          0                      6            0            7
+        Total                  11               28            49           7          6                     37            2          140
+
+        Table 6 Cross-tabulation of activity and mechanism injury codes for all injuries associated with PT reported during
+                three years to June 2005 by NSW underground coal mines
+
+                               Mechanism
+
+        Activity               Slipped          Strained      Rough road   Ran into   Caught between        Struck by     Other      Total
+
+        Access/egress           7               12             0           0          4                     4             0           28
+        Handling                1                5             0           0          2                     0             0            8
+        Driving                 0                2             9           4          0                     0             0           15
+        Travelling in           0                1            51           3          1                     2             1           59
+        Maintenance             4                6             0           0          1                     2             0           13
+        Total                  12               26            60           7          8                     8             1          122
+
+
+
+
+164     Mining Technology           2006     VOL 115       NO 4
+                                                                                    Burgess-Limerick and Steiner   Injuries in underground coal mines
+
+
+
+
+   (iv) inadvertent or incorrect operation of bolting                    combination of flexion and lateral flexion to place drill
+        controls and operation of controls while a                       steels and bolts in the chuck, with the resulting require-
+        person is in a position of danger                                ment of relatively high shoulder torque to perform the
+    (v) hitting pot holes or other roadway abnormality                   task. Alterations to platform and/or bolting rig design to
+   (vi) collisions while driving underground vehicles.                   reduce the reach distance associated with placing drill
+                                                                         steels and bolts are justified to reduce this injury risk.
+Cable handling
+The injury narratives suggest that in the three years to                 Slipping off CM platform
+June 2005, strains occurring while handling CM cable                     Slipping off the CM platform, whether during access or
+accounted for 96 injuries in NSW coal mines. The                         egress or during operation, was the cause of 60 injuries
+severity of injuries associated with handling cable varies               in the three year period and these injuries justify atten-
+from relatively minor shoulder strains to serious back                   tion to improving access systems and giving considera-
+injuries. While the cumulative nature of most muscu-                     tion to installation of handrails. While MDG110 specifies
+loskeletal injuries implies that other manual tasks are                  handrails for platforms higher than 1.2 m, the injury
+likely to have also contributed to these injuries, there is              experience in NSW mines suggests this is insufficiently
+no doubt that the handling CM cable represents a high                    protective, and fall protection may be justified for all
+risk of injury, and this is consistent with biomechanical                CM platforms.
+analysis of the task.7,8 Engineering controls are required
+to eliminate or reduce manual cable handling. The                        Inadvertent or incorrect operation of bolting
+provision of monorails to carry CM services would                        controls and operation of controls while person
+likely reduce injuries caused by manual cable handling,                  in position of danger
+however a method of installation and retrieval of the
+                                                                         ‘Caught between’ injuries associated with roof or rib
+monorail is required which avoids introducing addi-
+                                                                         bolting were reported by NSW mines on 52 occasions in
+tional musculoskeletal injury risks. The use of LHD
+                                                                         the three years to June 2005. The resulting injuries
+mounted hydraulic cable reelers is also likely to be
+                                                                         varied in severity, but have the potential to cause
+beneficial where they can be used. Integration of cable
+                                                                         permanent disability and fatalities. The hazards asso-
+and other services with continuous haulage has been
+                                                                         ciated with inadvertent operation of controls, operation
+suggested in the context of remote control.9
+                                                                         of incorrect controls, operating controls in an incorrect
+                                                                         direction, or while a person is located in a pinch point,
+Strain while bolting                                                     have long been recognised. Improvements to guarding to
+Strains (typically of the shoulder) while bolting were                   prevent accidental control operation, standardisation of
+described as the injury mechanism in 54 injuries reports                 mining equipment controls especially drilling and
+in NSW in the three years to June 2005. These injuries                   bolting controls and the use of shape and length
+are likely a consequence of the requirement for the                      coding have been suggested on numerous occasions
+shoulder to frequently adopt a posture involving a                       over the past 40 years.11–18
+
+Table 7 Examples of control operation hazards
+Unintentional control operation (guarding)
+While using CM mounted rib bolter the steel jammed in the hole, he tried to free it with a shifter when lamp lead caught control lever
+which operated timber jack causing bruising to left hand and fracture l/5 finger.
+While removing 7’ drill steel his battery pouch caught a lever which lowered the timber jack bending the drill steel forcing his right
+middle and ring fingers in the mast causing laceration.
+Incorrect control (control layout, coding)
+While extending CM platform he pulled the diversion lever to push platform out, the rib bolter came down jamming his left foot causing
+fracture to l/5 toe.
+While operating RB01 installing roof bolts he placed his left hand on the dolly to remove it, he pulled the wrong lever jamming his left
+ring finger – crush injury.
+While roof bolting putting roof bolt to the roof he pulled the wrong lever which bought the timber jack down trapping his right arm
+between timber jack and manifold lacerating right forearm and wrist.
+While putting rib support in the drill steel stuck and pulled out of chuck as he reached back to fine tune alignment of drill rod he pulled
+the wrong leaver pushing timber jack out crushing left hand against the rib.
+While rib bolting fitting the dolly to a bolt he pulled the lever to send the timber jack out but operated the retraction ram valve squashing
+his left thumb causing bruise
+While operating rib borer guiding 6’ steel into rib hit wrong lever crushing his left hand between timber jack and bolting rig.
+Incorrect direction (direction compatibility)
+While installing roof bolt steel he went to raise timber jack pulling handle the wrong way pinning his right arm between timber jack and
+top of rig grazing his right forearm.
+While attempting to spin off rib bolt he inserted dolly into chuck he pushed the handle in the wrong direction the dolly fell out hitting and
+bruising his right big toe.
+Operation while person in position of danger (guarding, interlock)
+While rib meshing using Joy 12cm30 his left lower arm became caught in the rib bolting rig causing fracture.
+While operating Joy 12cm30 hydraulic rib bolter holding dolly directing it onto the rib bolt his right wrist was caught between chuck and
+head of bolter causing crushing injury.
+While operating roof bolter on CM 102 he jammed his right wrist between timber jacks and roof bolter head mast causing lacerations.
+While bolting using hydraulic rigs on CM he climbed upon head platform to pull mesh back when a coworker lowered a rig drill pot the
+second stage came down to his right foot causing crush injury.
+While bolting on CM his arm was resting on platform of drill rig when he attempted to move drill rig down to clear mesh he moved timber
+jack down squashing his left forearm causing laceration.
+
+
+
+
+                                                                                            Mining Technology      2006      VOL 115    NO 4     165
+Burgess-Limerick and Steiner   Injuries in underground coal mines
+
+
+
+
+           In 1972, Hedling and Folley11 noted (in the context of     operation (while still allowing access for intentional
+        CM controls) that ‘the widespread use of traditional          operation). Bolting machine controls should be stan-
+        round control knobs regardless of function being              dardised across manufacturers to an appropriate layout
+        controlled is another source of error in operation’ and       (and provide shape and length coding) to reduce the
+        proposed that ‘Each control knob is designed to               probability of operation of the wrong control. This
+        resemble (at least symbolically) the equipment it             standardisation must carefully consider direction com-
+        represents’. Similarly, Helander et al.,13 suggested in       patibility principles to reduce the probability of opera-
+        the context of bolting machines that ‘poor human              tion of controls in the wrong direction. Improvements to
+        factors principles in the design and placement of             bolting machine design are required to guard pinch
+        controls and inappropriately designed workstations            points and provide interlocks (e.g. two handed fast feed)
+        contribute to a large percentage of the reported injuries’    to reduce the probability and consequences of inten-
+        (p. 18). In particular, a lack of standardisation of          tional or unintentional control operation while the
+        controls was noted, with .25 different control sequences      operator or other person is in a hazardous location.
+        being identified, differences existing even on similar           These conclusions are consistent with a recent safety
+        machines produced by the same manufacturer. Helander          alert issued by the NSW Department of Primary
+        et al. also noted the lack of control coding, violation of    Industries19 which noted serious injuries occurring as a
+        direction stereotypes, a mixture mirror image and left/       consequence of unintentional and intentional bolting
+        right arrangements and the possibility of inadvertent         control activation and recommended that roof and rib
+        operation. Klishis et al.,14 made similar observations        bolting systems should comply ‘as far as practical’ with
+        10 years later, noting a lack of standardisation even         AS4024.1 ‘Safeguarding of machinery – general princi-
+        among machines from the same manufacturer and                 ples’. The safety alert included the following as potential
+        commenting on the potential for operating the wrong           control measures: two handed control for fast speed
+        control.                                                      operation; minimisation of pinch points; guarding to
+           In a six week period in 1994, three operators of roof      reduce inadvertent operation; shape coding; and stan-
+        bolting machines in the USA were killed. Two were             dardised control layouts. These measures were also
+        crushed between drill head and machine frame while rib        included in a draft revision of the Department’s
+        bolting, the third crushed between drill head and             Machine Design Guide 35 ‘Guideline for bolting and
+        canopy. A ‘Coal Mine Safety and Health Roof Bolting           drilling equipment in mines’ released for industry
+        Machine Committee’ was formed by Mine Safety and              comment.20 The draft included suggested knob shapes
+        Health Administration (MSHA) to investigate, and a            for the primary bolting controls (rotation, feed and
+        report was released15 (which determined the causes to be      timber jack).
+        unintentional operation of controls). The solutions              While standardisation of bolting controls is desirable,
+        proposed in this report were: two handed fast feed, drill     differences between manufacturers in current designs
+        head raise shutoff, auxiliary controls, guarding, pinch       make this a sensitive issue. There are also at least two
+        point identification, self-centring controls, hands-off       open questions regarding principles for optimal control
+        drilling, insertion/retrieval devices, standardised control   layout. One is whether control layouts on different sides
+        layouts and preoperational inspection. Other sugges-          of a machine should be mirrored and the other concerns
+        tions in this report included: ‘provide industry wide         the appropriate relationships between control and
+        accepted distinct and consistent knob shapes and              response direction.
+        relative handle lengths to identify corresponding control
+        function’ and ‘standardise machine control lever move-        Hitting pot holes or other roadway abnormality
+        ment and corresponding machine function movement’.            Drivers and passengers in vehicles in NSW underground
+        Mine Safety and Health Administration subsequently            coal mines suffered 169 injuries in the three years to June
+        called for industry comment on an advance notice of           2005 as a consequence of the vehicle encountering
+        proposed rulemaking titled ‘safety standards for the use      potholes or other roadway abnormalities. These
+        of roof bolting machines in underground mines’16              injuries highlight the importance of maintaining road-
+        however no related rule or design criteria were sub-          way standards, because control at this level is most likely
+        sequently released.                                           to be effective. Provision of vehicle suspension for SCs
+           On 10 June 1999, MSHA released a programme                 and improved seating in all vehicles20–24 has potential to
+        information bulletin17 which reported an investigation        reduce the likelihood of these acute injuries. These
+        of a fatal accident as having ‘revealed that a potential      improvements will also reduce exposure to whole body
+        hazard exists on roof bolting machines with machine           vibration which is strongly associated with the develop-
+        controls that are not protected against inadvertent           ment of back pain.25
+        operation’. This bulletin recommended mines: relocate
+        controls to protected position; guard controls; redesign      Collisions while driving underground vehicles
+        controls to prevent operation while operator in pinch         As noted earlier, the analysis of injury frequency tends
+        point; ensure proper storage of supplies and materials to     to underemphasise low frequency, high consequence and
+        prevent them falling on controls.                             events, and has the potential to oversimplify complex
+           It is clear from the injuries reported by NSW mines in     causal factors. For example, one of the narratives des-
+        the three years to June 2005 that the design short-           cribes an incident in which a LHD vehicle overturned,
+        comings previously identified in the context of bolting       with the consequence of an amputated arm. This was
+        machines also remain to some extent in the design of          coded as LHD – driving – rough road, and disappeared
+        controls on the integrated miner bolters which are            as just one of 60 other similarly coded incidents.
+        predominantly employed in Australian mines. Bolting           However this incident had a range of additional causal
+        controls require guarding to prevent inadvertent              factors, and its seriousness has resulted in the company
+
+
+
+
+166     Mining Technology       2006     VOL 115     NO 4
+                                                                          Burgess-Limerick and Steiner     Injuries in underground coal mines
+
+
+
+
+concerned sponsoring a dramatic redesign of the vehicle        C14016). The present paper was written while the first
+cab in conjunction with the manufacturer to ensure that        author was Associate National Academy of Sciences
+this risk is controlled in the future.                         Senior Research at the NIOSH, Pittsburgh Research
+   Similarly, although not a very frequent occurrence,         Laboratory (USA).
+the 21 injuries which occurred due an LHD collision
+raise concerns because of the potential consequences
+were a pedestrian to be involved, such as occurred
+                                                               References
+recently at one NSW mine.26                                     1. NOHSC: ‘National workers compensation statistics database’,
+   The probability of such events is to a considerable             2005, available at: http://nosi2.nohsc.gov.au/.
+                                                                2. R. Burgess-Limerick: Ergonomics Australia, 2005, 19, (2), 14–20.
+extent caused by the restricted visibility inherent in LHD
+                                                                3. M. G. Helander and G. S. Krohn: ‘Human factors analysis of
+and SCs. This is not a new observation. Pethick and                underground metal and nonmetal mines’, USBM report PB84-
+Mason27 described the visibility difficulties associated           158732, US Bureau of Mines, Washington DC, WA, USA, 1983.
+with the design of free steered vehicles and Simpson            4. M. G. Helander, G. S. Krohn and R. Curtin: J. Occupational
+et al.28 suggested that many underground vehicle                   Accidents, 1983, 5, 161–175.
+                                                                5. J. Bondy, H. Lipscomb, K. Guarini and J. E. Glazner: Am. J. Ind.
+collisions are at least in part a consequence of restricted
+                                                                   Med., 2005, 48, 373–380.
+driver visibility. Visibility restrictions while driving LHD    6. B. Glaser and A. Strauss: ‘The discovery of grounded theory:
+vehicles is one of the few aspects of mining equipment             strategies for qualitative research’; 1967, Chicago, IL, Aldine
+design which has been the subject of formal research.              Publishing Company.
+The research has largely been restricted to documenting         7. S. Gallagher, C. A. Hamrick, K. M. Cornelius and M. S. Redfern:
+                                                                   Occupational Ergonomics, 2001, 2, 201–213.
+the extent of the problem and providing methods for
+                                                                8. S. Gallagher, W. S. Marras, K. G. Davis and K. Kovacs:
+assessing the lack of visibility associated with current           Ergonomics, 2002, 45, 380–398.
+designs.29,30 Recommendations for LHD redesign aris-            9. G. H. Schnakenberg: Min. Eng., 1997, 49, (2), 73–77.
+ing from the research include raising the sitting position     10. NSW Department of Minerals Resources: ‘Guideline for free
+where possible and redesign of the vehicle to remove               steered vehicles’, MDG No. 1, NSW Department of Minerals
+obstructions to visibility. A prototype LHD cab which              Resources, Sydney, Australia, 1995.
+                                                               11. W. G. Hedling and J. D. Folley, Jr: ‘Standardization of continuous
+provides height adjustability has been constructed in              miner control configurations’, USBM report OFR 25-72, US
+Australia31 and would be beneficial for mines where                Bureau of Mines, Washington DC, WA, USA, 1972.
+seam height allows this advantage to be utilised.              12. R. L. Grayson, L. A. Layne, R. C. Althouse and M. J. Klishis:
+Physical separation of pedestrians and vehicles as far             Min. Eng., 1992, 44, (2), 164–166.
+as practicable, and vehicle mounted proximity sensors          13. M. G. Helander, E. J. Conway, W. Elliottand R. Curtin:
+                                                                   ‘Standardization of controls for roof bolter machines: human
+and cap lamp battery mounted emitters may also be                  factors engineering analysis’, USBM report OFR 170-82 PB83-
+beneficial in preventing potentially serious injuries.             119149, US Bureau of Mines, Washington DC, WA, USA, 1980.
+Examples of proximity detection systems include that           14. M. J. Klishis, R. C. Althouse, T. J. Stobbe, R. W. Plummer, R. L.
+developed by National Institute for Occupational Safety            Grayson, L. A. Layne and G. M. Lies: ‘Coal mine injury analysis: a
+and Health (NIOSH).32                                              model for reduction through training – accident risks during the
+                                                                   roof bolting cycle: analysis of problems and potential solutions’,
+   Extreme visibility issues also exist with SCs. These are        USBM cooperative agreements C0167023 and C0178052, USBM,
+also bidirectional vehicles in that they ‘shuttle’ coal            Washington DC, WA, USA, 1993.
+between the CM and the face and the boot end of the            15. MSHA Coal Mine Safety and Health Roof-Bolting-Machine
+conveyer belt without turning. An incompatibility                  Committee: Report of Findings, Arlington, VA, US Department
+between the steering wheel action and vehicle response             of Labor, 1994.
+                                                               16. MSHA: Federal Register, 1997, 62, (236), 64789–64790, available
+exists in the SCs employed in NSW when driving the SC              at: www.msha.gov/REGS/FEDREG/PROPOSED/1997PROP/97-
+towards the face. This is an extreme violation of a                32203.HTM (accessed 14 December 2005).
+fundamental human factors principle33 which has                17. MSHA: ‘Potential hazard to roof bolting machine operators due to
+potential to contribute to high consequence events,34              inadvertent control actuation’, Programme information bulletin
+especially when combined with restricted visibility. A             No. P99-10, MSHA, Arlington, VA, USA, 1999, available at:
+                                                                   www.msha.gov/regs/complian/PIB/1999/PIB99-10.htm (accessed 16
+different steering system should be explored.                      December 2005).
+                                                               18. T. L. Muldoon, S. Ruggieri, T. Gore and L. B. McDonald: ‘Design
+Conclusion                                                         and develop standardized controls in roof bolting machines –
+                                                                   preliminary design’, USBM report OFR 107-80, US Bureau of
+Analysis of injury narratives has suggested six high               Mines, Washington, DC, USA 1980.
+priority hazards associated with underground coal              19. NSW Department of Primary Industries: ‘Safety alert: drill rigs and
+                                                                   serious injuries’, Mine safety report No. SA05-05, NSW
+mining equipment. Potential control measures include:              Department of Primary Industries, Orange, NSW, 2005.
+monorails for CM services; hydraulic cable reelers;            20. NSW Department of Primary Industries: ‘Guideline for bolting
+handrails on CM platforms; redesign of CM platforms                and drilling equipment in mines’, Machine Design Guide No. 35,
+and bolting rigs to reduce reach distances during drilling         Draft distributed for Industry Comment, NSW Department of
+and bolting; improvements to guarding of bolting                   Primary Industries, Orange, NSW, 2005.
+                                                               21. D. Grant, D. Dayawansa and P. Curcio: Proc. Queensland Mining
+controls; standardisation and shape coding of bolting              Industry Health and Safety Conf., August 2005, Townsville,
+controls; two handed fast feed; improvements in under-             Australia, Queensland Resources Council, 149–158, available at:
+ground roadway maintenance, vehicle suspension, visi-              www.qrc.org.au.
+bility and seating; and pedestrian proximity warning           22. W. Pendlebury: ‘Shuttle car cab modification’, Queensland Mining
+devices.                                                           Industry Safety and Health Innovation Awards, Queensland
+                                                                   Resources Council, Brisbane, Australia, 2003.
+                                                               23. A. G. Mayton, S. Gallagher and R. Merkel: ‘Advances in
+Acknowledgements                                                   occupational ergonomics and safety II’, 177–180; 1997, Burke,
+                                                                   VA, IOS Press.
+The research reported here was funded by the Australian        24. A. G. Mayton, R. Merkel and S. Gallagher: Min. Eng., 1999, 51,
+Coal Association Research Programme (project                       (12), 52–56.
+
+
+
+
+                                                                                   Mining Technology       2006      VOL 115     NO 4    167
+Burgess-Limerick and Steiner   Injuries in underground coal mines
+
+
+
+        25. B. McPhee: ‘Bad vibrations: a handbook on whole body vibration    29. T. Eger, A. Salmoni and R. Whissell: Appl. Ergonomics, 2004, 35,
+            exposure in mining’; 2001, Sydney, NSW Joint Coal Board Health        93–103.
+            and Safety Trust.                                                 30. J. Tyson: ‘To see or not to see … that is the question! Designing to
+        26. A. Harvey: ‘Development technician struck by Eimco’, Beltana          maximize operator visibility in LHD equipment’, Ergonomics
+            Highwall Mining Pty Ltd, Sydney, Australia, 2005.                     Australia On-Line, available at: www.uq.edu.au/eaol/oct97/tyson/
+        27. A. J. Pethick and S. Mason: ‘Ergonomic principles in the design       tyson.html.
+            of underground free-steered vehicles’, Research report            31. P. Gill: Proc. XCN Health and Safety Forum, Pokolbin, NSW,
+            TM/85/5, Institute of Occupational Medicine, Edinburgh, UK,           November 2005, XCN.
+            1985.                                                             32. W. H. Schiffbauer: Proc. SME Annual Meet., Denver, CO, USA,
+        28. G. C. Simpson, A. M. Rushworth, F. H. Von Glehn and R. H.             February 2001, SME, 1–8.
+            Lomas: ‘Investigation of the causes of transport and              33. C. J. Worringham and D. B. Beringer: Ergonomics, 1998, 41, 864–
+            tramming accidents on mines other than coal, gold and                 880.
+            platinum’, SIMRAC project report: OTH 202, Vol. 1, Safety in      34. C. Zupanc, R. Burgess-Limerick and G. Wallis: Proc. 31st Biennial
+            Mines Research Advisory Committee, Johannesburg, South Africa,        Int. Conf. of Safety in Mines Research Institutes, (ed. S. Bell et al.),
+            1996.                                                                 129–132; 2005, Brisbane, Australia.
+
+
+
+
+168     Mining Technology       2006     VOL 115     NO 4
+
