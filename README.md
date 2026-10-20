@@ -109,3 +109,68 @@ I don't know. The context provided doesn't include information about the warrant
 
 (Real transcript — not fabricated. The second example exists specifically to
 show the retry-then-fallback path, not just the happy path.)
+
+## Design decisions
+
+- **Cosine similarity over Euclidean distance** — `nomic-embed-text` produces
+  embeddings where *direction* carries semantic meaning more reliably than
+  magnitude, so cosine similarity (which ignores magnitude) is the correct
+  metric here, not an arbitrary choice.
+- **Sentence-level chunking** — keeps each chunk's embedding representing one
+  coherent idea, which keeps retrieval precision high for short factual
+  documents, at the cost of losing cross-sentence context (see Limitations).
+- **A second LLM call to judge retrieval quality** — most minimal RAG
+  implementations assume the top-k retrieved chunks are always good enough to
+  answer from. This project doesn't assume that: a judge call explicitly
+  checks sufficiency before generation, and a failed check triggers a
+  rewritten query rather than silently answering from weak context.
+- **Explicit fallback over hallucination** — when retries are exhausted, the
+  system says "I don't know" rather than generating an answer from
+  insufficient context. This is a deliberate trade-off: fewer confident-but-
+  wrong answers, at the cost of sometimes refusing a question a better
+  retrieval system could have answered.
+
+## Known limitations (honest, not hidden)
+
+- Sentence chunking is regex-based (`re.split` on periods followed by
+  whitespace) — this avoids some abbreviation false-splits (e.g. most uses of
+  "Inc.") but is not a robust sentence tokenizer and will still mis-split some
+  text.
+- No persistence — embeddings are recomputed from scratch on every run;
+  nothing is cached to disk.
+- Single-chunk-per-sentence granularity means no configurable chunk size or
+  overlap — long documents produce many small chunks rather than
+  context-rich medium-sized ones.
+- The agent's rewrite-and-retry loop can only rephrase a query — it cannot
+  retrieve facts that were never in the knowledge base to begin with.
+- `max_attempts` (the retry limit) is hardcoded to 2 in `main.py` rather than
+  configurable.
+- PDF-to-text extraction of charts and figures in the source documents
+  sometimes produces garbled, non-sentence text fragments. These were
+  manually reviewed and removed where found, but perfect extraction wasn't
+  the goal of this project — some residual noise may remain in
+  less-reviewed sections of the longer documents.
+- No automated tests, no CI, and no quantitative evaluation of retrieval
+  quality yet (in progress — see Roadmap).
+
+## Roadmap
+
+- [x] Domain-relevant public knowledge base (mining / heavy-equipment
+      documentation)
+- [ ] Persist embeddings and chunks to disk instead of recomputing every run
+- [ ] Token-aware chunking with overlap, benchmarked against the current
+      sentence-based approach
+- [ ] A 25–30 question evaluation set with known source chunks, measuring
+      hit rate / recall@k and MRR, naive vs. improved chunking, and how often
+      the rewrite-and-retry loop actually changes the outcome
+- [ ] pytest unit tests (chunking, cosine similarity, vector store) with
+      Ollama calls mocked
+- [ ] GitHub Actions CI (lint + tests on every push)
+- [ ] Config file replacing hardcoded values; type hints; packaging cleanup
+- [ ] Terminal demo GIF
+
+## Requirements
+
+- Python 3.9+
+- [Ollama](https://ollama.com), with `qwen2:7b` and `nomic-embed-text` pulled
+- Tested on macOS (MacBook Air)

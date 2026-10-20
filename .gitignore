@@ -2,4 +2,5 @@
 .env
 __pycache__/
 *.pyc
-.DS_Storedocs_raw/
+.DS_Store
+docs_raw/
