@@ -1,4 +1,4 @@
-from chunking import load_documents, chunk_text
+from chunking import load_documents, chunk_text_improved
 from embedding import embed_text
 from vector_store import search
 from generate import build_prompt
@@ -6,23 +6,17 @@ from agent import is_context_sufficient, rewrite_query
 from persistence import load_cache, save_cache
 import ollama
 
+CHUNKING_VERSION = "improved-v1-tokens200-overlap40"
 
 def load_knowledge_base(folder_path):
     """
     Load the knowledge base, using a cached, pre-embedded version from disk
-    if one exists and the docs/ folder hasn't changed since it was built.
-    Otherwise, chunk and embed every document from scratch and save a fresh
-    cache for next time.
-
-    Args:
-        folder_path (str): path to the folder containing .txt files
-
-    Returns:
-        list[dict]: chunks, each with 'source', 'text', and 'embedding'
+    if one exists, the docs/ folder hasn't changed, AND the chunking
+    strategy hasn't changed since the cache was built.
     """
-    cached_chunks = load_cache(folder_path)
+    cached_chunks = load_cache(folder_path, extra_tag=CHUNKING_VERSION)
     if cached_chunks is not None:
-        print("Loaded knowledge base from cache (docs/ unchanged since last run).")
+        print("Loaded knowledge base from cache (docs/ and chunking strategy unchanged).")
         return cached_chunks
 
     print("No valid cache found — embedding all documents from scratch...")
@@ -30,13 +24,13 @@ def load_knowledge_base(folder_path):
 
     all_chunks = []
     for filename, text in docs.items():
-        for sentence in chunk_text(text):
-            all_chunks.append({"source": filename, "text": sentence})
+        for chunk in chunk_text_improved(text):
+            all_chunks.append({"source": filename, "text": chunk})
 
     for chunk in all_chunks:
         chunk['embedding'] = embed_text(chunk['text'])
 
-    save_cache(all_chunks, folder_path)
+    save_cache(all_chunks, folder_path, extra_tag=CHUNKING_VERSION)
     print(f"Cached {len(all_chunks)} chunks to disk for next time.")
 
     return all_chunks

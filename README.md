@@ -39,9 +39,13 @@ flowchart TD
 
 ## How it works
 
-1. **Chunking** (`chunking.py`) — splits `.txt` documents into sentence-level
-   chunks using a regex that splits on periods followed by whitespace, so
-   most abbreviation-period false splits are avoided.
+1. **Chunking** (`chunking.py`) — two strategies are implemented and kept
+   side by side: `chunk_text_naive()` (the original period-based regex
+   split) and `chunk_text_improved()` (fixed ~200-token chunks with 40-token
+   overlap, used by default). The improved version exists specifically
+   because the naive one produced ~16,700 chunks averaging ~54 characters
+   each on this project's real documents — far too short to carry useful
+   context.
 2. **Embedding** (`embedding.py`) — converts each chunk into a 768-dimension
    vector via Ollama's `nomic-embed-text` model.
 3. **Vector store** (`vector_store.py`) — cosine similarity search over
@@ -129,13 +133,23 @@ show the retry-then-fallback path, not just the happy path.)
   insufficient context. This is a deliberate trade-off: fewer confident-but-
   wrong answers, at the cost of sometimes refusing a question a better
   retrieval system could have answered.
+- **Token-based chunking with overlap over sentence-splitting** — naive
+  period-splitting on real documents produced mostly tiny, low-context
+  fragments (numbered lists and table noise masquerading as "sentences").
+  Switching to fixed ~200-token chunks with 40-token overlap visibly
+  changed real answers on the same test questions: one question that
+  previously got "I don't know" under naive chunking returned a concrete,
+  5-point grounded answer under improved chunking, on the first retrieval
+  attempt instead of needing a retry. A formal, quantified comparison
+  across a full evaluation set is still pending (see Roadmap).
 
 ## Known limitations (honest, not hidden)
 
-- Sentence chunking is regex-based (`re.split` on periods followed by
-  whitespace) — this avoids some abbreviation false-splits (e.g. most uses of
-  "Inc.") but is not a robust sentence tokenizer and will still mis-split some
-  text.
+- The naive chunking function still exists (`chunk_text_naive()`) and
+  produces very short, low-context fragments on real documents — it's kept
+  only for comparison against the improved chunker, not used by default.
+- Chunk size (200 tokens) and overlap (40 tokens) were chosen as reasonable
+  starting values, not tuned against a formal evaluation yet.
 - Single-chunk-per-sentence granularity means no configurable chunk size or
   overlap — long documents produce many small chunks rather than
   context-rich medium-sized ones.
@@ -156,11 +170,11 @@ show the retry-then-fallback path, not just the happy path.)
 - [x] Domain-relevant public knowledge base (mining / heavy-equipment
       documentation)
 - [x] Persist embeddings and chunks to disk instead of recomputing every run
-- [ ] Token-aware chunking with overlap, benchmarked against the current
-      sentence-based approach
-- [ ] A 25–30 question evaluation set with known source chunks, measuring
-      hit rate / recall@k and MRR, naive vs. improved chunking, and how often
-      the rewrite-and-retry loop actually changes the outcome
+- [x] Token-aware chunking with overlap, implemented alongside the original
+      naive chunker for comparison
+- [ ] Formal 25–30 question evaluation set with known source chunks,
+      measuring hit rate / recall@k and MRR, naive vs. improved chunking,
+      and how often the rewrite-and-retry loop actually changes the outcome
 - [ ] pytest unit tests (chunking, cosine similarity, vector store) with
       Ollama calls mocked
 - [ ] GitHub Actions CI (lint + tests on every push)

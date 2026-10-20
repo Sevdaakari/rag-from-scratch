@@ -1,5 +1,5 @@
 import ollama
-from chunking import load_documents, chunk_text
+from chunking import load_documents, chunk_text_improved
 from embedding import embed_text
 from vector_store import search
 

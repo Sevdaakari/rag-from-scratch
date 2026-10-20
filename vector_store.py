@@ -1,5 +1,5 @@
 import numpy as np
-from chunking import load_documents, chunk_text
+from chunking import load_documents, chunk_text_improved
 from embedding import embed_text
 
 def cosine_similarity(vec_a, vec_b):
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     all_chunks = []
     for filename, text in docs.items():
-        for sentence in chunk_text(text):
+        for sentence in chunk_text_improved(text):
             all_chunks.append({"source": filename, "text": sentence})
 
     for chunk in all_chunks:

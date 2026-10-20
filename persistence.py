@@ -5,15 +5,15 @@ import hashlib
 CACHE_PATH = "knowledge_base_cache.json"
 
 
-def _docs_fingerprint(folder_path):
+def _docs_fingerprint(folder_path, extra_tag=""):
     """
-    Compute a fingerprint of the docs/ folder's current contents, so we can
-    tell whether a cached knowledge base is still valid or needs recomputing.
-
-    Based on each file's name, size, and last-modified time -- cheap to
-    compute, and it changes whenever a document is added, removed, or edited.
+    Compute a fingerprint of the docs/ folder's current contents PLUS an
+    optional extra_tag (e.g. which chunking strategy was used), so the
+    cache is invalidated both when documents change AND when the chunking
+    method changes -- otherwise switching chunkers would silently keep
+    serving chunks built with the old one.
     """
-    fingerprint_parts = []
+    fingerprint_parts = [extra_tag]
     for filename in sorted(os.listdir(folder_path)):
         full_path = os.path.join(folder_path, filename)
         stat = os.stat(full_path)
@@ -22,37 +22,26 @@ def _docs_fingerprint(folder_path):
     return hashlib.sha256(combined.encode("utf-8")).hexdigest()
 
 
-def save_cache(all_chunks, docs_folder, cache_path=CACHE_PATH):
+def save_cache(all_chunks, docs_folder, extra_tag="", cache_path=CACHE_PATH):
     """
     Save chunks (with their embeddings) to a JSON cache file, tagged with
-    a fingerprint of the docs/ folder so a later run can tell whether the
-    cache is still valid.
-
-    Args:
-        all_chunks (list[dict]): chunks with 'source', 'text', 'embedding'
-        docs_folder (str): path to the docs/ folder this cache was built from
-        cache_path (str): where to write the cache file
+    a fingerprint of the docs/ folder AND extra_tag.
     """
     data = {
-        "fingerprint": _docs_fingerprint(docs_folder),
+        "fingerprint": _docs_fingerprint(docs_folder, extra_tag),
         "chunks": all_chunks,
     }
     with open(cache_path, "w") as f:
         json.dump(data, f)
 
 
-def load_cache(docs_folder, cache_path=CACHE_PATH):
+def load_cache(docs_folder, extra_tag="", cache_path=CACHE_PATH):
     """
-    Load cached chunks+embeddings if the cache file exists AND the docs/
-    folder hasn't changed since the cache was built.
-
-    Args:
-        docs_folder (str): path to the docs/ folder to validate against
-        cache_path (str): where to look for the cache file
+    Load cached chunks+embeddings if the cache file exists AND both the
+    docs/ folder and extra_tag match what the cache was built with.
 
     Returns:
-        list[dict] | None: cached chunks if the cache is valid, otherwise
-        None (meaning the caller should recompute from scratch).
+        list[dict] | None: cached chunks if valid, otherwise None.
     """
     if not os.path.exists(cache_path):
         return None
@@ -60,8 +49,8 @@ def load_cache(docs_folder, cache_path=CACHE_PATH):
     with open(cache_path, "r") as f:
         data = json.load(f)
 
-    current_fingerprint = _docs_fingerprint(docs_folder)
+    current_fingerprint = _docs_fingerprint(docs_folder, extra_tag)
     if data.get("fingerprint") != current_fingerprint:
-        return None  # docs/ changed since the cache was built
+        return None
 
     return data["chunks"]
