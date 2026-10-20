@@ -136,8 +136,6 @@ show the retry-then-fallback path, not just the happy path.)
   whitespace) — this avoids some abbreviation false-splits (e.g. most uses of
   "Inc.") but is not a robust sentence tokenizer and will still mis-split some
   text.
-- No persistence — embeddings are recomputed from scratch on every run;
-  nothing is cached to disk.
 - Single-chunk-per-sentence granularity means no configurable chunk size or
   overlap — long documents produce many small chunks rather than
   context-rich medium-sized ones.
@@ -157,7 +155,7 @@ show the retry-then-fallback path, not just the happy path.)
 
 - [x] Domain-relevant public knowledge base (mining / heavy-equipment
       documentation)
-- [ ] Persist embeddings and chunks to disk instead of recomputing every run
+- [x] Persist embeddings and chunks to disk instead of recomputing every run
 - [ ] Token-aware chunking with overlap, benchmarked against the current
       sentence-based approach
 - [ ] A 25–30 question evaluation set with known source chunks, measuring

@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .DS_Store
 docs_raw/
+knowledge_base_cache.json

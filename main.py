@@ -3,11 +3,16 @@ from embedding import embed_text
 from vector_store import search
 from generate import build_prompt
 from agent import is_context_sufficient, rewrite_query
+from persistence import load_cache, save_cache
 import ollama
+
 
 def load_knowledge_base(folder_path):
     """
-    Load, chunk, and embed every document in the given folder.
+    Load the knowledge base, using a cached, pre-embedded version from disk
+    if one exists and the docs/ folder hasn't changed since it was built.
+    Otherwise, chunk and embed every document from scratch and save a fresh
+    cache for next time.
 
     Args:
         folder_path (str): path to the folder containing .txt files
@@ -15,6 +20,12 @@ def load_knowledge_base(folder_path):
     Returns:
         list[dict]: chunks, each with 'source', 'text', and 'embedding'
     """
+    cached_chunks = load_cache(folder_path)
+    if cached_chunks is not None:
+        print("Loaded knowledge base from cache (docs/ unchanged since last run).")
+        return cached_chunks
+
+    print("No valid cache found — embedding all documents from scratch...")
     docs = load_documents(folder_path)
 
     all_chunks = []
@@ -24,6 +35,9 @@ def load_knowledge_base(folder_path):
 
     for chunk in all_chunks:
         chunk['embedding'] = embed_text(chunk['text'])
+
+    save_cache(all_chunks, folder_path)
+    print(f"Cached {len(all_chunks)} chunks to disk for next time.")
 
     return all_chunks
 
