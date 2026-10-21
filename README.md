@@ -97,22 +97,26 @@ python3 main.py
 
 ```
 Loading knowledge base...
-Ready — 13 chunks loaded.
+No valid cache found — embedding all documents from scratch...
+Cached 1024 chunks to disk for next time.
+Ready — 1024 chunks loaded.
 
-Ask a question (or 'quit'): How often should I change the oil on a Caterpillar excavator?
-  [attempt 1] query: 'How often should I change the oil on a Caterpillar excavator?' -> sufficient: True
+Ask a question (or 'quit'): What are the main causes of injuries at haulagetruck dump sites?
+  [attempt 1] query: 'What are the main causes of injuries at haulage truckdump sites?' -> sufficient: False
+  [attempt 2] query: 'What factors contribute to serious injuries involvinghaulage trucks at dump sites during the period from 1988 to 1997, as reported by the Mine Safety and Health Administration (MSHA)?' -> sufficient: True
 
-Every 500 operating hours.
+The main causes of injuries at haulage truck dump sites are related to the operations and activities involving trucks at these sites. Specifically, thecontext highlights that these injuries are characterized by a high likelihood of resulting in death or significant amounts of lost time compared to most other surface mine injuries. This indicates that the nature of truck operations at dump sites poses a significant safety concern.
 
-Ask a question (or 'quit'): What's the warranty period on an Atlas Copco drill rig?
-  [attempt 1] query: 'What's the warranty period on an Atlas Copco drill rig?' -> sufficient: False
-  [attempt 2] query: 'What is the warranty duration for an Atlas Copco drill rig?' -> sufficient: False
 
-I don't know. The context provided doesn't include information about the warranty period on an Atlas Copco drill rig.
+Ask a question (or 'quit'): What is the average purchase price of a new mining haul truck?
+  [attempt 1] query: 'What is the average purchase price of a new mining haul truck?' -> sufficient: False
+  [attempt 2] query: 'What is the average purchase price for a new off-highway ore haulage truck in the context of mining operations?' -> sufficient: False
+
+I don't know.
+
 ```
 
-(Real transcript — not fabricated. The second example exists specifically to
-show the retry-then-fallback path, not just the happy path.)
+(Real transcript — not fabricated. The second example exists specifically to show the retry-then-fallback path, not just the happy path.)
 
 ## Design decisions
 
