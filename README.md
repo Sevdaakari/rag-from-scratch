@@ -124,9 +124,6 @@ I don't know.
   embeddings where *direction* carries semantic meaning more reliably than
   magnitude, so cosine similarity (which ignores magnitude) is the correct
   metric here, not an arbitrary choice.
-- **Sentence-level chunking** — keeps each chunk's embedding representing one
-  coherent idea, which keeps retrieval precision high for short factual
-  documents, at the cost of losing cross-sentence context (see Limitations).
 - **A second LLM call to judge retrieval quality** — most minimal RAG
   implementations assume the top-k retrieved chunks are always good enough to
   answer from. This project doesn't assume that: a judge call explicitly
@@ -154,9 +151,6 @@ I don't know.
   only for comparison against the improved chunker, not used by default.
 - Chunk size (200 tokens) and overlap (40 tokens) were chosen as reasonable
   starting values, not tuned against a formal evaluation yet.
-- Single-chunk-per-sentence granularity means no configurable chunk size or
-  overlap — long documents produce many small chunks rather than
-  context-rich medium-sized ones.
 - The agent's rewrite-and-retry loop can only rephrase a query — it cannot
   retrieve facts that were never in the knowledge base to begin with.
 - `max_attempts` (the retry limit) is hardcoded to 2 in `main.py` rather than
