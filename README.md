@@ -24,17 +24,31 @@ good enough.
 
 ```mermaid
 flowchart TD
-    A[".txt documents"] --> B["Chunking<br/>(chunking.py)"]
-    B --> C["Embedding<br/>nomic-embed-text<br/>(embedding.py)"]
-    C --> D["Vector store<br/>cosine similarity<br/>(vector_store.py)"]
-    E["User query"] --> F["Embed query"]
-    F --> D
-    D --> G{"Agent: is retrieved<br/>context sufficient?<br/>(agent.py)"}
-    G -- "no, retries left" --> H["Rewrite query"]
-    H --> F
-    G -- "yes" --> I["Build grounded prompt<br/>(generate.py)"]
-    G -- "no, retries exhausted" --> J["Fall back:<br/>'I don't know'"]
-    I --> K["qwen2:7b generates answer"]
+    subgraph ING["Ingestion (one-time, cached)"]
+        A[".txt documents in docs/"] --> B{"Valid cache for current<br/>docs/ + chunking version?<br/>(persistence.py)"}
+        B -- "yes" --> Z["Load chunks + embeddings<br/>from disk cache"]
+        B -- "no" --> C["Chunking<br/>chunk_text_improved() by default<br/>chunk_text_naive() for comparison<br/>(chunking.py)"]
+        C --> D["Embedding<br/>nomic-embed-text<br/>(embedding.py)"]
+        D --> E["Save to disk cache<br/>(persistence.py)"]
+        E --> F["Knowledge base:<br/>chunks + embeddings in memory"]
+        Z --> F
+    end
+
+    subgraph QRY["Per-question runtime (max 2 attempts)"]
+        Q["User query"] --> QE1["Embed query"]
+        QE1 --> S1["Attempt 1: cosine similarity<br/>search, top-k (vector_store.py)"]
+        F --> S1
+        S1 --> J1{"Agent: is context<br/>sufficient? (agent.py)"}
+        J1 -- "yes" --> GP["Build grounded prompt<br/>(generate.py)"]
+        J1 -- "no" --> RW["Rewrite query<br/>(agent.py)"]
+        RW --> QE2["Embed rewritten query"]
+        QE2 --> S2["Attempt 2: cosine similarity<br/>search, top-k"]
+        F --> S2
+        S2 --> J2{"Agent: is context<br/>sufficient, final try?"}
+        J2 -- "yes" --> GP
+        J2 -- "no" --> IDK["Fall back:<br/>'I don't know'"]
+        GP --> ANS["qwen2:7b generates answer"]
+    end
 ```
 
 ## How it works
